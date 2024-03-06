@@ -40,6 +40,7 @@ if not selected_columns:
     st.stop()
 else:
     # Continue with your data quality checks on the selected columns
+    original_data = read_data
     read_data = read_data[selected_columns]
 
 # Dataset Shape
@@ -80,34 +81,46 @@ if st.button("Check for Completeness Ratio",key=3):
         st.error('Poor Data Quality due to low completeness ratio : less than 80 perecent !')
         st.text('Completeness is defined as the ratio of non-missing values to total records in dataset.')
 
+# Function to flag outliers using IQR
+def flag_outliers_iqr(group):
+    q1 = group['Value'].quantile(0.25)
+    q3 = group['Value'].quantile(0.75)
+    iqr = q3 - q1
+    lower_bound = q1 - 1.5 * iqr
+    upper_bound = q3 + 1.5 * iqr
+    group['possible_outlier'] = ['possible' if (x < lower_bound or x > upper_bound) else 'no' for x in group['Value']]
+    return group
 
-# Outlier Check
+# Adjusted Outlier Check for Facility Level using IQR
+if st.button("Check for Outliers by Facility", key="facility_outliers_iqr"):
+    # Convert selected data to long format for outlier analysis
+    long_df = pd.melt(read_data, id_vars= ['organisationunitname'], var_name='Metric', value_name='Value')
 
-if st.button("Check for Outliers", key=2):
-    # Calculate z-scores
-    z_scores = np.abs(stats.zscore(read_data[selected_columns].select_dtypes(include=[np.number]), nan_policy='omit'))
     
-    # Define a threshold
-    threshold = 3
+    # Apply the outlier detection and flagging, grouped by facility and Metric
+    flagged_df = long_df.groupby(['organisationunitname', 'Metric'], as_index=False).apply(flag_outliers_iqr)
     
-    # Identify outliers
-    outlier_positions = np.where(z_scores > threshold)
-    outliers = read_data.iloc[outlier_positions[0]]
-    csv = read_data.to_csv(index=False).encode('utf-8')
+    # Filter to obtain only the rows flagged as possible outliers
+    outliers_df = flagged_df[flagged_df['possible_outlier'] == 'possible']
 
-    if not outliers.empty:
-        st.warning(f"Found outliers in your dataset. Here are some of them:")
-        st.dataframe(outliers)  # Show a few outliers
+    outliers_df = pd.pivot_table(outliers_df,index="organisationunitname", columns='Metric', values='Value')
+    final_outliers = pd.merge(outliers_df,read_data , how='left' )
+    
 
+    if not outliers_df.empty:
+        st.warning("Found outliers in your dataset, grouped by facility. Here are some of them:")
+        st.dataframe(outliers_df.head())  # Show a preview of outliers
+
+        # Optionally, provide a download button for the outlier data
+        csv = outliers_df.to_csv(index=False).encode('utf-8')
         st.download_button(
-            label= "Download Data as CSV",
-            data = csv,
-            file_name= "Potential_Outliers.csv"
+            label="Download Flagged Outliers by Facility as CSV",
+            data=csv,
+            file_name="flagged_outliers_by_facility.csv",
+            mime='text/csv',
         )
     else:
-        st.success("No significant outliers found in the selected columns.")
-
-
+        st.success("No significant outliers found in the selected columns by facility using IQR.")
 st.markdown('---')
 
 st.subheader('> Thank you for using the dataset quality checker.')
