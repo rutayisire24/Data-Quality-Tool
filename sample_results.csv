@@ -1,0 +1,3781 @@
+periodname,organisationunitname,105-EP01c. Malaria Confirmed (B/s and RDT Positive),outlier
+2023-03-01,5th Military Division Health Centre IV,114.0,True
+2023-04-01,5th Military Division Health Centre IV,178.0,False
+2023-05-01,5th Military Division Health Centre IV,268.0,False
+2023-06-01,5th Military Division Health Centre IV,328.0,False
+2023-07-01,5th Military Division Health Centre IV,225.0,False
+2023-08-01,5th Military Division Health Centre IV,399.0,False
+2023-09-01,5th Military Division Health Centre IV,387.0,False
+2023-10-01,5th Military Division Health Centre IV,314.0,False
+2023-11-01,5th Military Division Health Centre IV,410.0,False
+2023-12-01,5th Military Division Health Centre IV,462.0,False
+2024-01-01,5th Military Division Health Centre IV,497.0,True
+2024-02-01,5th Military Division Health Centre IV,283.0,False
+2023-03-01,AAR Gulu Clinic,101.44444444444444,False
+2023-04-01,AAR Gulu Clinic,58.0,True
+2023-05-01,AAR Gulu Clinic,151.0,True
+2023-06-01,AAR Gulu Clinic,107.0,False
+2023-07-01,AAR Gulu Clinic,96.0,False
+2023-08-01,AAR Gulu Clinic,87.0,False
+2023-09-01,AAR Gulu Clinic,92.0,False
+2023-10-01,AAR Gulu Clinic,115.0,False
+2023-11-01,AAR Gulu Clinic,101.44444444444444,False
+2023-12-01,AAR Gulu Clinic,129.0,False
+2024-01-01,AAR Gulu Clinic,101.44444444444444,False
+2024-02-01,AAR Gulu Clinic,78.0,False
+2023-03-01,Abilonino Health Centre II,173.0,False
+2023-04-01,Abilonino Health Centre II,91.0,True
+2023-05-01,Abilonino Health Centre II,204.0,False
+2023-06-01,Abilonino Health Centre II,325.0,False
+2023-07-01,Abilonino Health Centre II,566.0,False
+2023-08-01,Abilonino Health Centre II,493.0,False
+2023-09-01,Abilonino Health Centre II,630.0,False
+2023-10-01,Abilonino Health Centre II,732.0,True
+2023-11-01,Abilonino Health Centre II,404.0,False
+2023-12-01,Abilonino Health Centre II,457.0,False
+2024-01-01,Abilonino Health Centre II,281.0,False
+2024-02-01,Abilonino Health Centre II,396.0,False
+2023-03-01,Abwoch Health Centre III,176.0,True
+2023-04-01,Abwoch Health Centre III,234.0,False
+2023-05-01,Abwoch Health Centre III,516.0,False
+2023-06-01,Abwoch Health Centre III,403.0,False
+2023-07-01,Abwoch Health Centre III,472.0,False
+2023-08-01,Abwoch Health Centre III,315.0,False
+2023-09-01,Abwoch Health Centre III,444.0,False
+2023-10-01,Abwoch Health Centre III,389.0,False
+2023-11-01,Abwoch Health Centre III,574.0,False
+2023-12-01,Abwoch Health Centre III,616.0,True
+2024-01-01,Abwoch Health Centre III,211.0,False
+2024-02-01,Abwoch Health Centre III,395.45454545454544,False
+2023-03-01,Acet Health Centre III,402.0,False
+2023-04-01,Acet Health Centre III,537.0,False
+2023-05-01,Acet Health Centre III,600.0,False
+2023-06-01,Acet Health Centre III,784.0,False
+2023-07-01,Acet Health Centre III,941.0,False
+2023-08-01,Acet Health Centre III,973.0,True
+2023-09-01,Acet Health Centre III,307.0,True
+2023-10-01,Acet Health Centre III,506.0,False
+2023-11-01,Acet Health Centre III,893.0,False
+2023-12-01,Acet Health Centre III,497.0,False
+2024-01-01,Acet Health Centre III,378.0,False
+2024-02-01,Acet Health Centre III,619.8181818181819,False
+2023-03-01,Acholi-Bur Health Centre III,355.0,False
+2023-04-01,Acholi-Bur Health Centre III,457.0,False
+2023-05-01,Acholi-Bur Health Centre III,838.0,False
+2023-06-01,Acholi-Bur Health Centre III,664.0,False
+2023-07-01,Acholi-Bur Health Centre III,776.0,False
+2023-08-01,Acholi-Bur Health Centre III,1255.0,True
+2023-09-01,Acholi-Bur Health Centre III,997.0,False
+2023-10-01,Acholi-Bur Health Centre III,754.0,False
+2023-11-01,Acholi-Bur Health Centre III,956.0,False
+2023-12-01,Acholi-Bur Health Centre III,640.0,False
+2024-01-01,Acholi-Bur Health Centre III,454.0,False
+2024-02-01,Acholi-Bur Health Centre III,125.0,True
+2023-03-01,Acholpii Health Centre III,449.0,False
+2023-04-01,Acholpii Health Centre III,527.0,False
+2023-05-01,Acholpii Health Centre III,731.0,False
+2023-06-01,Acholpii Health Centre III,989.0,False
+2023-07-01,Acholpii Health Centre III,609.0,False
+2023-08-01,Acholpii Health Centre III,1092.0,False
+2023-09-01,Acholpii Health Centre III,494.0,False
+2023-10-01,Acholpii Health Centre III,1296.0,True
+2023-11-01,Acholpii Health Centre III,575.0,False
+2023-12-01,Acholpii Health Centre III,429.0,False
+2024-01-01,Acholpii Health Centre III,336.0,True
+2024-02-01,Acholpii Health Centre III,684.2727272727273,False
+2023-03-01,Acuru Health Centre II,265.0,False
+2023-04-01,Acuru Health Centre II,203.0,False
+2023-05-01,Acuru Health Centre II,540.0,False
+2023-06-01,Acuru Health Centre II,715.0,False
+2023-07-01,Acuru Health Centre II,744.0,False
+2023-08-01,Acuru Health Centre II,870.0,True
+2023-09-01,Acuru Health Centre II,459.0,False
+2023-10-01,Acuru Health Centre II,183.0,False
+2023-11-01,Acuru Health Centre II,641.0,False
+2023-12-01,Acuru Health Centre II,130.0,False
+2024-01-01,Acuru Health Centre II,86.0,True
+2024-02-01,Acuru Health Centre II,439.6363636363636,False
+2023-03-01,Adilang Health Centre III,299.0,False
+2023-04-01,Adilang Health Centre III,207.0,False
+2023-05-01,Adilang Health Centre III,751.0,False
+2023-06-01,Adilang Health Centre III,1180.0,False
+2023-07-01,Adilang Health Centre III,1464.0,True
+2023-08-01,Adilang Health Centre III,1251.0,False
+2023-09-01,Adilang Health Centre III,1340.0,False
+2023-10-01,Adilang Health Centre III,813.0,False
+2023-11-01,Adilang Health Centre III,1002.0,False
+2023-12-01,Adilang Health Centre III,430.0,False
+2024-01-01,Adilang Health Centre III,181.0,True
+2024-02-01,Adilang Health Centre III,810.7272727272727,False
+2023-03-01,Agonga Karine Community Health Centre II,66.0,True
+2023-04-01,Agonga Karine Community Health Centre II,86.0,False
+2023-05-01,Agonga Karine Community Health Centre II,140.0,True
+2023-06-01,Agonga Karine Community Health Centre II,94.0,False
+2023-07-01,Agonga Karine Community Health Centre II,108.0,False
+2023-08-01,Agonga Karine Community Health Centre II,70.0,False
+2023-09-01,Agonga Karine Community Health Centre II,79.0,False
+2023-10-01,Agonga Karine Community Health Centre II,98.0,False
+2023-11-01,Agonga Karine Community Health Centre II,98.0,False
+2023-12-01,Agonga Karine Community Health Centre II,120.0,False
+2024-01-01,Agonga Karine Community Health Centre II,90.0,False
+2024-02-01,Agonga Karine Community Health Centre II,95.36363636363636,False
+2023-03-01,Agoro Health Centre III,377.0,True
+2023-04-01,Agoro Health Centre III,379.0,False
+2023-05-01,Agoro Health Centre III,936.0,False
+2023-06-01,Agoro Health Centre III,1673.0,True
+2023-07-01,Agoro Health Centre III,1341.0,False
+2023-08-01,Agoro Health Centre III,1430.0,False
+2023-09-01,Agoro Health Centre III,837.0,False
+2023-10-01,Agoro Health Centre III,1406.0,False
+2023-11-01,Agoro Health Centre III,1133.0,False
+2023-12-01,Agoro Health Centre III,728.0,False
+2024-01-01,Agoro Health Centre III,851.0,False
+2024-02-01,Agoro Health Centre III,1008.2727272727273,False
+2023-03-01,Akilok Health Centre II,85.0,False
+2023-04-01,Akilok Health Centre II,62.0,True
+2023-05-01,Akilok Health Centre II,278.0,False
+2023-06-01,Akilok Health Centre II,660.0,True
+2023-07-01,Akilok Health Centre II,345.0,False
+2023-08-01,Akilok Health Centre II,562.0,False
+2023-09-01,Akilok Health Centre II,516.0,False
+2023-10-01,Akilok Health Centre II,384.0,False
+2023-11-01,Akilok Health Centre II,233.0,False
+2023-12-01,Akilok Health Centre II,258.0,False
+2024-01-01,Akilok Health Centre II,466.0,False
+2024-02-01,Akilok Health Centre II,349.90909090909093,False
+2023-03-01,Akuna Laber Health Centre III,431.0,False
+2023-04-01,Akuna Laber Health Centre III,295.0,False
+2023-05-01,Akuna Laber Health Centre III,602.0,False
+2023-06-01,Akuna Laber Health Centre III,1044.0,False
+2023-07-01,Akuna Laber Health Centre III,1123.0,False
+2023-08-01,Akuna Laber Health Centre III,1353.0,False
+2023-09-01,Akuna Laber Health Centre III,1509.0,True
+2023-10-01,Akuna Laber Health Centre III,970.0,False
+2023-11-01,Akuna Laber Health Centre III,688.0,False
+2023-12-01,Akuna Laber Health Centre III,565.0,False
+2024-01-01,Akuna Laber Health Centre III,583.0,False
+2024-02-01,Akuna Laber Health Centre III,238.0,True
+2023-03-01,Akurumor Health Centre II,79.0,False
+2023-04-01,Akurumor Health Centre II,29.0,False
+2023-05-01,Akurumor Health Centre II,36.0,False
+2023-06-01,Akurumor Health Centre II,273.0,True
+2023-07-01,Akurumor Health Centre II,126.0,False
+2023-08-01,Akurumor Health Centre II,107.0,False
+2023-09-01,Akurumor Health Centre II,100.0,False
+2023-10-01,Akurumor Health Centre II,236.0,False
+2023-11-01,Akurumor Health Centre II,59.0,False
+2023-12-01,Akurumor Health Centre II,61.0,False
+2024-01-01,Akurumor Health Centre II,32.0,False
+2024-02-01,Akurumor Health Centre II,16.0,True
+2023-03-01,Akworo Health Centre III,1715.0,False
+2023-04-01,Akworo Health Centre III,2701.0,False
+2023-05-01,Akworo Health Centre III,4347.0,True
+2023-06-01,Akworo Health Centre III,3298.0,False
+2023-07-01,Akworo Health Centre III,1588.0,False
+2023-08-01,Akworo Health Centre III,1078.0,False
+2023-09-01,Akworo Health Centre III,1127.0,False
+2023-10-01,Akworo Health Centre III,612.0,True
+2023-11-01,Akworo Health Centre III,935.0,False
+2023-12-01,Akworo Health Centre III,786.0,False
+2024-01-01,Akworo Health Centre III,1105.0,False
+2024-02-01,Akworo Health Centre III,1753.8181818181818,False
+2023-03-01,Alero Health Centre III,300.0,False
+2023-04-01,Alero Health Centre III,517.0,False
+2023-05-01,Alero Health Centre III,670.0,False
+2023-06-01,Alero Health Centre III,1240.0,True
+2023-07-01,Alero Health Centre III,809.0,False
+2023-08-01,Alero Health Centre III,772.0,False
+2023-09-01,Alero Health Centre III,336.0,False
+2023-10-01,Alero Health Centre III,1053.0,False
+2023-11-01,Alero Health Centre III,1214.0,False
+2023-12-01,Alero Health Centre III,1137.0,False
+2024-01-01,Alero Health Centre III,222.0,True
+2024-02-01,Alero Health Centre III,751.8181818181819,False
+2023-03-01,Alim Health Centre II,323.0,False
+2023-04-01,Alim Health Centre II,264.0,False
+2023-05-01,Alim Health Centre II,553.0,False
+2023-06-01,Alim Health Centre II,529.0,False
+2023-07-01,Alim Health Centre II,691.0,True
+2023-08-01,Alim Health Centre II,538.0,False
+2023-09-01,Alim Health Centre II,209.0,True
+2023-10-01,Alim Health Centre II,227.0,False
+2023-11-01,Alim Health Centre II,507.0,False
+2023-12-01,Alim Health Centre II,304.0,False
+2024-01-01,Alim Health Centre II,297.0,False
+2024-02-01,Alim Health Centre II,403.8181818181818,False
+2023-03-01,Alokolum Health Centre II,166.0,True
+2023-04-01,Alokolum Health Centre II,212.0,False
+2023-05-01,Alokolum Health Centre II,388.0,False
+2023-06-01,Alokolum Health Centre II,315.0,False
+2023-07-01,Alokolum Health Centre II,484.0,False
+2023-08-01,Alokolum Health Centre II,455.0,False
+2023-09-01,Alokolum Health Centre II,301.0,False
+2023-10-01,Alokolum Health Centre II,546.0,True
+2023-11-01,Alokolum Health Centre II,514.0,False
+2023-12-01,Alokolum Health Centre II,388.0,False
+2024-01-01,Alokolum Health Centre II,347.0,False
+2024-02-01,Alokolum Health Centre II,374.1818181818182,False
+2023-03-01,Alop Health Centre II,207.0,False
+2023-04-01,Alop Health Centre II,156.0,True
+2023-05-01,Alop Health Centre II,509.0,False
+2023-06-01,Alop Health Centre II,471.0,False
+2023-07-01,Alop Health Centre II,543.0,False
+2023-08-01,Alop Health Centre II,727.0,False
+2023-09-01,Alop Health Centre II,742.0,True
+2023-10-01,Alop Health Centre II,548.0,False
+2023-11-01,Alop Health Centre II,361.0,False
+2023-12-01,Alop Health Centre II,442.0,False
+2024-01-01,Alop Health Centre II,317.0,False
+2024-02-01,Alop Health Centre II,456.6363636363636,False
+2023-03-01,Amilobo Health Centre II,261.0,False
+2023-04-01,Amilobo Health Centre II,259.0,False
+2023-05-01,Amilobo Health Centre II,375.0,False
+2023-06-01,Amilobo Health Centre II,393.0,False
+2023-07-01,Amilobo Health Centre II,452.0,False
+2023-08-01,Amilobo Health Centre II,444.0,False
+2023-09-01,Amilobo Health Centre II,325.0,False
+2023-10-01,Amilobo Health Centre II,571.0,True
+2023-11-01,Amilobo Health Centre II,252.0,False
+2023-12-01,Amilobo Health Centre II,216.0,True
+2024-01-01,Amilobo Health Centre II,218.0,False
+2024-02-01,Amilobo Health Centre II,342.3636363636364,False
+2023-03-01,Amuru Health Centre II,72.0,False
+2023-04-01,Amuru Health Centre II,300.0,False
+2023-05-01,Amuru Health Centre II,67.0,False
+2023-06-01,Amuru Health Centre II,524.0,False
+2023-07-01,Amuru Health Centre II,505.0,False
+2023-08-01,Amuru Health Centre II,65.0,False
+2023-09-01,Amuru Health Centre II,54.0,True
+2023-10-01,Amuru Health Centre II,292.0,False
+2023-11-01,Amuru Health Centre II,263.0,False
+2023-12-01,Amuru Health Centre II,557.0,True
+2024-01-01,Amuru Health Centre II,94.0,False
+2024-02-01,Amuru Health Centre II,253.9090909090909,False
+2023-03-01,Amuru Lacor Health Centre III,205.0,True
+2023-04-01,Amuru Lacor Health Centre III,311.0,False
+2023-05-01,Amuru Lacor Health Centre III,436.0,False
+2023-06-01,Amuru Lacor Health Centre III,441.0,False
+2023-07-01,Amuru Lacor Health Centre III,407.0,False
+2023-08-01,Amuru Lacor Health Centre III,501.0,False
+2023-09-01,Amuru Lacor Health Centre III,483.0,False
+2023-10-01,Amuru Lacor Health Centre III,511.0,False
+2023-11-01,Amuru Lacor Health Centre III,522.0,False
+2023-12-01,Amuru Lacor Health Centre III,574.0,True
+2024-01-01,Amuru Lacor Health Centre III,520.0,False
+2024-02-01,Amuru Lacor Health Centre III,446.45454545454544,False
+2023-03-01,Amuru Prisons Health Centre II,39.57142857142857,False
+2023-04-01,Amuru Prisons Health Centre II,39.57142857142857,False
+2023-05-01,Amuru Prisons Health Centre II,11.0,False
+2023-06-01,Amuru Prisons Health Centre II,39.57142857142857,False
+2023-07-01,Amuru Prisons Health Centre II,17.0,False
+2023-08-01,Amuru Prisons Health Centre II,39.57142857142857,False
+2023-09-01,Amuru Prisons Health Centre II,7.0,True
+2023-10-01,Amuru Prisons Health Centre II,122.0,True
+2023-11-01,Amuru Prisons Health Centre II,20.0,False
+2023-12-01,Amuru Prisons Health Centre II,18.0,False
+2024-01-01,Amuru Prisons Health Centre II,82.0,False
+2024-02-01,Amuru Prisons Health Centre II,39.57142857142857,False
+2023-03-01,Amyel Health Centre II,194.0,False
+2023-04-01,Amyel Health Centre II,101.0,False
+2023-05-01,Amyel Health Centre II,311.0,False
+2023-06-01,Amyel Health Centre II,646.0,False
+2023-07-01,Amyel Health Centre II,695.0,False
+2023-08-01,Amyel Health Centre II,882.0,True
+2023-09-01,Amyel Health Centre II,630.0,False
+2023-10-01,Amyel Health Centre II,613.0,False
+2023-11-01,Amyel Health Centre II,640.0,False
+2023-12-01,Amyel Health Centre II,368.0,False
+2024-01-01,Amyel Health Centre II,86.0,True
+2024-02-01,Amyel Health Centre II,469.6363636363636,False
+2023-03-01,Anaka General Hospital,390.0,True
+2023-04-01,Anaka General Hospital,572.0,False
+2023-05-01,Anaka General Hospital,835.0,False
+2023-06-01,Anaka General Hospital,1143.0,False
+2023-07-01,Anaka General Hospital,1150.0,True
+2023-08-01,Anaka General Hospital,656.0,False
+2023-09-01,Anaka General Hospital,520.0,False
+2023-10-01,Anaka General Hospital,837.0,False
+2023-11-01,Anaka General Hospital,892.0,False
+2023-12-01,Anaka General Hospital,680.0,False
+2024-01-01,Anaka General Hospital,711.0,False
+2024-02-01,Anaka General Hospital,762.3636363636364,False
+2023-03-01,Anaka Health Centre II,115.0,False
+2023-04-01,Anaka Health Centre II,139.0,False
+2023-05-01,Anaka Health Centre II,538.0,True
+2023-06-01,Anaka Health Centre II,515.0,False
+2023-07-01,Anaka Health Centre II,353.0,False
+2023-08-01,Anaka Health Centre II,148.0,False
+2023-09-01,Anaka Health Centre II,84.0,True
+2023-10-01,Anaka Health Centre II,164.0,False
+2023-11-01,Anaka Health Centre II,228.0,False
+2023-12-01,Anaka Health Centre II,204.0,False
+2024-01-01,Anaka Health Centre II,233.0,False
+2024-02-01,Anaka Health Centre II,247.36363636363637,False
+2023-03-01,Angagura Health Centre III,381.0,False
+2023-04-01,Angagura Health Centre III,317.0,False
+2023-05-01,Angagura Health Centre III,700.0,False
+2023-06-01,Angagura Health Centre III,678.0,False
+2023-07-01,Angagura Health Centre III,654.0,False
+2023-08-01,Angagura Health Centre III,634.0,False
+2023-09-01,Angagura Health Centre III,454.0,False
+2023-10-01,Angagura Health Centre III,294.0,False
+2023-11-01,Angagura Health Centre III,732.0,True
+2023-12-01,Angagura Health Centre III,457.0,False
+2024-01-01,Angagura Health Centre III,205.0,False
+2024-02-01,Angagura Health Centre III,93.0,True
+2023-03-01,Angaya Health Centre III,399.0,False
+2023-04-01,Angaya Health Centre III,480.0,False
+2023-05-01,Angaya Health Centre III,550.0,False
+2023-06-01,Angaya Health Centre III,826.0,True
+2023-07-01,Angaya Health Centre III,807.0,False
+2023-08-01,Angaya Health Centre III,636.0,False
+2023-09-01,Angaya Health Centre III,318.0,False
+2023-10-01,Angaya Health Centre III,537.0,False
+2023-11-01,Angaya Health Centre III,330.0,False
+2023-12-01,Angaya Health Centre III,192.0,False
+2024-01-01,Angaya Health Centre III,204.0,False
+2024-02-01,Angaya Health Centre III,153.0,True
+2023-03-01,Angole Health Centre II,236.0,True
+2023-04-01,Angole Health Centre II,332.0,False
+2023-05-01,Angole Health Centre II,575.0,True
+2023-06-01,Angole Health Centre II,495.0,False
+2023-07-01,Angole Health Centre II,451.0,False
+2023-08-01,Angole Health Centre II,570.0,False
+2023-09-01,Angole Health Centre II,367.0,False
+2023-10-01,Angole Health Centre II,472.0,False
+2023-11-01,Angole Health Centre II,465.0,False
+2023-12-01,Angole Health Centre II,434.0,False
+2024-01-01,Angole Health Centre II,403.0,False
+2024-02-01,Angole Health Centre II,436.3636363636364,False
+2023-03-01,Aparanga Health Centre II,401.0,False
+2023-04-01,Aparanga Health Centre II,330.0,False
+2023-05-01,Aparanga Health Centre II,387.0,False
+2023-06-01,Aparanga Health Centre II,304.0,False
+2023-07-01,Aparanga Health Centre II,400.0,False
+2023-08-01,Aparanga Health Centre II,69.0,False
+2023-09-01,Aparanga Health Centre II,159.0,False
+2023-10-01,Aparanga Health Centre II,397.0,False
+2023-11-01,Aparanga Health Centre II,537.0,True
+2023-12-01,Aparanga Health Centre II,181.0,False
+2024-01-01,Aparanga Health Centre II,15.0,True
+2024-02-01,Aparanga Health Centre II,289.09090909090907,False
+2023-03-01,Apyeta Health Centre II,290.0,False
+2023-04-01,Apyeta Health Centre II,274.0,False
+2023-05-01,Apyeta Health Centre II,410.0,True
+2023-06-01,Apyeta Health Centre II,300.0,False
+2023-07-01,Apyeta Health Centre II,403.0,False
+2023-08-01,Apyeta Health Centre II,224.0,False
+2023-09-01,Apyeta Health Centre II,378.0,False
+2023-10-01,Apyeta Health Centre II,97.0,False
+2023-11-01,Apyeta Health Centre II,270.0,False
+2023-12-01,Apyeta Health Centre II,176.0,False
+2024-01-01,Apyeta Health Centre II,94.0,True
+2024-02-01,Apyeta Health Centre II,265.09090909090907,False
+2023-03-01,Aswa Ranch Health Centre II,438.0,False
+2023-04-01,Aswa Ranch Health Centre II,306.0,False
+2023-05-01,Aswa Ranch Health Centre II,443.0,False
+2023-06-01,Aswa Ranch Health Centre II,458.0,False
+2023-07-01,Aswa Ranch Health Centre II,706.0,True
+2023-08-01,Aswa Ranch Health Centre II,559.0,False
+2023-09-01,Aswa Ranch Health Centre II,368.0,False
+2023-10-01,Aswa Ranch Health Centre II,371.0,False
+2023-11-01,Aswa Ranch Health Centre II,566.0,False
+2023-12-01,Aswa Ranch Health Centre II,277.0,False
+2024-01-01,Aswa Ranch Health Centre II,241.0,True
+2024-02-01,Aswa Ranch Health Centre II,430.27272727272725,False
+2023-03-01,Atanga Health Centre III,665.0,False
+2023-04-01,Atanga Health Centre III,644.0,False
+2023-05-01,Atanga Health Centre III,708.0,False
+2023-06-01,Atanga Health Centre III,707.0,False
+2023-07-01,Atanga Health Centre III,856.0,True
+2023-08-01,Atanga Health Centre III,764.0,False
+2023-09-01,Atanga Health Centre III,423.0,False
+2023-10-01,Atanga Health Centre III,514.0,False
+2023-11-01,Atanga Health Centre III,727.0,False
+2023-12-01,Atanga Health Centre III,380.0,False
+2024-01-01,Atanga Health Centre III,281.0,True
+2024-02-01,Atanga Health Centre III,606.2727272727273,False
+2023-03-01,Atiak Health Centre IV,416.0,False
+2023-04-01,Atiak Health Centre IV,131.0,True
+2023-05-01,Atiak Health Centre IV,544.0,False
+2023-06-01,Atiak Health Centre IV,586.0,False
+2023-07-01,Atiak Health Centre IV,650.0,False
+2023-08-01,Atiak Health Centre IV,605.0,False
+2023-09-01,Atiak Health Centre IV,580.0,False
+2023-10-01,Atiak Health Centre IV,589.0,False
+2023-11-01,Atiak Health Centre IV,668.0,True
+2023-12-01,Atiak Health Centre IV,654.0,False
+2024-01-01,Atiak Health Centre IV,661.0,False
+2024-02-01,Atiak Health Centre IV,553.0909090909091,False
+2023-03-01,Awach Health Centre IV,329.0,True
+2023-04-01,Awach Health Centre IV,338.0,False
+2023-05-01,Awach Health Centre IV,519.0,False
+2023-06-01,Awach Health Centre IV,822.0,False
+2023-07-01,Awach Health Centre IV,1066.0,False
+2023-08-01,Awach Health Centre IV,811.0,False
+2023-09-01,Awach Health Centre IV,693.0,False
+2023-10-01,Awach Health Centre IV,877.0,False
+2023-11-01,Awach Health Centre IV,1099.0,False
+2023-12-01,Awach Health Centre IV,945.0,False
+2024-01-01,Awach Health Centre IV,1517.0,True
+2024-02-01,Awach Health Centre IV,819.6363636363636,False
+2023-03-01,Awer Health Centre II,268.0,False
+2023-04-01,Awer Health Centre II,222.0,True
+2023-05-01,Awer Health Centre II,296.0,False
+2023-06-01,Awer Health Centre II,664.0,False
+2023-07-01,Awer Health Centre II,1389.0,True
+2023-08-01,Awer Health Centre II,1357.0,False
+2023-09-01,Awer Health Centre II,441.0,False
+2023-10-01,Awer Health Centre II,473.0,False
+2023-11-01,Awer Health Centre II,608.4,False
+2023-12-01,Awer Health Centre II,651.0,False
+2024-01-01,Awer Health Centre II,323.0,False
+2024-02-01,Awer Health Centre II,608.4,False
+2023-03-01,Awere Health Centre III,714.0,False
+2023-04-01,Awere Health Centre III,771.0,False
+2023-05-01,Awere Health Centre III,1125.0,False
+2023-06-01,Awere Health Centre III,1453.0,True
+2023-07-01,Awere Health Centre III,976.0,False
+2023-08-01,Awere Health Centre III,1244.0,False
+2023-09-01,Awere Health Centre III,424.0,False
+2023-10-01,Awere Health Centre III,468.0,False
+2023-11-01,Awere Health Centre III,916.0,False
+2023-12-01,Awere Health Centre III,558.0,False
+2024-01-01,Awere Health Centre III,314.0,True
+2024-02-01,Awere Health Centre III,814.8181818181819,False
+2023-03-01,Awich Health Centre III,982.0,False
+2023-04-01,Awich Health Centre III,1303.0,False
+2023-05-01,Awich Health Centre III,1489.0,False
+2023-06-01,Awich Health Centre III,1766.0,True
+2023-07-01,Awich Health Centre III,1569.0,False
+2023-08-01,Awich Health Centre III,1033.0,False
+2023-09-01,Awich Health Centre III,1184.0,False
+2023-10-01,Awich Health Centre III,306.0,False
+2023-11-01,Awich Health Centre III,296.0,True
+2023-12-01,Awich Health Centre III,349.0,False
+2024-01-01,Awich Health Centre III,789.0,False
+2024-02-01,Awich Health Centre III,1006.0,False
+2023-03-01,Awoo Health Centre III,342.0,False
+2023-04-01,Awoo Health Centre III,416.0,False
+2023-05-01,Awoo Health Centre III,129.0,False
+2023-06-01,Awoo Health Centre III,853.0,False
+2023-07-01,Awoo Health Centre III,875.0,False
+2023-08-01,Awoo Health Centre III,483.0,False
+2023-09-01,Awoo Health Centre III,126.0,True
+2023-10-01,Awoo Health Centre III,834.0,False
+2023-11-01,Awoo Health Centre III,765.0,False
+2023-12-01,Awoo Health Centre III,1232.0,True
+2024-01-01,Awoo Health Centre III,456.0,False
+2024-02-01,Awoo Health Centre III,591.9090909090909,False
+2023-03-01,Aywee Health Centre III,163.0,False
+2023-04-01,Aywee Health Centre III,153.0,True
+2023-05-01,Aywee Health Centre III,560.0,False
+2023-06-01,Aywee Health Centre III,496.0,False
+2023-07-01,Aywee Health Centre III,581.0,False
+2023-08-01,Aywee Health Centre III,518.0,False
+2023-09-01,Aywee Health Centre III,597.0,False
+2023-10-01,Aywee Health Centre III,620.0,True
+2023-11-01,Aywee Health Centre III,601.0,False
+2023-12-01,Aywee Health Centre III,548.0,False
+2024-01-01,Aywee Health Centre III,316.0,False
+2024-02-01,Aywee Health Centre III,238.0,False
+2023-03-01,Bardege Health Centre III,135.0,True
+2023-04-01,Bardege Health Centre III,156.0,False
+2023-05-01,Bardege Health Centre III,370.0,False
+2023-06-01,Bardege Health Centre III,452.0,False
+2023-07-01,Bardege Health Centre III,453.0,True
+2023-08-01,Bardege Health Centre III,323.0,False
+2023-09-01,Bardege Health Centre III,443.0,False
+2023-10-01,Bardege Health Centre III,422.0,False
+2023-11-01,Bardege Health Centre III,436.0,False
+2023-12-01,Bardege Health Centre III,435.0,False
+2024-01-01,Bardege Health Centre III,327.0,False
+2024-02-01,Bardege Health Centre III,359.27272727272725,False
+2023-03-01,Bibia Health Centre III,70.0,True
+2023-04-01,Bibia Health Centre III,268.0,False
+2023-05-01,Bibia Health Centre III,465.0,True
+2023-06-01,Bibia Health Centre III,353.0,False
+2023-07-01,Bibia Health Centre III,329.0,False
+2023-08-01,Bibia Health Centre III,399.0,False
+2023-09-01,Bibia Health Centre III,369.0,False
+2023-10-01,Bibia Health Centre III,370.0,False
+2023-11-01,Bibia Health Centre III,349.0,False
+2023-12-01,Bibia Health Centre III,440.0,False
+2024-01-01,Bibia Health Centre III,244.0,False
+2024-02-01,Bibia Health Centre III,332.3636363636364,False
+2023-03-01,Binya Health Centre III,332.0,False
+2023-04-01,Binya Health Centre III,286.0,False
+2023-05-01,Binya Health Centre III,260.0,False
+2023-06-01,Binya Health Centre III,251.0,False
+2023-07-01,Binya Health Centre III,468.0,False
+2023-08-01,Binya Health Centre III,282.0,False
+2023-09-01,Binya Health Centre III,170.0,True
+2023-10-01,Binya Health Centre III,488.0,True
+2023-11-01,Binya Health Centre III,415.0,False
+2023-12-01,Binya Health Centre III,311.0,False
+2024-01-01,Binya Health Centre III,408.0,False
+2024-02-01,Binya Health Centre III,333.72727272727275,False
+2023-03-01,Bira Health Centre II,442.0,False
+2023-04-01,Bira Health Centre II,269.0,False
+2023-05-01,Bira Health Centre II,383.0,False
+2023-06-01,Bira Health Centre II,469.0,False
+2023-07-01,Bira Health Centre II,559.0,False
+2023-08-01,Bira Health Centre II,370.77777777777777,False
+2023-09-01,Bira Health Centre II,370.77777777777777,False
+2023-10-01,Bira Health Centre II,617.0,True
+2023-11-01,Bira Health Centre II,448.0,False
+2023-12-01,Bira Health Centre II,146.0,False
+2024-01-01,Bira Health Centre II,4.0,True
+2024-02-01,Bira Health Centre II,370.77777777777777,False
+2023-03-01,Bmj Medical Clinic,3.0,True
+2023-04-01,Bmj Medical Clinic,8.0,False
+2023-05-01,Bmj Medical Clinic,21.0,False
+2023-06-01,Bmj Medical Clinic,12.0,False
+2023-07-01,Bmj Medical Clinic,20.0,False
+2023-08-01,Bmj Medical Clinic,23.0,False
+2023-09-01,Bmj Medical Clinic,28.0,False
+2023-10-01,Bmj Medical Clinic,23.0,False
+2023-11-01,Bmj Medical Clinic,20.0,False
+2023-12-01,Bmj Medical Clinic,23.0,False
+2024-01-01,Bmj Medical Clinic,40.0,True
+2024-02-01,Bmj Medical Clinic,20.09090909090909,False
+2023-03-01,Bobi Health Centre III,215.0,True
+2023-04-01,Bobi Health Centre III,435.0,False
+2023-05-01,Bobi Health Centre III,598.0,False
+2023-06-01,Bobi Health Centre III,660.0,True
+2023-07-01,Bobi Health Centre III,591.0,False
+2023-08-01,Bobi Health Centre III,365.0,False
+2023-09-01,Bobi Health Centre III,258.0,False
+2023-10-01,Bobi Health Centre III,365.0,False
+2023-11-01,Bobi Health Centre III,543.0,False
+2023-12-01,Bobi Health Centre III,528.0,False
+2024-01-01,Bobi Health Centre III,328.0,False
+2024-02-01,Bobi Health Centre III,444.1818181818182,False
+2023-03-01,Bolo Health Centre II,550.0,False
+2023-04-01,Bolo Health Centre II,461.0,False
+2023-05-01,Bolo Health Centre II,741.0,False
+2023-06-01,Bolo Health Centre II,868.0,True
+2023-07-01,Bolo Health Centre II,729.0,False
+2023-08-01,Bolo Health Centre II,694.0,False
+2023-09-01,Bolo Health Centre II,480.0,False
+2023-10-01,Bolo Health Centre II,644.0,False
+2023-11-01,Bolo Health Centre II,705.0,False
+2023-12-01,Bolo Health Centre II,486.0,False
+2024-01-01,Bolo Health Centre II,246.0,True
+2024-02-01,Bolo Health Centre II,600.3636363636364,False
+2023-03-01,Bregma Health Centre II,67.0,True
+2023-04-01,Bregma Health Centre II,97.0,False
+2023-05-01,Bregma Health Centre II,108.0,False
+2023-06-01,Bregma Health Centre II,104.0,False
+2023-07-01,Bregma Health Centre II,78.0,False
+2023-08-01,Bregma Health Centre II,111.0,False
+2023-09-01,Bregma Health Centre II,96.0,False
+2023-10-01,Bregma Health Centre II,141.0,True
+2023-11-01,Bregma Health Centre II,87.0,False
+2023-12-01,Bregma Health Centre II,133.0,False
+2024-01-01,Bregma Health Centre II,79.0,False
+2024-02-01,Bregma Health Centre II,100.0909090909091,False
+2023-03-01,Capricon Medical Clinic,21.0,False
+2023-04-01,Capricon Medical Clinic,22.0,False
+2023-05-01,Capricon Medical Clinic,29.0,False
+2023-06-01,Capricon Medical Clinic,35.0,True
+2023-07-01,Capricon Medical Clinic,28.0,False
+2023-08-01,Capricon Medical Clinic,16.0,False
+2023-09-01,Capricon Medical Clinic,13.0,False
+2023-10-01,Capricon Medical Clinic,17.0,False
+2023-11-01,Capricon Medical Clinic,9.0,True
+2023-12-01,Capricon Medical Clinic,26.0,False
+2024-01-01,Capricon Medical Clinic,19.0,False
+2024-02-01,Capricon Medical Clinic,21.363636363636363,False
+2023-03-01,Care Plus Medical Centre,94.0,False
+2023-04-01,Care Plus Medical Centre,83.0,False
+2023-05-01,Care Plus Medical Centre,75.0,False
+2023-06-01,Care Plus Medical Centre,107.0,True
+2023-07-01,Care Plus Medical Centre,86.0,False
+2023-08-01,Care Plus Medical Centre,84.0,False
+2023-09-01,Care Plus Medical Centre,79.0,False
+2023-10-01,Care Plus Medical Centre,55.0,True
+2023-11-01,Care Plus Medical Centre,57.0,False
+2023-12-01,Care Plus Medical Centre,84.0,False
+2024-01-01,Care Plus Medical Centre,69.0,False
+2024-02-01,Care Plus Medical Centre,79.36363636363636,False
+2023-03-01,Chobe Safari Lodge Health Centre II,16.0,False
+2023-04-01,Chobe Safari Lodge Health Centre II,7.0,False
+2023-05-01,Chobe Safari Lodge Health Centre II,27.0,True
+2023-06-01,Chobe Safari Lodge Health Centre II,24.0,False
+2023-07-01,Chobe Safari Lodge Health Centre II,14.0,False
+2023-08-01,Chobe Safari Lodge Health Centre II,8.0,False
+2023-09-01,Chobe Safari Lodge Health Centre II,9.0,False
+2023-10-01,Chobe Safari Lodge Health Centre II,10.0,False
+2023-11-01,Chobe Safari Lodge Health Centre II,17.0,False
+2023-12-01,Chobe Safari Lodge Health Centre II,22.0,False
+2024-01-01,Chobe Safari Lodge Health Centre II,25.0,False
+2024-02-01,Chobe Safari Lodge Health Centre II,6.0,True
+2023-03-01,Comboni Samaritans Health Centre II,20.0,True
+2023-04-01,Comboni Samaritans Health Centre II,46.0,False
+2023-05-01,Comboni Samaritans Health Centre II,111.0,False
+2023-06-01,Comboni Samaritans Health Centre II,127.0,False
+2023-07-01,Comboni Samaritans Health Centre II,78.0,False
+2023-08-01,Comboni Samaritans Health Centre II,112.0,False
+2023-09-01,Comboni Samaritans Health Centre II,128.0,True
+2023-10-01,Comboni Samaritans Health Centre II,109.0,False
+2023-11-01,Comboni Samaritans Health Centre II,124.0,False
+2023-12-01,Comboni Samaritans Health Centre II,94.0,False
+2024-01-01,Comboni Samaritans Health Centre II,80.0,False
+2024-02-01,Comboni Samaritans Health Centre II,93.54545454545455,False
+2023-03-01,Community Clinic,77.0,True
+2023-04-01,Community Clinic,166.0,False
+2023-05-01,Community Clinic,178.0,False
+2023-06-01,Community Clinic,185.0,False
+2023-07-01,Community Clinic,158.0,False
+2023-08-01,Community Clinic,110.0,False
+2023-09-01,Community Clinic,142.0,False
+2023-10-01,Community Clinic,108.0,False
+2023-11-01,Community Clinic,144.0,False
+2023-12-01,Community Clinic,186.0,True
+2024-01-01,Community Clinic,108.0,False
+2024-02-01,Community Clinic,142.0,False
+2023-03-01,Coope Health Centre II,144.0,False
+2023-04-01,Coope Health Centre II,133.0,True
+2023-05-01,Coope Health Centre II,404.0,True
+2023-06-01,Coope Health Centre II,297.0,False
+2023-07-01,Coope Health Centre II,275.0,False
+2023-08-01,Coope Health Centre II,255.0,False
+2023-09-01,Coope Health Centre II,273.0,False
+2023-10-01,Coope Health Centre II,265.0,False
+2023-11-01,Coope Health Centre II,368.0,False
+2023-12-01,Coope Health Centre II,267.0,False
+2024-01-01,Coope Health Centre II,224.0,False
+2024-02-01,Coope Health Centre II,245.0,False
+2023-03-01,Corom Health Centre II,260.0,False
+2023-04-01,Corom Health Centre II,205.0,False
+2023-05-01,Corom Health Centre II,403.0,False
+2023-06-01,Corom Health Centre II,750.0,False
+2023-07-01,Corom Health Centre II,827.0,False
+2023-08-01,Corom Health Centre II,317.0,False
+2023-09-01,Corom Health Centre II,695.0,False
+2023-10-01,Corom Health Centre II,1216.0,True
+2023-11-01,Corom Health Centre II,1014.0,False
+2023-12-01,Corom Health Centre II,260.0,False
+2024-01-01,Corom Health Centre II,100.0,True
+2024-02-01,Corom Health Centre II,549.7272727272727,False
+2023-03-01,Cubu Community Health Centre II,227.0,True
+2023-04-01,Cubu Community Health Centre II,451.0,False
+2023-05-01,Cubu Community Health Centre II,595.0,True
+2023-06-01,Cubu Community Health Centre II,396.0,False
+2023-07-01,Cubu Community Health Centre II,473.0,False
+2023-08-01,Cubu Community Health Centre II,506.0,False
+2023-09-01,Cubu Community Health Centre II,514.0,False
+2023-10-01,Cubu Community Health Centre II,416.0,False
+2023-11-01,Cubu Community Health Centre II,229.0,False
+2023-12-01,Cubu Community Health Centre II,320.0,False
+2024-01-01,Cubu Community Health Centre II,343.0,False
+2024-02-01,Cubu Community Health Centre II,406.3636363636364,False
+2023-03-01,Cwero Health Centre III,240.0,False
+2023-04-01,Cwero Health Centre III,219.0,True
+2023-05-01,Cwero Health Centre III,427.0,False
+2023-06-01,Cwero Health Centre III,450.0,False
+2023-07-01,Cwero Health Centre III,464.0,False
+2023-08-01,Cwero Health Centre III,581.0,True
+2023-09-01,Cwero Health Centre III,468.0,False
+2023-10-01,Cwero Health Centre III,567.0,False
+2023-11-01,Cwero Health Centre III,563.0,False
+2023-12-01,Cwero Health Centre III,513.0,False
+2024-01-01,Cwero Health Centre III,410.0,False
+2024-02-01,Cwero Health Centre III,445.6363636363636,False
+2023-03-01,David Fagerlee's Medical Centre,24.0,False
+2023-04-01,David Fagerlee's Medical Centre,15.0,True
+2023-05-01,David Fagerlee's Medical Centre,55.0,False
+2023-06-01,David Fagerlee's Medical Centre,113.0,False
+2023-07-01,David Fagerlee's Medical Centre,97.0,False
+2023-08-01,David Fagerlee's Medical Centre,140.0,False
+2023-09-01,David Fagerlee's Medical Centre,123.0,False
+2023-10-01,David Fagerlee's Medical Centre,111.0,False
+2023-11-01,David Fagerlee's Medical Centre,106.0,False
+2023-12-01,David Fagerlee's Medical Centre,140.0,False
+2024-01-01,David Fagerlee's Medical Centre,122.0,False
+2024-02-01,David Fagerlee's Medical Centre,116.0,False
+2023-03-01,Dibolyec Health Centre II,255.0,False
+2023-04-01,Dibolyec Health Centre II,209.0,False
+2023-05-01,Dibolyec Health Centre II,203.0,False
+2023-06-01,Dibolyec Health Centre II,602.0,False
+2023-07-01,Dibolyec Health Centre II,521.0,False
+2023-08-01,Dibolyec Health Centre II,961.0,True
+2023-09-01,Dibolyec Health Centre II,304.0,False
+2023-10-01,Dibolyec Health Centre II,294.0,False
+2023-11-01,Dibolyec Health Centre II,541.0,False
+2023-12-01,Dibolyec Health Centre II,60.0,False
+2024-01-01,Dibolyec Health Centre II,28.0,True
+2024-02-01,Dibolyec Health Centre II,361.6363636363636,False
+2023-03-01,Dino Health Centre II,164.0,False
+2023-04-01,Dino Health Centre II,375.0,False
+2023-05-01,Dino Health Centre II,429.0,False
+2023-06-01,Dino Health Centre II,769.0,True
+2023-07-01,Dino Health Centre II,513.0,False
+2023-08-01,Dino Health Centre II,399.0,False
+2023-09-01,Dino Health Centre II,266.0,False
+2023-10-01,Dino Health Centre II,329.0,False
+2023-11-01,Dino Health Centre II,413.0,False
+2023-12-01,Dino Health Centre II,286.0,False
+2024-01-01,Dino Health Centre II,121.0,True
+2024-02-01,Dino Health Centre II,369.45454545454544,False
+2023-03-01,Diocese Of Kitgum Health Centre II,76.0,False
+2023-04-01,Diocese Of Kitgum Health Centre II,181.0,False
+2023-05-01,Diocese Of Kitgum Health Centre II,195.0,False
+2023-06-01,Diocese Of Kitgum Health Centre II,308.0,True
+2023-07-01,Diocese Of Kitgum Health Centre II,114.0,False
+2023-08-01,Diocese Of Kitgum Health Centre II,75.0,False
+2023-09-01,Diocese Of Kitgum Health Centre II,86.0,False
+2023-10-01,Diocese Of Kitgum Health Centre II,175.0,False
+2023-11-01,Diocese Of Kitgum Health Centre II,108.0,False
+2023-12-01,Diocese Of Kitgum Health Centre II,55.0,False
+2024-01-01,Diocese Of Kitgum Health Centre II,45.0,True
+2024-02-01,Diocese Of Kitgum Health Centre II,128.9090909090909,False
+2023-03-01,Dr. Ambrosoli Memorial Hospital Kalongo,77.0,True
+2023-04-01,Dr. Ambrosoli Memorial Hospital Kalongo,84.0,False
+2023-05-01,Dr. Ambrosoli Memorial Hospital Kalongo,389.0,False
+2023-06-01,Dr. Ambrosoli Memorial Hospital Kalongo,285.0,False
+2023-07-01,Dr. Ambrosoli Memorial Hospital Kalongo,247.0,False
+2023-08-01,Dr. Ambrosoli Memorial Hospital Kalongo,432.0,False
+2023-09-01,Dr. Ambrosoli Memorial Hospital Kalongo,604.0,True
+2023-10-01,Dr. Ambrosoli Memorial Hospital Kalongo,559.0,False
+2023-11-01,Dr. Ambrosoli Memorial Hospital Kalongo,293.0,False
+2023-12-01,Dr. Ambrosoli Memorial Hospital Kalongo,264.0,False
+2024-01-01,Dr. Ambrosoli Memorial Hospital Kalongo,323.0,False
+2024-02-01,Dr. Ambrosoli Memorial Hospital Kalongo,323.3636363636364,False
+2023-03-01,Dream Health Centre III,39.0,True
+2023-04-01,Dream Health Centre III,56.0,False
+2023-05-01,Dream Health Centre III,69.0,False
+2023-06-01,Dream Health Centre III,108.0,False
+2023-07-01,Dream Health Centre III,86.0,False
+2023-08-01,Dream Health Centre III,127.0,True
+2023-09-01,Dream Health Centre III,75.0,False
+2023-10-01,Dream Health Centre III,91.0,False
+2023-11-01,Dream Health Centre III,91.0,False
+2023-12-01,Dream Health Centre III,72.0,False
+2024-01-01,Dream Health Centre III,120.0,False
+2024-02-01,Dream Health Centre III,84.9090909090909,False
+2023-03-01,Dure Health Centre II,211.0,False
+2023-04-01,Dure Health Centre II,288.0,False
+2023-05-01,Dure Health Centre II,398.0,False
+2023-06-01,Dure Health Centre II,472.0,False
+2023-07-01,Dure Health Centre II,364.0,False
+2023-08-01,Dure Health Centre II,538.0,True
+2023-09-01,Dure Health Centre II,335.0,False
+2023-10-01,Dure Health Centre II,383.0,False
+2023-11-01,Dure Health Centre II,429.0,False
+2023-12-01,Dure Health Centre II,304.0,False
+2024-01-01,Dure Health Centre II,46.0,True
+2024-02-01,Dure Health Centre II,342.54545454545456,False
+2023-03-01,Exodus Health Centre II,119.0,False
+2023-04-01,Exodus Health Centre II,103.0,False
+2023-05-01,Exodus Health Centre II,94.0,False
+2023-06-01,Exodus Health Centre II,117.0,False
+2023-07-01,Exodus Health Centre II,121.0,True
+2023-08-01,Exodus Health Centre II,116.0,False
+2023-09-01,Exodus Health Centre II,78.0,False
+2023-10-01,Exodus Health Centre II,84.0,False
+2023-11-01,Exodus Health Centre II,97.0,False
+2023-12-01,Exodus Health Centre II,106.0,False
+2024-01-01,Exodus Health Centre II,71.0,True
+2024-02-01,Exodus Health Centre II,88.0,False
+2023-03-01,Fitzmann Medical and Dental Clinic,57.0,True
+2023-04-01,Fitzmann Medical and Dental Clinic,88.0,False
+2023-05-01,Fitzmann Medical and Dental Clinic,144.0,False
+2023-06-01,Fitzmann Medical and Dental Clinic,137.0,False
+2023-07-01,Fitzmann Medical and Dental Clinic,111.0,False
+2023-08-01,Fitzmann Medical and Dental Clinic,136.0,False
+2023-09-01,Fitzmann Medical and Dental Clinic,94.0,False
+2023-10-01,Fitzmann Medical and Dental Clinic,74.0,False
+2023-11-01,Fitzmann Medical and Dental Clinic,133.0,False
+2023-12-01,Fitzmann Medical and Dental Clinic,219.0,True
+2024-01-01,Fitzmann Medical and Dental Clinic,190.0,False
+2024-02-01,Fitzmann Medical and Dental Clinic,125.72727272727273,False
+2023-03-01,Flama Health Centre II,22.0,False
+2023-04-01,Flama Health Centre II,47.0,False
+2023-05-01,Flama Health Centre II,65.0,False
+2023-06-01,Flama Health Centre II,68.0,True
+2023-07-01,Flama Health Centre II,62.0,False
+2023-08-01,Flama Health Centre II,54.0,False
+2023-09-01,Flama Health Centre II,30.0,False
+2023-10-01,Flama Health Centre II,35.0,False
+2023-11-01,Flama Health Centre II,40.0,False
+2023-12-01,Flama Health Centre II,44.0,False
+2024-01-01,Flama Health Centre II,21.0,True
+2024-02-01,Flama Health Centre II,44.36363636363637,False
+2023-03-01,Flama Uganda Health Centre II,61.0,True
+2023-04-01,Flama Uganda Health Centre II,81.0,False
+2023-05-01,Flama Uganda Health Centre II,182.0,False
+2023-06-01,Flama Uganda Health Centre II,194.0,False
+2023-07-01,Flama Uganda Health Centre II,159.0,False
+2023-08-01,Flama Uganda Health Centre II,167.0,False
+2023-09-01,Flama Uganda Health Centre II,138.0,False
+2023-10-01,Flama Uganda Health Centre II,154.0,False
+2023-11-01,Flama Uganda Health Centre II,124.0,False
+2023-12-01,Flama Uganda Health Centre II,201.0,True
+2024-01-01,Flama Uganda Health Centre II,151.0,False
+2024-02-01,Flama Uganda Health Centre II,146.54545454545453,False
+2023-03-01,Geregere Health Centre II,324.0,False
+2023-04-01,Geregere Health Centre II,127.0,True
+2023-05-01,Geregere Health Centre II,466.0,False
+2023-06-01,Geregere Health Centre II,1092.0,False
+2023-07-01,Geregere Health Centre II,1436.0,True
+2023-08-01,Geregere Health Centre II,659.0,False
+2023-09-01,Geregere Health Centre II,253.0,False
+2023-10-01,Geregere Health Centre II,488.0,False
+2023-11-01,Geregere Health Centre II,498.0,False
+2023-12-01,Geregere Health Centre II,183.0,False
+2024-01-01,Geregere Health Centre II,161.0,False
+2024-02-01,Geregere Health Centre II,517.0,False
+2023-03-01,Glanhor Clinic,119.0,False
+2023-04-01,Glanhor Clinic,143.625,False
+2023-05-01,Glanhor Clinic,218.0,True
+2023-06-01,Glanhor Clinic,105.0,False
+2023-07-01,Glanhor Clinic,130.0,False
+2023-08-01,Glanhor Clinic,95.0,True
+2023-09-01,Glanhor Clinic,154.0,False
+2023-10-01,Glanhor Clinic,143.625,False
+2023-11-01,Glanhor Clinic,143.625,False
+2023-12-01,Glanhor Clinic,158.0,False
+2024-01-01,Glanhor Clinic,170.0,False
+2024-02-01,Glanhor Clinic,143.625,False
+2023-03-01,God's Mercy Health Centre II,55.0,False
+2023-04-01,God's Mercy Health Centre II,66.0,False
+2023-05-01,God's Mercy Health Centre II,61.0,False
+2023-06-01,God's Mercy Health Centre II,50.0,False
+2023-07-01,God's Mercy Health Centre II,78.0,True
+2023-08-01,God's Mercy Health Centre II,38.0,False
+2023-09-01,God's Mercy Health Centre II,30.0,False
+2023-10-01,God's Mercy Health Centre II,31.0,False
+2023-11-01,God's Mercy Health Centre II,27.0,False
+2023-12-01,God's Mercy Health Centre II,29.0,False
+2024-01-01,God's Mercy Health Centre II,21.0,True
+2024-02-01,God's Mercy Health Centre II,44.18181818181818,False
+2023-03-01,Good Hope Medical Centre(Gulu) Clinic,4.5,False
+2023-04-01,Good Hope Medical Centre(Gulu) Clinic,4.5,False
+2023-05-01,Good Hope Medical Centre(Gulu) Clinic,4.5,False
+2023-06-01,Good Hope Medical Centre(Gulu) Clinic,4.5,False
+2023-07-01,Good Hope Medical Centre(Gulu) Clinic,3.0,True
+2023-08-01,Good Hope Medical Centre(Gulu) Clinic,4.5,False
+2023-09-01,Good Hope Medical Centre(Gulu) Clinic,4.5,False
+2023-10-01,Good Hope Medical Centre(Gulu) Clinic,6.0,True
+2023-11-01,Good Hope Medical Centre(Gulu) Clinic,4.5,False
+2023-12-01,Good Hope Medical Centre(Gulu) Clinic,4.5,False
+2024-01-01,Good Hope Medical Centre(Gulu) Clinic,4.5,False
+2024-02-01,Good Hope Medical Centre(Gulu) Clinic,4.5,False
+2023-03-01,Goodsheperd Health Centre II,31.0,True
+2023-04-01,Goodsheperd Health Centre II,230.0,False
+2023-05-01,Goodsheperd Health Centre II,223.0,False
+2023-06-01,Goodsheperd Health Centre II,241.0,False
+2023-07-01,Goodsheperd Health Centre II,279.0,False
+2023-08-01,Goodsheperd Health Centre II,278.0,False
+2023-09-01,Goodsheperd Health Centre II,378.0,False
+2023-10-01,Goodsheperd Health Centre II,376.0,False
+2023-11-01,Goodsheperd Health Centre II,312.0,False
+2023-12-01,Goodsheperd Health Centre II,441.0,True
+2024-01-01,Goodsheperd Health Centre II,323.0,False
+2024-02-01,Goodsheperd Health Centre II,282.90909090909093,False
+2023-03-01,Gracius Clinic and Maternity Home,54.0,False
+2023-04-01,Gracius Clinic and Maternity Home,63.0,False
+2023-05-01,Gracius Clinic and Maternity Home,89.0,True
+2023-06-01,Gracius Clinic and Maternity Home,39.0,True
+2023-07-01,Gracius Clinic and Maternity Home,51.0,False
+2023-08-01,Gracius Clinic and Maternity Home,60.0,False
+2023-09-01,Gracius Clinic and Maternity Home,59.0,False
+2023-10-01,Gracius Clinic and Maternity Home,43.0,False
+2023-11-01,Gracius Clinic and Maternity Home,41.0,False
+2023-12-01,Gracius Clinic and Maternity Home,75.0,False
+2024-01-01,Gracius Clinic and Maternity Home,57.0,False
+2024-02-01,Gracius Clinic and Maternity Home,57.36363636363637,False
+2023-03-01,Gulu Independent Hospital,7.0,True
+2023-04-01,Gulu Independent Hospital,11.0,False
+2023-05-01,Gulu Independent Hospital,37.0,False
+2023-06-01,Gulu Independent Hospital,12.0,False
+2023-07-01,Gulu Independent Hospital,16.0,False
+2023-08-01,Gulu Independent Hospital,8.0,False
+2023-09-01,Gulu Independent Hospital,20.0,False
+2023-10-01,Gulu Independent Hospital,37.0,False
+2023-11-01,Gulu Independent Hospital,42.0,False
+2023-12-01,Gulu Independent Hospital,49.0,True
+2024-01-01,Gulu Independent Hospital,30.0,False
+2024-02-01,Gulu Independent Hospital,24.454545454545453,False
+2023-03-01,Gulu Military General Hospital,111.0,True
+2023-04-01,Gulu Military General Hospital,243.0,False
+2023-05-01,Gulu Military General Hospital,274.0,False
+2023-06-01,Gulu Military General Hospital,305.0,False
+2023-07-01,Gulu Military General Hospital,392.0,False
+2023-08-01,Gulu Military General Hospital,205.0,False
+2023-09-01,Gulu Military General Hospital,318.0,False
+2023-10-01,Gulu Military General Hospital,314.0,False
+2023-11-01,Gulu Military General Hospital,234.0,False
+2023-12-01,Gulu Military General Hospital,492.0,True
+2024-01-01,Gulu Military General Hospital,333.0,False
+2024-02-01,Gulu Military General Hospital,180.0,False
+2023-03-01,Gulu Police Health Centre III,118.0,False
+2023-04-01,Gulu Police Health Centre III,98.0,True
+2023-05-01,Gulu Police Health Centre III,275.0,False
+2023-06-01,Gulu Police Health Centre III,338.0,True
+2023-07-01,Gulu Police Health Centre III,328.0,False
+2023-08-01,Gulu Police Health Centre III,252.0,False
+2023-09-01,Gulu Police Health Centre III,149.0,False
+2023-10-01,Gulu Police Health Centre III,178.0,False
+2023-11-01,Gulu Police Health Centre III,238.0,False
+2023-12-01,Gulu Police Health Centre III,199.0,False
+2024-01-01,Gulu Police Health Centre III,220.0,False
+2024-02-01,Gulu Police Health Centre III,217.54545454545453,False
+2023-03-01,Gulu Prisons Health Centre III,211.8,False
+2023-04-01,Gulu Prisons Health Centre III,83.0,False
+2023-05-01,Gulu Prisons Health Centre III,248.0,False
+2023-06-01,Gulu Prisons Health Centre III,304.0,False
+2023-07-01,Gulu Prisons Health Centre III,210.0,False
+2023-08-01,Gulu Prisons Health Centre III,184.0,False
+2023-09-01,Gulu Prisons Health Centre III,188.0,False
+2023-10-01,Gulu Prisons Health Centre III,21.0,True
+2023-11-01,Gulu Prisons Health Centre III,252.0,False
+2023-12-01,Gulu Prisons Health Centre III,176.0,False
+2024-01-01,Gulu Prisons Health Centre III,452.0,True
+2024-02-01,Gulu Prisons Health Centre III,211.8,False
+2023-03-01,Gulu Regional Referral Hospital,94.0,True
+2023-04-01,Gulu Regional Referral Hospital,149.0,False
+2023-05-01,Gulu Regional Referral Hospital,385.0,True
+2023-06-01,Gulu Regional Referral Hospital,274.0,False
+2023-07-01,Gulu Regional Referral Hospital,299.0,False
+2023-08-01,Gulu Regional Referral Hospital,238.0,False
+2023-09-01,Gulu Regional Referral Hospital,240.0,False
+2023-10-01,Gulu Regional Referral Hospital,275.0,False
+2023-11-01,Gulu Regional Referral Hospital,268.0,False
+2023-12-01,Gulu Regional Referral Hospital,255.0,False
+2024-01-01,Gulu Regional Referral Hospital,247.7,False
+2024-02-01,Gulu Regional Referral Hospital,247.7,False
+2023-03-01,Gulu University Health Centre II,52.0,True
+2023-04-01,Gulu University Health Centre II,139.0,False
+2023-05-01,Gulu University Health Centre II,226.0,False
+2023-06-01,Gulu University Health Centre II,242.0,False
+2023-07-01,Gulu University Health Centre II,143.0,False
+2023-08-01,Gulu University Health Centre II,224.0,False
+2023-09-01,Gulu University Health Centre II,333.0,False
+2023-10-01,Gulu University Health Centre II,339.0,True
+2023-11-01,Gulu University Health Centre II,296.0,False
+2023-12-01,Gulu University Health Centre II,186.0,False
+2024-01-01,Gulu University Health Centre II,226.0,False
+2024-02-01,Gulu University Health Centre II,218.72727272727272,False
+2023-03-01,Gulu Women Prisons Health Centre II,1.0,True
+2023-04-01,Gulu Women Prisons Health Centre II,2.0,False
+2023-05-01,Gulu Women Prisons Health Centre II,12.0,False
+2023-06-01,Gulu Women Prisons Health Centre II,7.6,False
+2023-07-01,Gulu Women Prisons Health Centre II,2.0,False
+2023-08-01,Gulu Women Prisons Health Centre II,12.0,False
+2023-09-01,Gulu Women Prisons Health Centre II,11.0,False
+2023-10-01,Gulu Women Prisons Health Centre II,17.0,True
+2023-11-01,Gulu Women Prisons Health Centre II,4.0,False
+2023-12-01,Gulu Women Prisons Health Centre II,11.0,False
+2024-01-01,Gulu Women Prisons Health Centre II,4.0,False
+2024-02-01,Gulu Women Prisons Health Centre II,7.6,False
+2023-03-01,Guruguru Health Centre II,133.0,False
+2023-04-01,Guruguru Health Centre II,244.0909090909091,False
+2023-05-01,Guruguru Health Centre II,180.0,False
+2023-06-01,Guruguru Health Centre II,424.0,False
+2023-07-01,Guruguru Health Centre II,585.0,True
+2023-08-01,Guruguru Health Centre II,151.0,False
+2023-09-01,Guruguru Health Centre II,51.0,False
+2023-10-01,Guruguru Health Centre II,217.0,False
+2023-11-01,Guruguru Health Centre II,486.0,False
+2023-12-01,Guruguru Health Centre II,362.0,False
+2024-01-01,Guruguru Health Centre II,76.0,False
+2024-02-01,Guruguru Health Centre II,20.0,True
+2023-03-01,Gweng-Coo Health Centre II,247.0,False
+2023-04-01,Gweng-Coo Health Centre II,468.0,False
+2023-05-01,Gweng-Coo Health Centre II,527.0,False
+2023-06-01,Gweng-Coo Health Centre II,582.0,False
+2023-07-01,Gweng-Coo Health Centre II,562.0,False
+2023-08-01,Gweng-Coo Health Centre II,651.0,True
+2023-09-01,Gweng-Coo Health Centre II,423.0,False
+2023-10-01,Gweng-Coo Health Centre II,575.0,False
+2023-11-01,Gweng-Coo Health Centre II,479.0,False
+2023-12-01,Gweng-Coo Health Centre II,436.0,False
+2024-01-01,Gweng-Coo Health Centre II,218.0,True
+2024-02-01,Gweng-Coo Health Centre II,469.8181818181818,False
+2023-03-01,Gwengdiya Health Centre II,252.0,False
+2023-04-01,Gwengdiya Health Centre II,264.0,False
+2023-05-01,Gwengdiya Health Centre II,523.0,False
+2023-06-01,Gwengdiya Health Centre II,492.0,False
+2023-07-01,Gwengdiya Health Centre II,340.0,False
+2023-08-01,Gwengdiya Health Centre II,358.0,False
+2023-09-01,Gwengdiya Health Centre II,427.0,False
+2023-10-01,Gwengdiya Health Centre II,441.0,False
+2023-11-01,Gwengdiya Health Centre II,591.0,True
+2023-12-01,Gwengdiya Health Centre II,428.0,False
+2024-01-01,Gwengdiya Health Centre II,321.0,False
+2024-02-01,Gwengdiya Health Centre II,154.0,True
+2023-03-01,Healing Hand Medical Centre,60.0,True
+2023-04-01,Healing Hand Medical Centre,99.0,False
+2023-05-01,Healing Hand Medical Centre,161.0,False
+2023-06-01,Healing Hand Medical Centre,191.0,False
+2023-07-01,Healing Hand Medical Centre,187.0,False
+2023-08-01,Healing Hand Medical Centre,154.0,False
+2023-09-01,Healing Hand Medical Centre,189.0,False
+2023-10-01,Healing Hand Medical Centre,152.72727272727272,False
+2023-11-01,Healing Hand Medical Centre,109.0,False
+2023-12-01,Healing Hand Medical Centre,211.0,False
+2024-01-01,Healing Hand Medical Centre,211.0,False
+2024-02-01,Healing Hand Medical Centre,108.0,False
+2023-03-01,International Medical Centre,43.0,True
+2023-04-01,International Medical Centre,91.0,False
+2023-05-01,International Medical Centre,191.0,False
+2023-06-01,International Medical Centre,131.0,False
+2023-07-01,International Medical Centre,59.0,False
+2023-08-01,International Medical Centre,234.0,False
+2023-09-01,International Medical Centre,228.0,False
+2023-10-01,International Medical Centre,67.0,False
+2023-11-01,International Medical Centre,112.0,False
+2023-12-01,International Medical Centre,304.0,True
+2024-01-01,International Medical Centre,169.0,False
+2024-02-01,International Medical Centre,148.0909090909091,False
+2023-03-01,Irene Gleeson Foundation Health Centre II,61.0,False
+2023-04-01,Irene Gleeson Foundation Health Centre II,107.0,False
+2023-05-01,Irene Gleeson Foundation Health Centre II,93.0,False
+2023-06-01,Irene Gleeson Foundation Health Centre II,126.0,True
+2023-07-01,Irene Gleeson Foundation Health Centre II,32.0,False
+2023-08-01,Irene Gleeson Foundation Health Centre II,24.0,False
+2023-09-01,Irene Gleeson Foundation Health Centre II,36.0,False
+2023-10-01,Irene Gleeson Foundation Health Centre II,101.0,False
+2023-11-01,Irene Gleeson Foundation Health Centre II,61.0,False
+2023-12-01,Irene Gleeson Foundation Health Centre II,34.0,False
+2024-01-01,Irene Gleeson Foundation Health Centre II,18.0,True
+2024-02-01,Irene Gleeson Foundation Health Centre II,30.0,False
+2023-03-01,Jafo Medical Centre Clinic,42.0,False
+2023-04-01,Jafo Medical Centre Clinic,42.0,False
+2023-05-01,Jafo Medical Centre Clinic,50.0,False
+2023-06-01,Jafo Medical Centre Clinic,38.0,False
+2023-07-01,Jafo Medical Centre Clinic,34.0,True
+2023-08-01,Jafo Medical Centre Clinic,54.0,False
+2023-09-01,Jafo Medical Centre Clinic,70.0,True
+2023-10-01,Jafo Medical Centre Clinic,47.0,False
+2023-11-01,Jafo Medical Centre Clinic,45.0,False
+2023-12-01,Jafo Medical Centre Clinic,43.0,False
+2024-01-01,Jafo Medical Centre Clinic,40.0,False
+2024-02-01,Jafo Medical Centre Clinic,45.90909090909091,False
+2023-03-01,Jengari Health Centre II,284.0,False
+2023-04-01,Jengari Health Centre II,188.0,False
+2023-05-01,Jengari Health Centre II,186.0,False
+2023-06-01,Jengari Health Centre II,643.0,True
+2023-07-01,Jengari Health Centre II,524.0,False
+2023-08-01,Jengari Health Centre II,450.0,False
+2023-09-01,Jengari Health Centre II,259.0,False
+2023-10-01,Jengari Health Centre II,180.0,False
+2023-11-01,Jengari Health Centre II,206.0,False
+2023-12-01,Jengari Health Centre II,76.0,True
+2024-01-01,Jengari Health Centre II,84.0,False
+2024-02-01,Jengari Health Centre II,280.0,False
+2023-03-01,Kabala Health Centre II,192.0,False
+2023-04-01,Kabala Health Centre II,94.0,True
+2023-05-01,Kabala Health Centre II,231.0,False
+2023-06-01,Kabala Health Centre II,291.0,False
+2023-07-01,Kabala Health Centre II,503.0,False
+2023-08-01,Kabala Health Centre II,815.0,True
+2023-09-01,Kabala Health Centre II,466.0,False
+2023-10-01,Kabala Health Centre II,445.0,False
+2023-11-01,Kabala Health Centre II,320.0,False
+2023-12-01,Kabala Health Centre II,328.0,False
+2024-01-01,Kabala Health Centre II,341.0,False
+2024-02-01,Kabala Health Centre II,366.0,False
+2023-03-01,Kal Alii Health Centre II,175.0,False
+2023-04-01,Kal Alii Health Centre II,170.0,True
+2023-05-01,Kal Alii Health Centre II,469.0,False
+2023-06-01,Kal Alii Health Centre II,530.0,True
+2023-07-01,Kal Alii Health Centre II,444.0,False
+2023-08-01,Kal Alii Health Centre II,361.0,False
+2023-09-01,Kal Alii Health Centre II,478.0,False
+2023-10-01,Kal Alii Health Centre II,418.0,False
+2023-11-01,Kal Alii Health Centre II,445.0,False
+2023-12-01,Kal Alii Health Centre II,369.0,False
+2024-01-01,Kal Alii Health Centre II,291.0,False
+2024-02-01,Kal Alii Health Centre II,377.27272727272725,False
+2023-03-01,Kaladima Health Centre III,551.0,False
+2023-04-01,Kaladima Health Centre III,462.0,False
+2023-05-01,Kaladima Health Centre III,216.0,True
+2023-06-01,Kaladima Health Centre III,751.0,False
+2023-07-01,Kaladima Health Centre III,1293.0,True
+2023-08-01,Kaladima Health Centre III,789.0,False
+2023-09-01,Kaladima Health Centre III,689.0,False
+2023-10-01,Kaladima Health Centre III,853.0,False
+2023-11-01,Kaladima Health Centre III,814.0,False
+2023-12-01,Kaladima Health Centre III,504.0,False
+2024-01-01,Kaladima Health Centre III,610.0,False
+2024-02-01,Kaladima Health Centre III,684.7272727272727,False
+2023-03-01,Kaladima Prisons Clinic,26.0,False
+2023-04-01,Kaladima Prisons Clinic,55.0,False
+2023-05-01,Kaladima Prisons Clinic,65.625,False
+2023-06-01,Kaladima Prisons Clinic,65.625,False
+2023-07-01,Kaladima Prisons Clinic,16.0,True
+2023-08-01,Kaladima Prisons Clinic,31.0,False
+2023-09-01,Kaladima Prisons Clinic,65.625,False
+2023-10-01,Kaladima Prisons Clinic,60.0,False
+2023-11-01,Kaladima Prisons Clinic,111.0,False
+2023-12-01,Kaladima Prisons Clinic,141.0,True
+2024-01-01,Kaladima Prisons Clinic,85.0,False
+2024-02-01,Kaladima Prisons Clinic,65.625,False
+2023-03-01,Kapeta Health Centre II,146.0,False
+2023-04-01,Kapeta Health Centre II,111.0,False
+2023-05-01,Kapeta Health Centre II,408.0,False
+2023-06-01,Kapeta Health Centre II,598.0,True
+2023-07-01,Kapeta Health Centre II,267.0,False
+2023-08-01,Kapeta Health Centre II,3.0,True
+2023-09-01,Kapeta Health Centre II,101.0,False
+2023-10-01,Kapeta Health Centre II,357.0,False
+2023-11-01,Kapeta Health Centre II,254.0,False
+2023-12-01,Kapeta Health Centre II,110.0,False
+2024-01-01,Kapeta Health Centre II,104.0,False
+2024-02-01,Kapeta Health Centre II,223.54545454545453,False
+2023-03-01,Karin Medical Health Centre III,66.0,False
+2023-04-01,Karin Medical Health Centre III,73.0,False
+2023-05-01,Karin Medical Health Centre III,59.0,True
+2023-06-01,Karin Medical Health Centre III,85.0,False
+2023-07-01,Karin Medical Health Centre III,78.0,False
+2023-08-01,Karin Medical Health Centre III,68.0,False
+2023-09-01,Karin Medical Health Centre III,71.0,False
+2023-10-01,Karin Medical Health Centre III,78.0,False
+2023-11-01,Karin Medical Health Centre III,89.0,False
+2023-12-01,Karin Medical Health Centre III,149.0,True
+2024-01-01,Karin Medical Health Centre III,79.0,False
+2024-02-01,Karin Medical Health Centre III,81.36363636363636,False
+2023-03-01,Katum Health Centre III,202.0,False
+2023-04-01,Katum Health Centre III,142.0,False
+2023-05-01,Katum Health Centre III,528.0,False
+2023-06-01,Katum Health Centre III,610.0,False
+2023-07-01,Katum Health Centre III,490.0,False
+2023-08-01,Katum Health Centre III,32.0,True
+2023-09-01,Katum Health Centre III,550.0,False
+2023-10-01,Katum Health Centre III,251.0,False
+2023-11-01,Katum Health Centre III,532.0,False
+2023-12-01,Katum Health Centre III,668.0,True
+2024-01-01,Katum Health Centre III,493.0,False
+2024-02-01,Katum Health Centre III,408.90909090909093,False
+2023-03-01,Keyo Health Centre II,160.0,False
+2023-04-01,Keyo Health Centre II,213.0,False
+2023-05-01,Keyo Health Centre II,155.0,False
+2023-06-01,Keyo Health Centre II,106.0,True
+2023-07-01,Keyo Health Centre II,220.0,False
+2023-08-01,Keyo Health Centre II,241.7,False
+2023-09-01,Keyo Health Centre II,441.0,True
+2023-10-01,Keyo Health Centre II,264.0,False
+2023-11-01,Keyo Health Centre II,314.0,False
+2023-12-01,Keyo Health Centre II,312.0,False
+2024-01-01,Keyo Health Centre II,232.0,False
+2024-02-01,Keyo Health Centre II,241.7,False
+2023-03-01,Keyo Medical Health Centre II,9.0,True
+2023-04-01,Keyo Medical Health Centre II,12.0,False
+2023-05-01,Keyo Medical Health Centre II,22.75,False
+2023-06-01,Keyo Medical Health Centre II,53.0,True
+2023-07-01,Keyo Medical Health Centre II,22.75,False
+2023-08-01,Keyo Medical Health Centre II,22.75,False
+2023-09-01,Keyo Medical Health Centre II,22.75,False
+2023-10-01,Keyo Medical Health Centre II,17.0,False
+2023-11-01,Keyo Medical Health Centre II,22.75,False
+2023-12-01,Keyo Medical Health Centre II,22.75,False
+2024-01-01,Keyo Medical Health Centre II,22.75,False
+2024-02-01,Keyo Medical Health Centre II,22.75,False
+2023-03-01,Kibar Health Centre III,173.0,False
+2023-04-01,Kibar Health Centre III,151.0,False
+2023-05-01,Kibar Health Centre III,226.0,False
+2023-06-01,Kibar Health Centre III,341.0,False
+2023-07-01,Kibar Health Centre III,239.0,False
+2023-08-01,Kibar Health Centre III,316.0,False
+2023-09-01,Kibar Health Centre III,53.0,True
+2023-10-01,Kibar Health Centre III,179.0,False
+2023-11-01,Kibar Health Centre III,485.0,True
+2023-12-01,Kibar Health Centre III,481.0,False
+2024-01-01,Kibar Health Centre III,151.0,False
+2024-02-01,Kibar Health Centre III,254.0909090909091,False
+2023-03-01,Kilak Health Centre III,298.0,False
+2023-04-01,Kilak Health Centre III,260.0,True
+2023-05-01,Kilak Health Centre III,539.0,False
+2023-06-01,Kilak Health Centre III,688.0,False
+2023-07-01,Kilak Health Centre III,653.0,False
+2023-08-01,Kilak Health Centre III,717.0,True
+2023-09-01,Kilak Health Centre III,553.0,False
+2023-10-01,Kilak Health Centre III,596.0,False
+2023-11-01,Kilak Health Centre III,656.0,False
+2023-12-01,Kilak Health Centre III,444.0,False
+2024-01-01,Kilak Health Centre III,339.0,False
+2024-02-01,Kilak Health Centre III,522.0909090909091,False
+2023-03-01,Kitgum General Hospital,260.0,True
+2023-04-01,Kitgum General Hospital,671.0,False
+2023-05-01,Kitgum General Hospital,587.0,False
+2023-06-01,Kitgum General Hospital,586.0,False
+2023-07-01,Kitgum General Hospital,688.0,False
+2023-08-01,Kitgum General Hospital,609.0,False
+2023-09-01,Kitgum General Hospital,873.0,False
+2023-10-01,Kitgum General Hospital,581.0,False
+2023-11-01,Kitgum General Hospital,707.0,False
+2023-12-01,Kitgum General Hospital,690.0,False
+2024-01-01,Kitgum General Hospital,942.0,True
+2024-02-01,Kitgum General Hospital,654.0,False
+2023-03-01,Kitgum Maternity and Medical Centre,230.625,False
+2023-04-01,Kitgum Maternity and Medical Centre,388.0,False
+2023-05-01,Kitgum Maternity and Medical Centre,330.0,False
+2023-06-01,Kitgum Maternity and Medical Centre,470.0,True
+2023-07-01,Kitgum Maternity and Medical Centre,330.0,False
+2023-08-01,Kitgum Maternity and Medical Centre,230.625,False
+2023-09-01,Kitgum Maternity and Medical Centre,230.625,False
+2023-10-01,Kitgum Maternity and Medical Centre,112.0,False
+2023-11-01,Kitgum Maternity and Medical Centre,45.0,True
+2023-12-01,Kitgum Maternity and Medical Centre,107.0,False
+2024-01-01,Kitgum Maternity and Medical Centre,63.0,False
+2024-02-01,Kitgum Maternity and Medical Centre,230.625,False
+2023-03-01,Kitgum Police Health Centre II,136.0,False
+2023-04-01,Kitgum Police Health Centre II,127.0,False
+2023-05-01,Kitgum Police Health Centre II,52.0,False
+2023-06-01,Kitgum Police Health Centre II,498.0,True
+2023-07-01,Kitgum Police Health Centre II,162.0,False
+2023-08-01,Kitgum Police Health Centre II,95.0,False
+2023-09-01,Kitgum Police Health Centre II,49.0,True
+2023-10-01,Kitgum Police Health Centre II,220.0,False
+2023-11-01,Kitgum Police Health Centre II,174.0,False
+2023-12-01,Kitgum Police Health Centre II,207.0,False
+2024-01-01,Kitgum Police Health Centre II,190.0,False
+2024-02-01,Kitgum Police Health Centre II,173.63636363636363,False
+2023-03-01,Kitgum Prisons Health Centre II,30.0,False
+2023-04-01,Kitgum Prisons Health Centre II,56.0,False
+2023-05-01,Kitgum Prisons Health Centre II,83.0,False
+2023-06-01,Kitgum Prisons Health Centre II,110.0,True
+2023-07-01,Kitgum Prisons Health Centre II,69.0,False
+2023-08-01,Kitgum Prisons Health Centre II,40.0,False
+2023-09-01,Kitgum Prisons Health Centre II,34.0,False
+2023-10-01,Kitgum Prisons Health Centre II,53.0,False
+2023-11-01,Kitgum Prisons Health Centre II,30.0,False
+2023-12-01,Kitgum Prisons Health Centre II,41.0,False
+2024-01-01,Kitgum Prisons Health Centre II,33.0,False
+2024-02-01,Kitgum Prisons Health Centre II,52.63636363636363,False
+2023-03-01,Kitgum Youth Centre Clinic,32.0,False
+2023-04-01,Kitgum Youth Centre Clinic,38.0,False
+2023-05-01,Kitgum Youth Centre Clinic,73.0,True
+2023-06-01,Kitgum Youth Centre Clinic,62.0,False
+2023-07-01,Kitgum Youth Centre Clinic,44.0,False
+2023-08-01,Kitgum Youth Centre Clinic,65.0,False
+2023-09-01,Kitgum Youth Centre Clinic,44.0,False
+2023-10-01,Kitgum Youth Centre Clinic,65.0,False
+2023-11-01,Kitgum Youth Centre Clinic,33.0,False
+2023-12-01,Kitgum Youth Centre Clinic,31.0,True
+2024-01-01,Kitgum Youth Centre Clinic,50.0,False
+2024-02-01,Kitgum Youth Centre Clinic,48.81818181818182,False
+2023-03-01,Kitgum-Matidi Health Centre III,258.0,False
+2023-04-01,Kitgum-Matidi Health Centre III,201.0,True
+2023-05-01,Kitgum-Matidi Health Centre III,663.0,False
+2023-06-01,Kitgum-Matidi Health Centre III,714.0,False
+2023-07-01,Kitgum-Matidi Health Centre III,726.0,False
+2023-08-01,Kitgum-Matidi Health Centre III,899.0,False
+2023-09-01,Kitgum-Matidi Health Centre III,929.0,True
+2023-10-01,Kitgum-Matidi Health Centre III,750.0,False
+2023-11-01,Kitgum-Matidi Health Centre III,575.0,False
+2023-12-01,Kitgum-Matidi Health Centre III,561.0,False
+2024-01-01,Kitgum-Matidi Health Centre III,591.0,False
+2024-02-01,Kitgum-Matidi Health Centre III,255.0,False
+2023-03-01,Koch Goma Health Centre III,363.0,True
+2023-04-01,Koch Goma Health Centre III,448.0,False
+2023-05-01,Koch Goma Health Centre III,1348.0,True
+2023-06-01,Koch Goma Health Centre III,783.0,False
+2023-07-01,Koch Goma Health Centre III,660.0,False
+2023-08-01,Koch Goma Health Centre III,519.0,False
+2023-09-01,Koch Goma Health Centre III,650.0,False
+2023-10-01,Koch Goma Health Centre III,1029.0,False
+2023-11-01,Koch Goma Health Centre III,807.0,False
+2023-12-01,Koch Goma Health Centre III,626.0,False
+2024-01-01,Koch Goma Health Centre III,440.0,False
+2024-02-01,Koch Goma Health Centre III,697.5454545454545,False
+2023-03-01,Koch Lii Health Centre III,276.0,True
+2023-04-01,Koch Lii Health Centre III,575.0,False
+2023-05-01,Koch Lii Health Centre III,911.0,True
+2023-06-01,Koch Lii Health Centre III,893.0,False
+2023-07-01,Koch Lii Health Centre III,565.0,False
+2023-08-01,Koch Lii Health Centre III,595.0,False
+2023-09-01,Koch Lii Health Centre III,345.0,False
+2023-10-01,Koch Lii Health Centre III,675.0,False
+2023-11-01,Koch Lii Health Centre III,886.0,False
+2023-12-01,Koch Lii Health Centre III,557.0,False
+2024-01-01,Koch Lii Health Centre III,568.0,False
+2024-02-01,Koch Lii Health Centre III,622.3636363636364,False
+2023-03-01,Kokil Health Centre II,185.0,False
+2023-04-01,Kokil Health Centre II,131.0,False
+2023-05-01,Kokil Health Centre II,624.0,False
+2023-06-01,Kokil Health Centre II,823.0,False
+2023-07-01,Kokil Health Centre II,620.0,False
+2023-08-01,Kokil Health Centre II,1128.0,True
+2023-09-01,Kokil Health Centre II,623.0,False
+2023-10-01,Kokil Health Centre II,647.0,False
+2023-11-01,Kokil Health Centre II,562.0,False
+2023-12-01,Kokil Health Centre II,137.0,False
+2024-01-01,Kokil Health Centre II,96.0,True
+2024-02-01,Kokil Health Centre II,506.90909090909093,False
+2023-03-01,Koro Abili Health Centre II,119.0,True
+2023-04-01,Koro Abili Health Centre II,131.0,False
+2023-05-01,Koro Abili Health Centre II,273.0,False
+2023-06-01,Koro Abili Health Centre II,245.0,False
+2023-07-01,Koro Abili Health Centre II,279.0,False
+2023-08-01,Koro Abili Health Centre II,294.0,False
+2023-09-01,Koro Abili Health Centre II,224.0,False
+2023-10-01,Koro Abili Health Centre II,232.0,False
+2023-11-01,Koro Abili Health Centre II,345.0,True
+2023-12-01,Koro Abili Health Centre II,187.0,False
+2024-01-01,Koro Abili Health Centre II,337.0,False
+2024-02-01,Koro Abili Health Centre II,242.36363636363637,False
+2023-03-01,Kotomor Health Centre III,271.0,False
+2023-04-01,Kotomor Health Centre III,190.0,True
+2023-05-01,Kotomor Health Centre III,628.0,False
+2023-06-01,Kotomor Health Centre III,809.0,False
+2023-07-01,Kotomor Health Centre III,1378.0,True
+2023-08-01,Kotomor Health Centre III,763.0,False
+2023-09-01,Kotomor Health Centre III,601.0,False
+2023-10-01,Kotomor Health Centre III,412.0,False
+2023-11-01,Kotomor Health Centre III,593.8,False
+2023-12-01,Kotomor Health Centre III,473.0,False
+2024-01-01,Kotomor Health Centre III,413.0,False
+2024-02-01,Kotomor Health Centre III,593.8,False
+2023-03-01,Kuywee Health Centre II,229.0,False
+2023-04-01,Kuywee Health Centre II,208.0,False
+2023-05-01,Kuywee Health Centre II,567.0,False
+2023-06-01,Kuywee Health Centre II,900.0,False
+2023-07-01,Kuywee Health Centre II,598.0,False
+2023-08-01,Kuywee Health Centre II,1225.0,True
+2023-09-01,Kuywee Health Centre II,762.0,False
+2023-10-01,Kuywee Health Centre II,273.0,False
+2023-11-01,Kuywee Health Centre II,520.0,False
+2023-12-01,Kuywee Health Centre II,144.0,False
+2024-01-01,Kuywee Health Centre II,67.0,True
+2024-02-01,Kuywee Health Centre II,499.3636363636364,False
+2023-03-01,Kwonkic Health Centre II,256.0,False
+2023-04-01,Kwonkic Health Centre II,691.0,False
+2023-05-01,Kwonkic Health Centre II,529.0,False
+2023-06-01,Kwonkic Health Centre II,848.0,False
+2023-07-01,Kwonkic Health Centre II,733.0,False
+2023-08-01,Kwonkic Health Centre II,995.0,True
+2023-09-01,Kwonkic Health Centre II,162.0,False
+2023-10-01,Kwonkic Health Centre II,677.0,False
+2023-11-01,Kwonkic Health Centre II,459.0,False
+2023-12-01,Kwonkic Health Centre II,300.0,False
+2024-01-01,Kwonkic Health Centre II,13.0,True
+2024-02-01,Kwonkic Health Centre II,514.8181818181819,False
+2023-03-01,Labongogali Health Centre III,82.0,True
+2023-04-01,Labongogali Health Centre III,494.0,False
+2023-05-01,Labongogali Health Centre III,740.0,True
+2023-06-01,Labongogali Health Centre III,426.0,False
+2023-07-01,Labongogali Health Centre III,163.0,False
+2023-08-01,Labongogali Health Centre III,388.2,False
+2023-09-01,Labongogali Health Centre III,118.0,False
+2023-10-01,Labongogali Health Centre III,440.0,False
+2023-11-01,Labongogali Health Centre III,569.0,False
+2023-12-01,Labongogali Health Centre III,431.0,False
+2024-01-01,Labongogali Health Centre III,419.0,False
+2024-02-01,Labongogali Health Centre III,388.2,False
+2023-03-01,Labora Clinic,54.0,False
+2023-04-01,Labora Clinic,54.0,False
+2023-05-01,Labora Clinic,54.0,False
+2023-06-01,Labora Clinic,54.0,False
+2023-07-01,Labora Clinic,54.0,False
+2023-08-01,Labora Clinic,54.0,False
+2023-09-01,Labora Clinic,54.0,False
+2023-10-01,Labora Clinic,54.0,False
+2023-11-01,Labora Clinic,54.0,False
+2023-12-01,Labora Clinic,54.0,False
+2024-01-01,Labora Clinic,54.0,False
+2024-02-01,Labora Clinic,54.0,False
+2023-03-01,Labworomor Health Centre III,323.0,False
+2023-04-01,Labworomor Health Centre III,172.0,True
+2023-05-01,Labworomor Health Centre III,558.0,False
+2023-06-01,Labworomor Health Centre III,835.0,True
+2023-07-01,Labworomor Health Centre III,623.0,False
+2023-08-01,Labworomor Health Centre III,529.0,False
+2023-09-01,Labworomor Health Centre III,479.0,False
+2023-10-01,Labworomor Health Centre III,581.0,False
+2023-11-01,Labworomor Health Centre III,716.0,False
+2023-12-01,Labworomor Health Centre III,454.0,False
+2024-01-01,Labworomor Health Centre III,492.0,False
+2024-02-01,Labworomor Health Centre III,523.8181818181819,False
+2023-03-01,Lacor Opit Health Centre III,209.0,True
+2023-04-01,Lacor Opit Health Centre III,345.0,False
+2023-05-01,Lacor Opit Health Centre III,370.0,False
+2023-06-01,Lacor Opit Health Centre III,334.0,False
+2023-07-01,Lacor Opit Health Centre III,338.0,False
+2023-08-01,Lacor Opit Health Centre III,461.0,True
+2023-09-01,Lacor Opit Health Centre III,382.0,False
+2023-10-01,Lacor Opit Health Centre III,428.0,False
+2023-11-01,Lacor Opit Health Centre III,419.0,False
+2023-12-01,Lacor Opit Health Centre III,319.0,False
+2024-01-01,Lacor Opit Health Centre III,227.0,False
+2024-02-01,Lacor Opit Health Centre III,348.3636363636364,False
+2023-03-01,Lacor-Pabbo Health Centre III,147.0,True
+2023-04-01,Lacor-Pabbo Health Centre III,284.0,False
+2023-05-01,Lacor-Pabbo Health Centre III,447.0,False
+2023-06-01,Lacor-Pabbo Health Centre III,426.0,False
+2023-07-01,Lacor-Pabbo Health Centre III,303.0,False
+2023-08-01,Lacor-Pabbo Health Centre III,423.0,False
+2023-09-01,Lacor-Pabbo Health Centre III,449.0,False
+2023-10-01,Lacor-Pabbo Health Centre III,514.0,True
+2023-11-01,Lacor-Pabbo Health Centre III,449.0,False
+2023-12-01,Lacor-Pabbo Health Centre III,469.0,False
+2024-01-01,Lacor-Pabbo Health Centre III,391.1,False
+2024-02-01,Lacor-Pabbo Health Centre III,391.1,False
+2023-03-01,Lagile Health Centre II,199.0,True
+2023-04-01,Lagile Health Centre II,361.0,False
+2023-05-01,Lagile Health Centre II,623.0,False
+2023-06-01,Lagile Health Centre II,659.0,False
+2023-07-01,Lagile Health Centre II,1107.0,True
+2023-08-01,Lagile Health Centre II,678.0,False
+2023-09-01,Lagile Health Centre II,459.0,False
+2023-10-01,Lagile Health Centre II,414.0,False
+2023-11-01,Lagile Health Centre II,447.0,False
+2023-12-01,Lagile Health Centre II,296.0,False
+2024-01-01,Lagile Health Centre II,213.0,False
+2024-02-01,Lagile Health Centre II,496.0,False
+2023-03-01,Lagot Health Centre II,296.0,False
+2023-04-01,Lagot Health Centre II,125.0,True
+2023-05-01,Lagot Health Centre II,493.0,False
+2023-06-01,Lagot Health Centre II,785.0,False
+2023-07-01,Lagot Health Centre II,564.0,False
+2023-08-01,Lagot Health Centre II,723.0,False
+2023-09-01,Lagot Health Centre II,620.0,False
+2023-10-01,Lagot Health Centre II,883.0,True
+2023-11-01,Lagot Health Centre II,340.0,False
+2023-12-01,Lagot Health Centre II,414.0,False
+2024-01-01,Lagot Health Centre II,448.0,False
+2024-02-01,Lagot Health Centre II,517.3636363636364,False
+2023-03-01,Laguti Health Centre III,384.0,False
+2023-04-01,Laguti Health Centre III,370.0,False
+2023-05-01,Laguti Health Centre III,616.0,False
+2023-06-01,Laguti Health Centre III,587.0,False
+2023-07-01,Laguti Health Centre III,806.0,False
+2023-08-01,Laguti Health Centre III,597.0,False
+2023-09-01,Laguti Health Centre III,487.0,False
+2023-10-01,Laguti Health Centre III,380.0,False
+2023-11-01,Laguti Health Centre III,879.0,True
+2023-12-01,Laguti Health Centre III,377.0,False
+2024-01-01,Laguti Health Centre III,357.0,False
+2024-02-01,Laguti Health Centre III,187.0,True
+2023-03-01,Lakony Medcal Centre,27.0,True
+2023-04-01,Lakony Medcal Centre,37.0,False
+2023-05-01,Lakony Medcal Centre,34.0,False
+2023-06-01,Lakony Medcal Centre,31.0,False
+2023-07-01,Lakony Medcal Centre,40.0,False
+2023-08-01,Lakony Medcal Centre,38.0,False
+2023-09-01,Lakony Medcal Centre,28.0,False
+2023-10-01,Lakony Medcal Centre,60.0,False
+2023-11-01,Lakony Medcal Centre,55.0,False
+2023-12-01,Lakony Medcal Centre,73.0,True
+2024-01-01,Lakony Medcal Centre,67.0,False
+2024-02-01,Lakony Medcal Centre,44.54545454545455,False
+2023-03-01,Lakwatomer Health Centre III,265.0,False
+2023-04-01,Lakwatomer Health Centre III,570.0,False
+2023-05-01,Lakwatomer Health Centre III,514.0,False
+2023-06-01,Lakwatomer Health Centre III,707.0,False
+2023-07-01,Lakwatomer Health Centre III,997.0,True
+2023-08-01,Lakwatomer Health Centre III,665.0,False
+2023-09-01,Lakwatomer Health Centre III,37.0,True
+2023-10-01,Lakwatomer Health Centre III,599.0,False
+2023-11-01,Lakwatomer Health Centre III,799.0,False
+2023-12-01,Lakwatomer Health Centre III,357.0,False
+2024-01-01,Lakwatomer Health Centre III,139.0,False
+2024-02-01,Lakwatomer Health Centre III,513.5454545454545,False
+2023-03-01,Lakwor Health Centre II,150.0,True
+2023-04-01,Lakwor Health Centre II,179.0,False
+2023-05-01,Lakwor Health Centre II,383.0,False
+2023-06-01,Lakwor Health Centre II,665.0,False
+2023-07-01,Lakwor Health Centre II,603.0,False
+2023-08-01,Lakwor Health Centre II,949.0,True
+2023-09-01,Lakwor Health Centre II,684.0,False
+2023-10-01,Lakwor Health Centre II,676.0,False
+2023-11-01,Lakwor Health Centre II,619.0,False
+2023-12-01,Lakwor Health Centre II,457.0,False
+2024-01-01,Lakwor Health Centre II,282.0,False
+2024-02-01,Lakwor Health Centre II,513.3636363636364,False
+2023-03-01,Lalekan Health Centre II,174.0,False
+2023-04-01,Lalekan Health Centre II,85.0,True
+2023-05-01,Lalekan Health Centre II,285.0,False
+2023-06-01,Lalekan Health Centre II,754.0,False
+2023-07-01,Lalekan Health Centre II,261.0,False
+2023-08-01,Lalekan Health Centre II,575.0,False
+2023-09-01,Lalekan Health Centre II,1208.0,True
+2023-10-01,Lalekan Health Centre II,457.0,False
+2023-11-01,Lalekan Health Centre II,169.0,False
+2023-12-01,Lalekan Health Centre II,195.0,False
+2024-01-01,Lalekan Health Centre II,215.0,False
+2024-02-01,Lalekan Health Centre II,117.0,False
+2023-03-01,Lalogi Health Centre IV,552.0,False
+2023-04-01,Lalogi Health Centre IV,482.0,True
+2023-05-01,Lalogi Health Centre IV,562.0,False
+2023-06-01,Lalogi Health Centre IV,1820.0,True
+2023-07-01,Lalogi Health Centre IV,1580.0,False
+2023-08-01,Lalogi Health Centre IV,1456.0,False
+2023-09-01,Lalogi Health Centre IV,717.0,False
+2023-10-01,Lalogi Health Centre IV,1498.0,False
+2023-11-01,Lalogi Health Centre IV,1129.0,False
+2023-12-01,Lalogi Health Centre IV,909.0,False
+2024-01-01,Lalogi Health Centre IV,910.0,False
+2024-02-01,Lalogi Health Centre IV,1055.909090909091,False
+2023-03-01,Lamiyo Health Centre III,611.0,False
+2023-04-01,Lamiyo Health Centre III,360.0,False
+2023-05-01,Lamiyo Health Centre III,468.0,False
+2023-06-01,Lamiyo Health Centre III,587.0,False
+2023-07-01,Lamiyo Health Centre III,562.0,False
+2023-08-01,Lamiyo Health Centre III,616.0,False
+2023-09-01,Lamiyo Health Centre III,751.0,True
+2023-10-01,Lamiyo Health Centre III,713.0,False
+2023-11-01,Lamiyo Health Centre III,153.0,False
+2023-12-01,Lamiyo Health Centre III,79.0,True
+2024-01-01,Lamiyo Health Centre III,182.0,False
+2024-02-01,Lamiyo Health Centre III,462.0,False
+2023-03-01,Lamwo Prisons Health Centre II,24.0,False
+2023-04-01,Lamwo Prisons Health Centre II,22.0,False
+2023-05-01,Lamwo Prisons Health Centre II,25.0,False
+2023-06-01,Lamwo Prisons Health Centre II,32.0,False
+2023-07-01,Lamwo Prisons Health Centre II,22.0,False
+2023-08-01,Lamwo Prisons Health Centre II,32.0,False
+2023-09-01,Lamwo Prisons Health Centre II,22.0,False
+2023-10-01,Lamwo Prisons Health Centre II,51.0,False
+2023-11-01,Lamwo Prisons Health Centre II,39.0,False
+2023-12-01,Lamwo Prisons Health Centre II,71.0,False
+2024-01-01,Lamwo Prisons Health Centre II,92.0,True
+2024-02-01,Lamwo Prisons Health Centre II,39.27272727272727,False
+2023-03-01,Lanenober Health Centre III,412.0,False
+2023-04-01,Lanenober Health Centre III,412.0,False
+2023-05-01,Lanenober Health Centre III,742.0,False
+2023-06-01,Lanenober Health Centre III,972.0,True
+2023-07-01,Lanenober Health Centre III,608.0,False
+2023-08-01,Lanenober Health Centre III,587.0,False
+2023-09-01,Lanenober Health Centre III,237.0,False
+2023-10-01,Lanenober Health Centre III,603.0,False
+2023-11-01,Lanenober Health Centre III,497.0,False
+2023-12-01,Lanenober Health Centre III,209.0,False
+2024-01-01,Lanenober Health Centre III,163.0,True
+2024-02-01,Lanenober Health Centre III,494.72727272727275,False
+2023-03-01,Langol Health Centre II,389.0,False
+2023-04-01,Langol Health Centre II,356.0,False
+2023-05-01,Langol Health Centre II,279.0,False
+2023-06-01,Langol Health Centre II,784.0,True
+2023-07-01,Langol Health Centre II,167.0,False
+2023-08-01,Langol Health Centre II,190.0,False
+2023-09-01,Langol Health Centre II,117.0,True
+2023-10-01,Langol Health Centre II,528.0,False
+2023-11-01,Langol Health Centre II,642.0,False
+2023-12-01,Langol Health Centre II,283.0,False
+2024-01-01,Langol Health Centre II,152.0,False
+2024-02-01,Langol Health Centre II,353.3636363636364,False
+2023-03-01,Lanyirinyiri Health Centre II,254.0,False
+2023-04-01,Lanyirinyiri Health Centre II,261.0,False
+2023-05-01,Lanyirinyiri Health Centre II,527.0,False
+2023-06-01,Lanyirinyiri Health Centre II,617.0,False
+2023-07-01,Lanyirinyiri Health Centre II,584.0,False
+2023-08-01,Lanyirinyiri Health Centre II,663.0,True
+2023-09-01,Lanyirinyiri Health Centre II,398.0,False
+2023-10-01,Lanyirinyiri Health Centre II,381.0,False
+2023-11-01,Lanyirinyiri Health Centre II,401.0,False
+2023-12-01,Lanyirinyiri Health Centre II,318.0,False
+2024-01-01,Lanyirinyiri Health Centre II,122.0,True
+2024-02-01,Lanyirinyiri Health Centre II,411.45454545454544,False
+2023-03-01,Lapainat Health Centre III,342.0,False
+2023-04-01,Lapainat Health Centre III,323.0,False
+2023-05-01,Lapainat Health Centre III,398.0,False
+2023-06-01,Lapainat Health Centre III,608.0,False
+2023-07-01,Lapainat Health Centre III,506.0,False
+2023-08-01,Lapainat Health Centre III,737.0,True
+2023-09-01,Lapainat Health Centre III,306.0,False
+2023-10-01,Lapainat Health Centre III,321.0,False
+2023-11-01,Lapainat Health Centre III,563.0,False
+2023-12-01,Lapainat Health Centre III,528.0,False
+2024-01-01,Lapainat Health Centre III,270.0,False
+2024-02-01,Lapainat Health Centre III,210.0,True
+2023-03-01,Lapeta Health Centre II,193.0,False
+2023-04-01,Lapeta Health Centre II,165.0,False
+2023-05-01,Lapeta Health Centre II,271.0,False
+2023-06-01,Lapeta Health Centre II,347.0,False
+2023-07-01,Lapeta Health Centre II,361.0,False
+2023-08-01,Lapeta Health Centre II,6.0,True
+2023-09-01,Lapeta Health Centre II,16.0,False
+2023-10-01,Lapeta Health Centre II,248.0,False
+2023-11-01,Lapeta Health Centre II,367.0,True
+2023-12-01,Lapeta Health Centre II,254.0,False
+2024-01-01,Lapeta Health Centre II,180.0,False
+2024-02-01,Lapeta Health Centre II,218.9090909090909,False
+2023-03-01,Lapirin Health Centre III,496.0,False
+2023-04-01,Lapirin Health Centre III,175.0,True
+2023-05-01,Lapirin Health Centre III,456.0,False
+2023-06-01,Lapirin Health Centre III,839.0,False
+2023-07-01,Lapirin Health Centre III,1388.0,True
+2023-08-01,Lapirin Health Centre III,507.0,False
+2023-09-01,Lapirin Health Centre III,832.0,False
+2023-10-01,Lapirin Health Centre III,652.0,False
+2023-11-01,Lapirin Health Centre III,964.0,False
+2023-12-01,Lapirin Health Centre III,386.0,False
+2024-01-01,Lapirin Health Centre III,199.0,False
+2024-02-01,Lapirin Health Centre III,626.7272727272727,False
+2023-03-01,Lapul Health Centre III,346.0,True
+2023-04-01,Lapul Health Centre III,359.0,False
+2023-05-01,Lapul Health Centre III,900.0,True
+2023-06-01,Lapul Health Centre III,680.0,False
+2023-07-01,Lapul Health Centre III,764.0,False
+2023-08-01,Lapul Health Centre III,755.0,False
+2023-09-01,Lapul Health Centre III,705.0,False
+2023-10-01,Lapul Health Centre III,520.0,False
+2023-11-01,Lapul Health Centre III,541.0,False
+2023-12-01,Lapul Health Centre III,387.0,False
+2024-01-01,Lapul Health Centre III,368.0,False
+2024-02-01,Lapul Health Centre III,575.0,False
+2023-03-01,Lapulocwida Health Centre III,411.0,True
+2023-04-01,Lapulocwida Health Centre III,427.0,False
+2023-05-01,Lapulocwida Health Centre III,978.0,False
+2023-06-01,Lapulocwida Health Centre III,808.0,False
+2023-07-01,Lapulocwida Health Centre III,1037.0,True
+2023-08-01,Lapulocwida Health Centre III,848.0,False
+2023-09-01,Lapulocwida Health Centre III,551.0,False
+2023-10-01,Lapulocwida Health Centre III,432.0,False
+2023-11-01,Lapulocwida Health Centre III,681.0,False
+2023-12-01,Lapulocwida Health Centre III,485.0,False
+2024-01-01,Lapulocwida Health Centre III,427.0,False
+2024-02-01,Lapulocwida Health Centre III,644.0909090909091,False
+2023-03-01,Laroo Health Centre III,165.0,False
+2023-04-01,Laroo Health Centre III,164.0,True
+2023-05-01,Laroo Health Centre III,364.0,False
+2023-06-01,Laroo Health Centre III,267.0,False
+2023-07-01,Laroo Health Centre III,212.0,False
+2023-08-01,Laroo Health Centre III,286.0,False
+2023-09-01,Laroo Health Centre III,325.0,False
+2023-10-01,Laroo Health Centre III,386.0,False
+2023-11-01,Laroo Health Centre III,406.0,True
+2023-12-01,Laroo Health Centre III,385.0,False
+2024-01-01,Laroo Health Centre III,222.0,False
+2024-02-01,Laroo Health Centre III,289.27272727272725,False
+2023-03-01,Latanya Health Centre II,172.0,False
+2023-04-01,Latanya Health Centre II,173.0,False
+2023-05-01,Latanya Health Centre II,642.0,False
+2023-06-01,Latanya Health Centre II,574.0,False
+2023-07-01,Latanya Health Centre II,719.0,True
+2023-08-01,Latanya Health Centre II,547.0,False
+2023-09-01,Latanya Health Centre II,317.0,False
+2023-10-01,Latanya Health Centre II,461.0,False
+2023-11-01,Latanya Health Centre II,348.0,False
+2023-12-01,Latanya Health Centre II,382.0,False
+2024-01-01,Latanya Health Centre II,70.0,True
+2024-02-01,Latanya Health Centre II,400.45454545454544,False
+2023-03-01,Latigi Health Centre II,193.0,True
+2023-04-01,Latigi Health Centre II,222.0,False
+2023-05-01,Latigi Health Centre II,447.0,False
+2023-06-01,Latigi Health Centre II,412.0,False
+2023-07-01,Latigi Health Centre II,458.0,False
+2023-08-01,Latigi Health Centre II,554.0,True
+2023-09-01,Latigi Health Centre II,367.0,False
+2023-10-01,Latigi Health Centre II,389.0,False
+2023-11-01,Latigi Health Centre II,366.0,False
+2023-12-01,Latigi Health Centre II,244.0,False
+2024-01-01,Latigi Health Centre II,235.0,False
+2024-02-01,Latigi Health Centre II,353.3636363636364,False
+2023-03-01,Latoro Health Centre II,503.0,False
+2023-04-01,Latoro Health Centre II,518.0,False
+2023-05-01,Latoro Health Centre II,232.0,True
+2023-06-01,Latoro Health Centre II,522.0,False
+2023-07-01,Latoro Health Centre II,755.0,True
+2023-08-01,Latoro Health Centre II,286.0,False
+2023-09-01,Latoro Health Centre II,408.0,False
+2023-10-01,Latoro Health Centre II,465.0,False
+2023-11-01,Latoro Health Centre II,291.0,False
+2023-12-01,Latoro Health Centre II,478.0,False
+2024-01-01,Latoro Health Centre II,334.0,False
+2024-02-01,Latoro Health Centre II,435.6363636363636,False
+2023-03-01,Lawire Health Centre II,281.0,False
+2023-04-01,Lawire Health Centre II,274.0,False
+2023-05-01,Lawire Health Centre II,627.0,False
+2023-06-01,Lawire Health Centre II,669.0,False
+2023-07-01,Lawire Health Centre II,1139.0,True
+2023-08-01,Lawire Health Centre II,678.0,False
+2023-09-01,Lawire Health Centre II,565.0,False
+2023-10-01,Lawire Health Centre II,618.0,False
+2023-11-01,Lawire Health Centre II,562.0,False
+2023-12-01,Lawire Health Centre II,379.0,False
+2024-01-01,Lawire Health Centre II,100.0,True
+2024-02-01,Lawire Health Centre II,535.6363636363636,False
+2023-03-01,Lawiyeadul Health Centre II,141.0,True
+2023-04-01,Lawiyeadul Health Centre II,179.0,False
+2023-05-01,Lawiyeadul Health Centre II,731.0,True
+2023-06-01,Lawiyeadul Health Centre II,417.0,False
+2023-07-01,Lawiyeadul Health Centre II,556.0,False
+2023-08-01,Lawiyeadul Health Centre II,484.0,False
+2023-09-01,Lawiyeadul Health Centre II,369.0,False
+2023-10-01,Lawiyeadul Health Centre II,148.0,False
+2023-11-01,Lawiyeadul Health Centre II,548.0,False
+2023-12-01,Lawiyeadul Health Centre II,326.0,False
+2024-01-01,Lawiyeadul Health Centre II,327.0,False
+2024-02-01,Lawiyeadul Health Centre II,384.1818181818182,False
+2023-03-01,Layibi Techo Health Centre III,167.0,False
+2023-04-01,Layibi Techo Health Centre III,128.0,True
+2023-05-01,Layibi Techo Health Centre III,424.0,True
+2023-06-01,Layibi Techo Health Centre III,412.0,False
+2023-07-01,Layibi Techo Health Centre III,378.0,False
+2023-08-01,Layibi Techo Health Centre III,323.0,False
+2023-09-01,Layibi Techo Health Centre III,314.0,False
+2023-10-01,Layibi Techo Health Centre III,307.0,False
+2023-11-01,Layibi Techo Health Centre III,322.0,False
+2023-12-01,Layibi Techo Health Centre III,366.0,False
+2024-01-01,Layibi Techo Health Centre III,338.0,False
+2024-02-01,Layibi Techo Health Centre III,316.27272727272725,False
+2023-03-01,Layita Health Centre III,101.0,False
+2023-04-01,Layita Health Centre III,52.0,True
+2023-05-01,Layita Health Centre III,378.0,False
+2023-06-01,Layita Health Centre III,503.0,False
+2023-07-01,Layita Health Centre III,736.0,False
+2023-08-01,Layita Health Centre III,951.0,True
+2023-09-01,Layita Health Centre III,95.0,False
+2023-10-01,Layita Health Centre III,368.0,False
+2023-11-01,Layita Health Centre III,654.0,False
+2023-12-01,Layita Health Centre III,466.0,False
+2024-01-01,Layita Health Centre III,266.0,False
+2024-02-01,Layita Health Centre III,415.45454545454544,False
+2023-03-01,Lela-Obaro Health Centre II,149.0,True
+2023-04-01,Lela-Obaro Health Centre II,182.0,False
+2023-05-01,Lela-Obaro Health Centre II,413.0,False
+2023-06-01,Lela-Obaro Health Centre II,514.0,True
+2023-07-01,Lela-Obaro Health Centre II,322.0,False
+2023-08-01,Lela-Obaro Health Centre II,465.0,False
+2023-09-01,Lela-Obaro Health Centre II,229.0,False
+2023-10-01,Lela-Obaro Health Centre II,401.0,False
+2023-11-01,Lela-Obaro Health Centre II,460.0,False
+2023-12-01,Lela-Obaro Health Centre II,358.0,False
+2024-01-01,Lela-Obaro Health Centre II,259.0,False
+2024-02-01,Lela-Obaro Health Centre II,341.09090909090907,False
+2023-03-01,Light Rays Uganda Health Centre II,78.0,True
+2023-04-01,Light Rays Uganda Health Centre II,119.0,False
+2023-05-01,Light Rays Uganda Health Centre II,261.0,False
+2023-06-01,Light Rays Uganda Health Centre II,239.0,False
+2023-07-01,Light Rays Uganda Health Centre II,306.0,True
+2023-08-01,Light Rays Uganda Health Centre II,240.0,False
+2023-09-01,Light Rays Uganda Health Centre II,176.0,False
+2023-10-01,Light Rays Uganda Health Centre II,191.0,False
+2023-11-01,Light Rays Uganda Health Centre II,182.0,False
+2023-12-01,Light Rays Uganda Health Centre II,199.6,False
+2024-01-01,Light Rays Uganda Health Centre II,204.0,False
+2024-02-01,Light Rays Uganda Health Centre II,199.6,False
+2023-03-01,Ligiligi Health Centre II,337.0,False
+2023-04-01,Ligiligi Health Centre II,164.0,True
+2023-05-01,Ligiligi Health Centre II,315.0,False
+2023-06-01,Ligiligi Health Centre II,867.0,False
+2023-07-01,Ligiligi Health Centre II,1151.0,False
+2023-08-01,Ligiligi Health Centre II,2264.0,True
+2023-09-01,Ligiligi Health Centre II,450.0,False
+2023-10-01,Ligiligi Health Centre II,896.0,False
+2023-11-01,Ligiligi Health Centre II,324.0,False
+2023-12-01,Ligiligi Health Centre II,167.0,False
+2024-01-01,Ligiligi Health Centre II,192.0,False
+2024-02-01,Ligiligi Health Centre II,647.9090909090909,False
+2023-03-01,Lira Kaket Health Centre II,141.0,False
+2023-04-01,Lira Kaket Health Centre II,41.0,False
+2023-05-01,Lira Kaket Health Centre II,178.0,False
+2023-06-01,Lira Kaket Health Centre II,320.0,False
+2023-07-01,Lira Kaket Health Centre II,562.0,True
+2023-08-01,Lira Kaket Health Centre II,143.0,False
+2023-09-01,Lira Kaket Health Centre II,115.0,False
+2023-10-01,Lira Kaket Health Centre II,265.0,False
+2023-11-01,Lira Kaket Health Centre II,284.0,False
+2023-12-01,Lira Kaket Health Centre II,219.0,False
+2024-01-01,Lira Kaket Health Centre II,4.0,True
+2024-02-01,Lira Kaket Health Centre II,206.54545454545453,False
+2023-03-01,Lira Kato Health Centre III,212.0,False
+2023-04-01,Lira Kato Health Centre III,174.0,True
+2023-05-01,Lira Kato Health Centre III,514.0,False
+2023-06-01,Lira Kato Health Centre III,989.0,False
+2023-07-01,Lira Kato Health Centre III,1674.0,True
+2023-08-01,Lira Kato Health Centre III,1560.0,False
+2023-09-01,Lira Kato Health Centre III,590.0,False
+2023-10-01,Lira Kato Health Centre III,878.0,False
+2023-11-01,Lira Kato Health Centre III,981.0,False
+2023-12-01,Lira Kato Health Centre III,672.0,False
+2024-01-01,Lira Kato Health Centre III,368.0,False
+2024-02-01,Lira Kato Health Centre III,782.9090909090909,False
+2023-03-01,Lira Palwo Health Centre III,196.0,False
+2023-04-01,Lira Palwo Health Centre III,143.0,False
+2023-05-01,Lira Palwo Health Centre III,530.0,False
+2023-06-01,Lira Palwo Health Centre III,842.0,False
+2023-07-01,Lira Palwo Health Centre III,1050.0,True
+2023-08-01,Lira Palwo Health Centre III,923.0,False
+2023-09-01,Lira Palwo Health Centre III,834.0,False
+2023-10-01,Lira Palwo Health Centre III,811.0,False
+2023-11-01,Lira Palwo Health Centre III,612.0,False
+2023-12-01,Lira Palwo Health Centre III,459.0,False
+2024-01-01,Lira Palwo Health Centre III,254.0,False
+2024-02-01,Lira Palwo Health Centre III,20.0,True
+2023-03-01,Loborom Health Centre III,439.0,False
+2023-04-01,Loborom Health Centre III,486.0,False
+2023-05-01,Loborom Health Centre III,970.0,False
+2023-06-01,Loborom Health Centre III,1509.0,True
+2023-07-01,Loborom Health Centre III,1238.0,False
+2023-08-01,Loborom Health Centre III,1479.0,False
+2023-09-01,Loborom Health Centre III,1213.0,False
+2023-10-01,Loborom Health Centre III,1255.0,False
+2023-11-01,Loborom Health Centre III,968.0,False
+2023-12-01,Loborom Health Centre III,637.0,False
+2024-01-01,Loborom Health Centre III,642.0,False
+2024-02-01,Loborom Health Centre III,182.0,True
+2023-03-01,Lokung Health Centre III,503.0,True
+2023-04-01,Lokung Health Centre III,945.0,False
+2023-05-01,Lokung Health Centre III,1520.0,False
+2023-06-01,Lokung Health Centre III,1617.0,True
+2023-07-01,Lokung Health Centre III,1017.0,False
+2023-08-01,Lokung Health Centre III,1379.0,False
+2023-09-01,Lokung Health Centre III,841.0,False
+2023-10-01,Lokung Health Centre III,747.0,False
+2023-11-01,Lokung Health Centre III,729.0,False
+2023-12-01,Lokung Health Centre III,1055.0,False
+2024-01-01,Lokung Health Centre III,975.0,False
+2024-02-01,Lokung Health Centre III,552.0,False
+2023-03-01,Loyoajonga Health Centre III,340.0,True
+2023-04-01,Loyoajonga Health Centre III,485.0,False
+2023-05-01,Loyoajonga Health Centre III,779.0,False
+2023-06-01,Loyoajonga Health Centre III,814.0,True
+2023-07-01,Loyoajonga Health Centre III,700.0,False
+2023-08-01,Loyoajonga Health Centre III,681.0,False
+2023-09-01,Loyoajonga Health Centre III,659.0,False
+2023-10-01,Loyoajonga Health Centre III,368.0,False
+2023-11-01,Loyoajonga Health Centre III,670.0,False
+2023-12-01,Loyoajonga Health Centre III,483.0,False
+2024-01-01,Loyoajonga Health Centre III,365.0,False
+2024-02-01,Loyoajonga Health Centre III,576.7272727272727,False
+2023-03-01,Lugore Health Centre II,215.0,False
+2023-04-01,Lugore Health Centre II,224.0,False
+2023-05-01,Lugore Health Centre II,533.0,False
+2023-06-01,Lugore Health Centre II,706.0,True
+2023-07-01,Lugore Health Centre II,422.0,False
+2023-08-01,Lugore Health Centre II,117.0,True
+2023-09-01,Lugore Health Centre II,138.0,False
+2023-10-01,Lugore Health Centre II,390.0,False
+2023-11-01,Lugore Health Centre II,372.0,False
+2023-12-01,Lugore Health Centre II,519.0,False
+2024-01-01,Lugore Health Centre II,215.0,False
+2024-02-01,Lugore Health Centre II,350.09090909090907,False
+2023-03-01,Lugore Prisons Health Centre II,65.0,True
+2023-04-01,Lugore Prisons Health Centre II,155.0,False
+2023-05-01,Lugore Prisons Health Centre II,470.0,True
+2023-06-01,Lugore Prisons Health Centre II,343.0,False
+2023-07-01,Lugore Prisons Health Centre II,204.0,False
+2023-08-01,Lugore Prisons Health Centre II,216.0,False
+2023-09-01,Lugore Prisons Health Centre II,146.0,False
+2023-10-01,Lugore Prisons Health Centre II,172.0,False
+2023-11-01,Lugore Prisons Health Centre II,174.0,False
+2023-12-01,Lugore Prisons Health Centre II,321.0,False
+2024-01-01,Lugore Prisons Health Centre II,201.0,False
+2024-02-01,Lugore Prisons Health Centre II,224.27272727272728,False
+2023-03-01,Lujorongole Health Centre II,182.0,False
+2023-04-01,Lujorongole Health Centre II,351.0,False
+2023-05-01,Lujorongole Health Centre II,594.0,False
+2023-06-01,Lujorongole Health Centre II,651.0,True
+2023-07-01,Lujorongole Health Centre II,500.0,False
+2023-08-01,Lujorongole Health Centre II,526.0,False
+2023-09-01,Lujorongole Health Centre II,109.0,True
+2023-10-01,Lujorongole Health Centre II,260.0,False
+2023-11-01,Lujorongole Health Centre II,338.0,False
+2023-12-01,Lujorongole Health Centre II,301.0,False
+2024-01-01,Lujorongole Health Centre II,151.0,False
+2024-02-01,Lujorongole Health Centre II,360.27272727272725,False
+2023-03-01,Lukodi Health Centre II,40.0,True
+2023-04-01,Lukodi Health Centre II,59.0,False
+2023-05-01,Lukodi Health Centre II,147.0,False
+2023-06-01,Lukodi Health Centre II,148.0,True
+2023-07-01,Lukodi Health Centre II,74.0,False
+2023-08-01,Lukodi Health Centre II,57.0,False
+2023-09-01,Lukodi Health Centre II,60.0,False
+2023-10-01,Lukodi Health Centre II,91.0,False
+2023-11-01,Lukodi Health Centre II,120.0,False
+2023-12-01,Lukodi Health Centre II,86.0,False
+2024-01-01,Lukodi Health Centre II,73.0,False
+2024-02-01,Lukodi Health Centre II,86.81818181818181,False
+2023-03-01,Lukole Health Centre III,336.0,False
+2023-04-01,Lukole Health Centre III,191.0,True
+2023-05-01,Lukole Health Centre III,748.0,False
+2023-06-01,Lukole Health Centre III,1191.0,False
+2023-07-01,Lukole Health Centre III,1566.0,True
+2023-08-01,Lukole Health Centre III,1552.0,False
+2023-09-01,Lukole Health Centre III,1463.0,False
+2023-10-01,Lukole Health Centre III,928.0,False
+2023-11-01,Lukole Health Centre III,1277.0,False
+2023-12-01,Lukole Health Centre III,609.0,False
+2024-01-01,Lukole Health Centre III,392.0,False
+2024-02-01,Lukole Health Centre III,278.0,False
+2023-03-01,Lukwir Health Centre II,172.0,False
+2023-04-01,Lukwir Health Centre II,229.0,False
+2023-05-01,Lukwir Health Centre II,471.0,False
+2023-06-01,Lukwir Health Centre II,600.0,True
+2023-07-01,Lukwir Health Centre II,124.0,True
+2023-08-01,Lukwir Health Centre II,204.0,False
+2023-09-01,Lukwir Health Centre II,307.0,False
+2023-10-01,Lukwir Health Centre II,280.0,False
+2023-11-01,Lukwir Health Centre II,441.0,False
+2023-12-01,Lukwir Health Centre II,346.0,False
+2024-01-01,Lukwir Health Centre II,203.0,False
+2024-02-01,Lukwir Health Centre II,307.0,False
+2023-03-01,Lukwor Health Centre II,354.0,False
+2023-04-01,Lukwor Health Centre II,291.0,False
+2023-05-01,Lukwor Health Centre II,731.0,False
+2023-06-01,Lukwor Health Centre II,852.0,False
+2023-07-01,Lukwor Health Centre II,680.0,False
+2023-08-01,Lukwor Health Centre II,769.0,False
+2023-09-01,Lukwor Health Centre II,625.0,False
+2023-10-01,Lukwor Health Centre II,864.0,True
+2023-11-01,Lukwor Health Centre II,431.0,False
+2023-12-01,Lukwor Health Centre II,430.0,False
+2024-01-01,Lukwor Health Centre II,462.0,False
+2024-02-01,Lukwor Health Centre II,276.0,True
+2023-03-01,Lulyango Health Centre II,184.0,False
+2023-04-01,Lulyango Health Centre II,159.0,True
+2023-05-01,Lulyango Health Centre II,255.0,False
+2023-06-01,Lulyango Health Centre II,413.0,True
+2023-07-01,Lulyango Health Centre II,399.0,False
+2023-08-01,Lulyango Health Centre II,340.0,False
+2023-09-01,Lulyango Health Centre II,342.0,False
+2023-10-01,Lulyango Health Centre II,307.0,False
+2023-11-01,Lulyango Health Centre II,329.0,False
+2023-12-01,Lulyango Health Centre II,213.0,False
+2024-01-01,Lulyango Health Centre II,225.0,False
+2024-02-01,Lulyango Health Centre II,287.8181818181818,False
+2023-03-01,Lututuru Prisons Health Centre II,34.0,False
+2023-04-01,Lututuru Prisons Health Centre II,58.0,False
+2023-05-01,Lututuru Prisons Health Centre II,87.0,False
+2023-06-01,Lututuru Prisons Health Centre II,32.0,True
+2023-07-01,Lututuru Prisons Health Centre II,78.0,False
+2023-08-01,Lututuru Prisons Health Centre II,95.0,False
+2023-09-01,Lututuru Prisons Health Centre II,85.0,False
+2023-10-01,Lututuru Prisons Health Centre II,120.0,True
+2023-11-01,Lututuru Prisons Health Centre II,74.0,False
+2023-12-01,Lututuru Prisons Health Centre II,77.0,False
+2024-01-01,Lututuru Prisons Health Centre II,74.0,False
+2024-02-01,Lututuru Prisons Health Centre II,74.0,False
+2023-03-01,Madi Kiloch Health Centre II,315.0,False
+2023-04-01,Madi Kiloch Health Centre II,135.0,True
+2023-05-01,Madi Kiloch Health Centre II,334.0,False
+2023-06-01,Madi Kiloch Health Centre II,356.0,False
+2023-07-01,Madi Kiloch Health Centre II,419.0,True
+2023-08-01,Madi Kiloch Health Centre II,277.0,False
+2023-09-01,Madi Kiloch Health Centre II,178.0,False
+2023-10-01,Madi Kiloch Health Centre II,343.0,False
+2023-11-01,Madi Kiloch Health Centre II,285.0,False
+2023-12-01,Madi Kiloch Health Centre II,212.0,False
+2024-01-01,Madi Kiloch Health Centre II,193.0,False
+2024-02-01,Madi Kiloch Health Centre II,277.0,False
+2023-03-01,Madi-Opei Health Centre IV,116.0,True
+2023-04-01,Madi-Opei Health Centre IV,137.0,False
+2023-05-01,Madi-Opei Health Centre IV,576.0,False
+2023-06-01,Madi-Opei Health Centre IV,923.0,False
+2023-07-01,Madi-Opei Health Centre IV,869.0,False
+2023-08-01,Madi-Opei Health Centre IV,1251.0,True
+2023-09-01,Madi-Opei Health Centre IV,1111.0,False
+2023-10-01,Madi-Opei Health Centre IV,1016.0,False
+2023-11-01,Madi-Opei Health Centre IV,830.0,False
+2023-12-01,Madi-Opei Health Centre IV,886.0,False
+2024-01-01,Madi-Opei Health Centre IV,771.5,False
+2024-02-01,Madi-Opei Health Centre IV,771.5,False
+2023-03-01,Marie Stopes Uganda Gulu Health Centre II,8.0,True
+2023-04-01,Marie Stopes Uganda Gulu Health Centre II,18.0,False
+2023-05-01,Marie Stopes Uganda Gulu Health Centre II,45.0,False
+2023-06-01,Marie Stopes Uganda Gulu Health Centre II,52.0,False
+2023-07-01,Marie Stopes Uganda Gulu Health Centre II,51.0,False
+2023-08-01,Marie Stopes Uganda Gulu Health Centre II,55.0,True
+2023-09-01,Marie Stopes Uganda Gulu Health Centre II,48.0,False
+2023-10-01,Marie Stopes Uganda Gulu Health Centre II,38.0,False
+2023-11-01,Marie Stopes Uganda Gulu Health Centre II,37.0,False
+2023-12-01,Marie Stopes Uganda Gulu Health Centre II,44.0,False
+2024-01-01,Marie Stopes Uganda Gulu Health Centre II,36.0,False
+2024-02-01,Marie Stopes Uganda Gulu Health Centre II,20.0,False
+2023-03-01,Mary Immaculate Health Centre II,82.0,False
+2023-04-01,Mary Immaculate Health Centre II,82.0,False
+2023-05-01,Mary Immaculate Health Centre II,82.0,False
+2023-06-01,Mary Immaculate Health Centre II,82.0,False
+2023-07-01,Mary Immaculate Health Centre II,82.0,False
+2023-08-01,Mary Immaculate Health Centre II,82.0,False
+2023-09-01,Mary Immaculate Health Centre II,82.0,False
+2023-10-01,Mary Immaculate Health Centre II,82.0,False
+2023-11-01,Mary Immaculate Health Centre II,82.0,False
+2023-12-01,Mary Immaculate Health Centre II,82.0,False
+2024-01-01,Mary Immaculate Health Centre II,82.0,False
+2024-02-01,Mary Immaculate Health Centre II,82.0,False
+2023-03-01,Mary Queen Of Peace Health Centre III,49.0,True
+2023-04-01,Mary Queen Of Peace Health Centre III,95.0,False
+2023-05-01,Mary Queen Of Peace Health Centre III,79.0,False
+2023-06-01,Mary Queen Of Peace Health Centre III,234.0,True
+2023-07-01,Mary Queen Of Peace Health Centre III,135.0,False
+2023-08-01,Mary Queen Of Peace Health Centre III,125.0,False
+2023-09-01,Mary Queen Of Peace Health Centre III,128.0,False
+2023-10-01,Mary Queen Of Peace Health Centre III,149.0,False
+2023-11-01,Mary Queen Of Peace Health Centre III,141.0,False
+2023-12-01,Mary Queen Of Peace Health Centre III,63.0,False
+2024-01-01,Mary Queen Of Peace Health Centre III,61.0,False
+2024-02-01,Mary Queen Of Peace Health Centre III,114.45454545454545,False
+2023-03-01,Meeting Point Health Centre II,22.7,False
+2023-04-01,Meeting Point Health Centre II,16.0,False
+2023-05-01,Meeting Point Health Centre II,16.0,False
+2023-06-01,Meeting Point Health Centre II,25.0,False
+2023-07-01,Meeting Point Health Centre II,16.0,False
+2023-08-01,Meeting Point Health Centre II,30.0,True
+2023-09-01,Meeting Point Health Centre II,25.0,False
+2023-10-01,Meeting Point Health Centre II,19.0,False
+2023-11-01,Meeting Point Health Centre II,26.0,False
+2023-12-01,Meeting Point Health Centre II,27.0,False
+2024-01-01,Meeting Point Health Centre II,27.0,False
+2024-02-01,Meeting Point Health Centre II,22.7,False
+2023-03-01,Minakulu (Bobi) Health Centre II,61.0,False
+2023-04-01,Minakulu (Bobi) Health Centre II,158.0,True
+2023-05-01,Minakulu (Bobi) Health Centre II,110.0,False
+2023-06-01,Minakulu (Bobi) Health Centre II,153.0,False
+2023-07-01,Minakulu (Bobi) Health Centre II,102.0,False
+2023-08-01,Minakulu (Bobi) Health Centre II,97.0,False
+2023-09-01,Minakulu (Bobi) Health Centre II,60.0,True
+2023-10-01,Minakulu (Bobi) Health Centre II,90.0,False
+2023-11-01,Minakulu (Bobi) Health Centre II,85.0,False
+2023-12-01,Minakulu (Bobi) Health Centre II,89.0,False
+2024-01-01,Minakulu (Bobi) Health Centre II,91.0,False
+2024-02-01,Minakulu (Bobi) Health Centre II,99.63636363636364,False
+2023-03-01,Mother Angioletta Memorial Clinic,28.0,True
+2023-04-01,Mother Angioletta Memorial Clinic,60.0,False
+2023-05-01,Mother Angioletta Memorial Clinic,108.0,False
+2023-06-01,Mother Angioletta Memorial Clinic,93.0,False
+2023-07-01,Mother Angioletta Memorial Clinic,66.0,False
+2023-08-01,Mother Angioletta Memorial Clinic,59.0,False
+2023-09-01,Mother Angioletta Memorial Clinic,42.0,False
+2023-10-01,Mother Angioletta Memorial Clinic,111.0,False
+2023-11-01,Mother Angioletta Memorial Clinic,51.0,False
+2023-12-01,Mother Angioletta Memorial Clinic,116.0,True
+2024-01-01,Mother Angioletta Memorial Clinic,81.0,False
+2024-02-01,Mother Angioletta Memorial Clinic,74.0909090909091,False
+2023-03-01,Mother Health International Health Centre II,23.0,True
+2023-04-01,Mother Health International Health Centre II,57.55555555555556,False
+2023-05-01,Mother Health International Health Centre II,111.0,False
+2023-06-01,Mother Health International Health Centre II,111.0,False
+2023-07-01,Mother Health International Health Centre II,57.55555555555556,False
+2023-08-01,Mother Health International Health Centre II,84.0,False
+2023-09-01,Mother Health International Health Centre II,25.0,False
+2023-10-01,Mother Health International Health Centre II,44.0,False
+2023-11-01,Mother Health International Health Centre II,53.0,False
+2023-12-01,Mother Health International Health Centre II,34.0,False
+2024-01-01,Mother Health International Health Centre II,33.0,False
+2024-02-01,Mother Health International Health Centre II,57.55555555555556,False
+2023-03-01,Mucwini Health Centre III,672.0,False
+2023-04-01,Mucwini Health Centre III,392.0,True
+2023-05-01,Mucwini Health Centre III,790.0,False
+2023-06-01,Mucwini Health Centre III,1373.0,False
+2023-07-01,Mucwini Health Centre III,828.0,False
+2023-08-01,Mucwini Health Centre III,1191.0,False
+2023-09-01,Mucwini Health Centre III,1375.0,True
+2023-10-01,Mucwini Health Centre III,1023.0,False
+2023-11-01,Mucwini Health Centre III,674.0,False
+2023-12-01,Mucwini Health Centre III,610.0,False
+2024-01-01,Mucwini Health Centre III,782.0,False
+2024-02-01,Mucwini Health Centre III,882.7272727272727,False
+2023-03-01,Mutema Health Centre II,288.0,False
+2023-04-01,Mutema Health Centre II,276.0,False
+2023-05-01,Mutema Health Centre II,91.0,False
+2023-06-01,Mutema Health Centre II,744.0,True
+2023-07-01,Mutema Health Centre II,733.0,False
+2023-08-01,Mutema Health Centre II,588.0,False
+2023-09-01,Mutema Health Centre II,485.0,False
+2023-10-01,Mutema Health Centre II,505.0,False
+2023-11-01,Mutema Health Centre II,473.0,False
+2023-12-01,Mutema Health Centre II,266.0,False
+2024-01-01,Mutema Health Centre II,4.0,True
+2024-02-01,Mutema Health Centre II,404.8181818181818,False
+2023-03-01,Namokora Health Centre IV,279.0,False
+2023-04-01,Namokora Health Centre IV,110.0,True
+2023-05-01,Namokora Health Centre IV,630.0,False
+2023-06-01,Namokora Health Centre IV,1038.0,False
+2023-07-01,Namokora Health Centre IV,1311.0,False
+2023-08-01,Namokora Health Centre IV,1502.0,False
+2023-09-01,Namokora Health Centre IV,1538.0,True
+2023-10-01,Namokora Health Centre IV,1334.0,False
+2023-11-01,Namokora Health Centre IV,1122.0,False
+2023-12-01,Namokora Health Centre IV,867.0,False
+2024-01-01,Namokora Health Centre IV,958.0,False
+2024-02-01,Namokora Health Centre IV,971.7272727272727,False
+2023-03-01,New Life Health Centre III,13.0,False
+2023-04-01,New Life Health Centre III,25.0,False
+2023-05-01,New Life Health Centre III,31.0,True
+2023-06-01,New Life Health Centre III,30.0,False
+2023-07-01,New Life Health Centre III,28.0,False
+2023-08-01,New Life Health Centre III,11.0,True
+2023-09-01,New Life Health Centre III,17.0,False
+2023-10-01,New Life Health Centre III,18.0,False
+2023-11-01,New Life Health Centre III,14.0,False
+2023-12-01,New Life Health Centre III,23.0,False
+2024-01-01,New Life Health Centre III,12.0,False
+2024-02-01,New Life Health Centre III,20.181818181818183,False
+2023-03-01,Ngomoromo Health Centre II,123.0,False
+2023-04-01,Ngomoromo Health Centre II,81.0,False
+2023-05-01,Ngomoromo Health Centre II,347.0,False
+2023-06-01,Ngomoromo Health Centre II,249.0,False
+2023-07-01,Ngomoromo Health Centre II,217.0,False
+2023-08-01,Ngomoromo Health Centre II,245.0,False
+2023-09-01,Ngomoromo Health Centre II,464.0,True
+2023-10-01,Ngomoromo Health Centre II,345.0,False
+2023-11-01,Ngomoromo Health Centre II,326.0,False
+2023-12-01,Ngomoromo Health Centre II,9.0,True
+2024-01-01,Ngomoromo Health Centre II,240.6,False
+2024-02-01,Ngomoromo Health Centre II,240.6,False
+2023-03-01,Nimaro Medical Clinic,24.0,True
+2023-04-01,Nimaro Medical Clinic,29.0,False
+2023-05-01,Nimaro Medical Clinic,41.0,False
+2023-06-01,Nimaro Medical Clinic,38.0,False
+2023-07-01,Nimaro Medical Clinic,43.0,False
+2023-08-01,Nimaro Medical Clinic,31.0,False
+2023-09-01,Nimaro Medical Clinic,43.0,False
+2023-10-01,Nimaro Medical Clinic,49.0,False
+2023-11-01,Nimaro Medical Clinic,33.0,False
+2023-12-01,Nimaro Medical Clinic,35.0,False
+2024-01-01,Nimaro Medical Clinic,49.0,False
+2024-02-01,Nimaro Medical Clinic,37.72727272727273,False
+2023-03-01,Numem Health Care Centre Clinic,198.0,True
+2023-04-01,Numem Health Care Centre Clinic,223.0,False
+2023-05-01,Numem Health Care Centre Clinic,418.0,False
+2023-06-01,Numem Health Care Centre Clinic,562.0,True
+2023-07-01,Numem Health Care Centre Clinic,381.0,False
+2023-08-01,Numem Health Care Centre Clinic,455.0,False
+2023-09-01,Numem Health Care Centre Clinic,497.0,False
+2023-10-01,Numem Health Care Centre Clinic,388.0,False
+2023-11-01,Numem Health Care Centre Clinic,296.0,False
+2023-12-01,Numem Health Care Centre Clinic,352.0,False
+2024-01-01,Numem Health Care Centre Clinic,313.0,False
+2024-02-01,Numem Health Care Centre Clinic,371.1818181818182,False
+2023-03-01,NUMES Medical Centre,17.0,True
+2023-04-01,NUMES Medical Centre,26.0,False
+2023-05-01,NUMES Medical Centre,23.0,False
+2023-06-01,NUMES Medical Centre,37.0,False
+2023-07-01,NUMES Medical Centre,46.0,True
+2023-08-01,NUMES Medical Centre,44.0,False
+2023-09-01,NUMES Medical Centre,22.0,False
+2023-10-01,NUMES Medical Centre,28.0,False
+2023-11-01,NUMES Medical Centre,40.0,False
+2023-12-01,NUMES Medical Centre,22.0,False
+2024-01-01,NUMES Medical Centre,29.0,False
+2024-02-01,NUMES Medical Centre,18.0,False
+2023-03-01,Oberabic Health Centre II,190.0,False
+2023-04-01,Oberabic Health Centre II,68.0,True
+2023-05-01,Oberabic Health Centre II,319.0,False
+2023-06-01,Oberabic Health Centre II,286.0,False
+2023-07-01,Oberabic Health Centre II,220.0,False
+2023-08-01,Oberabic Health Centre II,322.0,False
+2023-09-01,Oberabic Health Centre II,367.0,False
+2023-10-01,Oberabic Health Centre II,305.0,False
+2023-11-01,Oberabic Health Centre II,379.0,False
+2023-12-01,Oberabic Health Centre II,407.0,True
+2024-01-01,Oberabic Health Centre II,328.0,False
+2024-02-01,Oberabic Health Centre II,290.09090909090907,False
+2023-03-01,Obolokome Health Centre II,293.0,False
+2023-04-01,Obolokome Health Centre II,234.0,False
+2023-05-01,Obolokome Health Centre II,834.0,False
+2023-06-01,Obolokome Health Centre II,817.0,False
+2023-07-01,Obolokome Health Centre II,798.0,False
+2023-08-01,Obolokome Health Centre II,903.0,True
+2023-09-01,Obolokome Health Centre II,625.0,False
+2023-10-01,Obolokome Health Centre II,478.0,False
+2023-11-01,Obolokome Health Centre II,445.0,False
+2023-12-01,Obolokome Health Centre II,210.0,False
+2024-01-01,Obolokome Health Centre II,93.0,True
+2024-02-01,Obolokome Health Centre II,520.9090909090909,False
+2023-03-01,Obyen Health Centre II,374.0,False
+2023-04-01,Obyen Health Centre II,225.0,True
+2023-05-01,Obyen Health Centre II,664.0,False
+2023-06-01,Obyen Health Centre II,703.0,False
+2023-07-01,Obyen Health Centre II,950.0,True
+2023-08-01,Obyen Health Centre II,730.0,False
+2023-09-01,Obyen Health Centre II,397.0,False
+2023-10-01,Obyen Health Centre II,569.0,False
+2023-11-01,Obyen Health Centre II,543.0,False
+2023-12-01,Obyen Health Centre II,481.0,False
+2024-01-01,Obyen Health Centre II,233.0,False
+2024-02-01,Obyen Health Centre II,533.5454545454545,False
+2023-03-01,Odek Health Centre III,640.0,False
+2023-04-01,Odek Health Centre III,765.0,False
+2023-05-01,Odek Health Centre III,675.0,False
+2023-06-01,Odek Health Centre III,870.0,False
+2023-07-01,Odek Health Centre III,818.0,False
+2023-08-01,Odek Health Centre III,639.0,False
+2023-09-01,Odek Health Centre III,524.0,False
+2023-10-01,Odek Health Centre III,935.0,True
+2023-11-01,Odek Health Centre III,760.0,False
+2023-12-01,Odek Health Centre III,503.0,False
+2024-01-01,Odek Health Centre III,454.0,True
+2024-02-01,Odek Health Centre III,689.3636363636364,False
+2023-03-01,Odokomit Health Centre II,526.0,False
+2023-04-01,Odokomit Health Centre II,232.0,False
+2023-05-01,Odokomit Health Centre II,280.0,False
+2023-06-01,Odokomit Health Centre II,483.0,False
+2023-07-01,Odokomit Health Centre II,674.0,False
+2023-08-01,Odokomit Health Centre II,982.0,True
+2023-09-01,Odokomit Health Centre II,18.0,True
+2023-10-01,Odokomit Health Centre II,409.0,False
+2023-11-01,Odokomit Health Centre II,564.0,False
+2023-12-01,Odokomit Health Centre II,384.0,False
+2024-01-01,Odokomit Health Centre II,135.0,False
+2024-02-01,Odokomit Health Centre II,426.09090909090907,False
+2023-03-01,Odokonyero Health Centre II,188.0,False
+2023-04-01,Odokonyero Health Centre II,301.0,False
+2023-05-01,Odokonyero Health Centre II,122.0,False
+2023-06-01,Odokonyero Health Centre II,522.0,False
+2023-07-01,Odokonyero Health Centre II,654.0,True
+2023-08-01,Odokonyero Health Centre II,119.0,False
+2023-09-01,Odokonyero Health Centre II,0.0,True
+2023-10-01,Odokonyero Health Centre II,270.0,False
+2023-11-01,Odokonyero Health Centre II,414.0,False
+2023-12-01,Odokonyero Health Centre II,228.0,False
+2024-01-01,Odokonyero Health Centre II,229.0,False
+2024-02-01,Odokonyero Health Centre II,277.0,False
+2023-03-01,Ogago Health Centre II,263.0,False
+2023-04-01,Ogago Health Centre II,168.0,False
+2023-05-01,Ogago Health Centre II,611.0,False
+2023-06-01,Ogago Health Centre II,705.0,False
+2023-07-01,Ogago Health Centre II,1446.0,True
+2023-08-01,Ogago Health Centre II,838.0,False
+2023-09-01,Ogago Health Centre II,233.0,False
+2023-10-01,Ogago Health Centre II,434.0,False
+2023-11-01,Ogago Health Centre II,697.0,False
+2023-12-01,Ogago Health Centre II,284.0,False
+2024-01-01,Ogago Health Centre II,118.0,True
+2024-02-01,Ogago Health Centre II,527.0,False
+2023-03-01,Ogako Health Centre II,276.0,False
+2023-04-01,Ogako Health Centre II,206.0,False
+2023-05-01,Ogako Health Centre II,353.0,False
+2023-06-01,Ogako Health Centre II,519.0,False
+2023-07-01,Ogako Health Centre II,665.0,False
+2023-08-01,Ogako Health Centre II,543.0,False
+2023-09-01,Ogako Health Centre II,418.0,False
+2023-10-01,Ogako Health Centre II,342.0,False
+2023-11-01,Ogako Health Centre II,818.0,True
+2023-12-01,Ogako Health Centre II,202.0,True
+2024-01-01,Ogako Health Centre II,252.0,False
+2024-02-01,Ogako Health Centre II,417.6363636363636,False
+2023-03-01,Ogom Health Centre III,236.0,True
+2023-04-01,Ogom Health Centre III,282.0,False
+2023-05-01,Ogom Health Centre III,612.0,False
+2023-06-01,Ogom Health Centre III,709.0,False
+2023-07-01,Ogom Health Centre III,860.0,True
+2023-08-01,Ogom Health Centre III,613.0,False
+2023-09-01,Ogom Health Centre III,297.0,False
+2023-10-01,Ogom Health Centre III,319.0,False
+2023-11-01,Ogom Health Centre III,533.0,False
+2023-12-01,Ogom Health Centre III,476.0,False
+2024-01-01,Ogom Health Centre III,319.0,False
+2024-02-01,Ogom Health Centre III,477.8181818181818,False
+2023-03-01,Ogonyo Health Centre III,401.0,False
+2023-04-01,Ogonyo Health Centre III,357.0,False
+2023-05-01,Ogonyo Health Centre III,497.0,False
+2023-06-01,Ogonyo Health Centre III,547.0,False
+2023-07-01,Ogonyo Health Centre III,842.0,True
+2023-08-01,Ogonyo Health Centre III,632.0,False
+2023-09-01,Ogonyo Health Centre III,179.0,False
+2023-10-01,Ogonyo Health Centre III,232.0,False
+2023-11-01,Ogonyo Health Centre III,569.0,False
+2023-12-01,Ogonyo Health Centre III,407.0,False
+2024-01-01,Ogonyo Health Centre III,311.0,False
+2024-02-01,Ogonyo Health Centre III,107.0,True
+2023-03-01,Oguta Health Centre II,261.0,False
+2023-04-01,Oguta Health Centre II,282.0,False
+2023-05-01,Oguta Health Centre II,645.0,False
+2023-06-01,Oguta Health Centre II,729.0,True
+2023-07-01,Oguta Health Centre II,690.0,False
+2023-08-01,Oguta Health Centre II,707.0,False
+2023-09-01,Oguta Health Centre II,359.0,False
+2023-10-01,Oguta Health Centre II,356.0,False
+2023-11-01,Oguta Health Centre II,410.0,False
+2023-12-01,Oguta Health Centre II,164.0,False
+2024-01-01,Oguta Health Centre II,0.0,True
+2024-02-01,Oguta Health Centre II,418.45454545454544,False
+2023-03-01,Ogwang Kamolo Health Centre II,114.0,False
+2023-04-01,Ogwang Kamolo Health Centre II,59.0,True
+2023-05-01,Ogwang Kamolo Health Centre II,288.0,False
+2023-06-01,Ogwang Kamolo Health Centre II,316.0,False
+2023-07-01,Ogwang Kamolo Health Centre II,408.0,False
+2023-08-01,Ogwang Kamolo Health Centre II,356.0,False
+2023-09-01,Ogwang Kamolo Health Centre II,489.0,True
+2023-10-01,Ogwang Kamolo Health Centre II,239.0,False
+2023-11-01,Ogwang Kamolo Health Centre II,410.0,False
+2023-12-01,Ogwang Kamolo Health Centre II,306.0,False
+2024-01-01,Ogwang Kamolo Health Centre II,165.0,False
+2024-02-01,Ogwang Kamolo Health Centre II,286.3636363636364,False
+2023-03-01,Oitino Health Centre II,125.0,False
+2023-04-01,Oitino Health Centre II,85.0,False
+2023-05-01,Oitino Health Centre II,257.0,False
+2023-06-01,Oitino Health Centre II,318.0,False
+2023-07-01,Oitino Health Centre II,307.0,False
+2023-08-01,Oitino Health Centre II,220.0,False
+2023-09-01,Oitino Health Centre II,275.0,False
+2023-10-01,Oitino Health Centre II,186.0,False
+2023-11-01,Oitino Health Centre II,367.0,True
+2023-12-01,Oitino Health Centre II,233.0,False
+2024-01-01,Oitino Health Centre II,186.0,False
+2024-02-01,Oitino Health Centre II,7.0,True
+2023-03-01,Okidi Health Centre II,155.0,False
+2023-04-01,Okidi Health Centre II,144.0,False
+2023-05-01,Okidi Health Centre II,135.0,True
+2023-06-01,Okidi Health Centre II,325.0,True
+2023-07-01,Okidi Health Centre II,291.0,False
+2023-08-01,Okidi Health Centre II,252.0,False
+2023-09-01,Okidi Health Centre II,223.0,False
+2023-10-01,Okidi Health Centre II,274.0,False
+2023-11-01,Okidi Health Centre II,274.0,False
+2023-12-01,Okidi Health Centre II,188.0,False
+2024-01-01,Okidi Health Centre II,148.0,False
+2024-02-01,Okidi Health Centre II,219.0,False
+2023-03-01,Okidi Health Centre III,580.0,False
+2023-04-01,Okidi Health Centre III,502.0,False
+2023-05-01,Okidi Health Centre III,737.0,False
+2023-06-01,Okidi Health Centre III,978.0,False
+2023-07-01,Okidi Health Centre III,1191.0,True
+2023-08-01,Okidi Health Centre III,1095.0,False
+2023-09-01,Okidi Health Centre III,607.0,False
+2023-10-01,Okidi Health Centre III,85.0,False
+2023-11-01,Okidi Health Centre III,46.0,True
+2023-12-01,Okidi Health Centre III,673.0,False
+2024-01-01,Okidi Health Centre III,525.0,False
+2024-02-01,Okidi Health Centre III,638.0909090909091,False
+2023-03-01,Okinga Health Centre II,396.0,False
+2023-04-01,Okinga Health Centre II,304.0,False
+2023-05-01,Okinga Health Centre II,235.0,False
+2023-06-01,Okinga Health Centre II,597.0,True
+2023-07-01,Okinga Health Centre II,497.0,False
+2023-08-01,Okinga Health Centre II,562.0,False
+2023-09-01,Okinga Health Centre II,460.0,False
+2023-10-01,Okinga Health Centre II,349.0,False
+2023-11-01,Okinga Health Centre II,360.0,False
+2023-12-01,Okinga Health Centre II,248.0,False
+2024-01-01,Okinga Health Centre II,207.0,True
+2024-02-01,Okinga Health Centre II,383.1818181818182,False
+2023-03-01,Okol Health Centre II,249.0,False
+2023-04-01,Okol Health Centre II,89.0,True
+2023-05-01,Okol Health Centre II,422.0,False
+2023-06-01,Okol Health Centre II,517.0,False
+2023-07-01,Okol Health Centre II,485.0,False
+2023-08-01,Okol Health Centre II,436.3,False
+2023-09-01,Okol Health Centre II,492.0,False
+2023-10-01,Okol Health Centre II,488.0,False
+2023-11-01,Okol Health Centre II,454.0,False
+2023-12-01,Okol Health Centre II,569.0,False
+2024-01-01,Okol Health Centre II,598.0,True
+2024-02-01,Okol Health Centre II,436.3,False
+2023-03-01,Okungedi Health Centre II,368.0,False
+2023-04-01,Okungedi Health Centre II,255.0,False
+2023-05-01,Okungedi Health Centre II,119.0,False
+2023-06-01,Okungedi Health Centre II,871.0,True
+2023-07-01,Okungedi Health Centre II,733.0,False
+2023-08-01,Okungedi Health Centre II,256.0,False
+2023-09-01,Okungedi Health Centre II,45.0,True
+2023-10-01,Okungedi Health Centre II,87.0,False
+2023-11-01,Okungedi Health Centre II,173.0,False
+2023-12-01,Okungedi Health Centre II,71.0,False
+2024-01-01,Okungedi Health Centre II,80.0,False
+2024-02-01,Okungedi Health Centre II,278.0,False
+2023-03-01,Okwadoko Health Centre II,221.0,False
+2023-04-01,Okwadoko Health Centre II,292.0,False
+2023-05-01,Okwadoko Health Centre II,383.0,False
+2023-06-01,Okwadoko Health Centre II,514.0,False
+2023-07-01,Okwadoko Health Centre II,847.0,False
+2023-08-01,Okwadoko Health Centre II,862.0,True
+2023-09-01,Okwadoko Health Centre II,153.0,False
+2023-10-01,Okwadoko Health Centre II,366.0,False
+2023-11-01,Okwadoko Health Centre II,429.0,False
+2023-12-01,Okwadoko Health Centre II,64.0,True
+2024-01-01,Okwadoko Health Centre II,204.0,False
+2024-02-01,Okwadoko Health Centre II,394.09090909090907,False
+2023-03-01,Olinga Health Centre II,333.0,False
+2023-04-01,Olinga Health Centre II,409.0,False
+2023-05-01,Olinga Health Centre II,286.0,False
+2023-06-01,Olinga Health Centre II,499.0,False
+2023-07-01,Olinga Health Centre II,849.0,False
+2023-08-01,Olinga Health Centre II,561.0,False
+2023-09-01,Olinga Health Centre II,262.0,True
+2023-10-01,Olinga Health Centre II,534.0,False
+2023-11-01,Olinga Health Centre II,854.0,True
+2023-12-01,Olinga Health Centre II,463.0,False
+2024-01-01,Olinga Health Centre II,319.0,False
+2024-02-01,Olinga Health Centre II,488.09090909090907,False
+2023-03-01,Olung Health Centre II,116.0,False
+2023-04-01,Olung Health Centre II,76.0,True
+2023-05-01,Olung Health Centre II,291.0,False
+2023-06-01,Olung Health Centre II,802.0,True
+2023-07-01,Olung Health Centre II,520.0,False
+2023-08-01,Olung Health Centre II,482.0,False
+2023-09-01,Olung Health Centre II,311.1,False
+2023-10-01,Olung Health Centre II,367.0,False
+2023-11-01,Olung Health Centre II,213.0,False
+2023-12-01,Olung Health Centre II,119.0,False
+2024-01-01,Olung Health Centre II,125.0,False
+2024-02-01,Olung Health Centre II,311.1,False
+2023-03-01,Olwal Health Centre III,143.0,True
+2023-04-01,Olwal Health Centre III,279.0,False
+2023-05-01,Olwal Health Centre III,849.0,False
+2023-06-01,Olwal Health Centre III,1109.0,True
+2023-07-01,Olwal Health Centre III,915.0,False
+2023-08-01,Olwal Health Centre III,355.0,False
+2023-09-01,Olwal Health Centre III,248.0,False
+2023-10-01,Olwal Health Centre III,743.0,False
+2023-11-01,Olwal Health Centre III,994.0,False
+2023-12-01,Olwal Health Centre III,646.0,False
+2024-01-01,Olwal Health Centre III,584.0,False
+2024-02-01,Olwal Health Centre III,624.0909090909091,False
+2023-03-01,Omee I Health Centre II,328.0,False
+2023-04-01,Omee I Health Centre II,120.0,False
+2023-05-01,Omee I Health Centre II,45.0,True
+2023-06-01,Omee I Health Centre II,400.0,False
+2023-07-01,Omee I Health Centre II,370.0,False
+2023-08-01,Omee I Health Centre II,340.0,False
+2023-09-01,Omee I Health Centre II,405.0,False
+2023-10-01,Omee I Health Centre II,854.0,True
+2023-11-01,Omee I Health Centre II,424.0,False
+2023-12-01,Omee I Health Centre II,133.0,False
+2024-01-01,Omee I Health Centre II,51.0,False
+2024-02-01,Omee I Health Centre II,315.45454545454544,False
+2023-03-01,Omel Health Centre III,230.0,False
+2023-04-01,Omel Health Centre III,218.0,True
+2023-05-01,Omel Health Centre III,469.0,False
+2023-06-01,Omel Health Centre III,683.0,True
+2023-07-01,Omel Health Centre III,568.0,False
+2023-08-01,Omel Health Centre III,483.0,False
+2023-09-01,Omel Health Centre III,430.0,False
+2023-10-01,Omel Health Centre III,639.0,False
+2023-11-01,Omel Health Centre III,438.0,False
+2023-12-01,Omel Health Centre III,377.0,False
+2024-01-01,Omel Health Centre III,230.0,False
+2024-02-01,Omel Health Centre III,433.1818181818182,False
+2023-03-01,Omiya Anyima Health Centre III,334.0,False
+2023-04-01,Omiya Anyima Health Centre III,176.0,False
+2023-05-01,Omiya Anyima Health Centre III,696.0,False
+2023-06-01,Omiya Anyima Health Centre III,1389.0,False
+2023-07-01,Omiya Anyima Health Centre III,1686.0,True
+2023-08-01,Omiya Anyima Health Centre III,1253.0,False
+2023-09-01,Omiya Anyima Health Centre III,115.0,True
+2023-10-01,Omiya Anyima Health Centre III,1208.0,False
+2023-11-01,Omiya Anyima Health Centre III,831.0,False
+2023-12-01,Omiya Anyima Health Centre III,824.0,False
+2024-01-01,Omiya Anyima Health Centre III,199.0,False
+2024-02-01,Omiya Anyima Health Centre III,791.9090909090909,False
+2023-03-01,Omiya Pacwa Health Centre II,226.0,False
+2023-04-01,Omiya Pacwa Health Centre II,123.0,False
+2023-05-01,Omiya Pacwa Health Centre II,559.0,False
+2023-06-01,Omiya Pacwa Health Centre II,676.0,False
+2023-07-01,Omiya Pacwa Health Centre II,802.0,False
+2023-08-01,Omiya Pacwa Health Centre II,1261.0,True
+2023-09-01,Omiya Pacwa Health Centre II,588.0,False
+2023-10-01,Omiya Pacwa Health Centre II,444.0,False
+2023-11-01,Omiya Pacwa Health Centre II,619.0,False
+2023-12-01,Omiya Pacwa Health Centre II,258.0,False
+2024-01-01,Omiya Pacwa Health Centre II,39.0,True
+2024-02-01,Omiya Pacwa Health Centre II,508.6363636363636,False
+2023-03-01,Omot Health Centre III,268.0,False
+2023-04-01,Omot Health Centre III,166.0,True
+2023-05-01,Omot Health Centre III,436.0,False
+2023-06-01,Omot Health Centre III,700.0,False
+2023-07-01,Omot Health Centre III,1013.0,True
+2023-08-01,Omot Health Centre III,326.0,False
+2023-09-01,Omot Health Centre III,334.0,False
+2023-10-01,Omot Health Centre III,573.0,False
+2023-11-01,Omot Health Centre III,589.0,False
+2023-12-01,Omot Health Centre III,196.0,False
+2024-01-01,Omot Health Centre III,182.0,False
+2024-02-01,Omot Health Centre III,434.8181818181818,False
+2023-03-01,Ongako Health Centre III,241.0,False
+2023-04-01,Ongako Health Centre III,253.0,False
+2023-05-01,Ongako Health Centre III,469.0,False
+2023-06-01,Ongako Health Centre III,590.0,False
+2023-07-01,Ongako Health Centre III,626.0,False
+2023-08-01,Ongako Health Centre III,1004.0,True
+2023-09-01,Ongako Health Centre III,119.0,False
+2023-10-01,Ongako Health Centre III,367.0,False
+2023-11-01,Ongako Health Centre III,409.5,False
+2023-12-01,Ongako Health Centre III,318.0,False
+2024-01-01,Ongako Health Centre III,108.0,True
+2024-02-01,Ongako Health Centre III,409.5,False
+2023-03-01,Ongalo Health Centre II,251.0,False
+2023-04-01,Ongalo Health Centre II,25.0,True
+2023-05-01,Ongalo Health Centre II,269.0,False
+2023-06-01,Ongalo Health Centre II,339.0,False
+2023-07-01,Ongalo Health Centre II,304.0,False
+2023-08-01,Ongalo Health Centre II,213.0,False
+2023-09-01,Ongalo Health Centre II,93.0,False
+2023-10-01,Ongalo Health Centre II,391.0,True
+2023-11-01,Ongalo Health Centre II,261.0,False
+2023-12-01,Ongalo Health Centre II,133.0,False
+2024-01-01,Ongalo Health Centre II,37.0,False
+2024-02-01,Ongalo Health Centre II,210.54545454545453,False
+2023-03-01,Onudapet Health Centre II,253.0,False
+2023-04-01,Onudapet Health Centre II,272.0,False
+2023-05-01,Onudapet Health Centre II,339.0,False
+2023-06-01,Onudapet Health Centre II,481.0,False
+2023-07-01,Onudapet Health Centre II,628.0,False
+2023-08-01,Onudapet Health Centre II,574.0,False
+2023-09-01,Onudapet Health Centre II,638.0,True
+2023-10-01,Onudapet Health Centre II,357.0,False
+2023-11-01,Onudapet Health Centre II,551.0,False
+2023-12-01,Onudapet Health Centre II,306.0,False
+2024-01-01,Onudapet Health Centre II,204.0,True
+2024-02-01,Onudapet Health Centre II,418.45454545454544,False
+2023-03-01,Opyelo Health Centre III,364.0,False
+2023-04-01,Opyelo Health Centre III,156.0,True
+2023-05-01,Opyelo Health Centre III,507.0,False
+2023-06-01,Opyelo Health Centre III,754.0,False
+2023-07-01,Opyelo Health Centre III,1229.0,True
+2023-08-01,Opyelo Health Centre III,316.0,False
+2023-09-01,Opyelo Health Centre III,238.0,False
+2023-10-01,Opyelo Health Centre III,336.0,False
+2023-11-01,Opyelo Health Centre III,436.0,False
+2023-12-01,Opyelo Health Centre III,468.0,False
+2024-01-01,Opyelo Health Centre III,301.0,False
+2024-02-01,Opyelo Health Centre III,464.09090909090907,False
+2023-03-01,Oret Health Centre II,369.0,False
+2023-04-01,Oret Health Centre II,591.0,False
+2023-05-01,Oret Health Centre II,868.0,False
+2023-06-01,Oret Health Centre II,654.0,False
+2023-07-01,Oret Health Centre II,942.0,True
+2023-08-01,Oret Health Centre II,659.0,False
+2023-09-01,Oret Health Centre II,188.0,False
+2023-10-01,Oret Health Centre II,353.0,False
+2023-11-01,Oret Health Centre II,589.0,False
+2023-12-01,Oret Health Centre II,235.0,False
+2024-01-01,Oret Health Centre II,124.0,True
+2024-02-01,Oret Health Centre II,506.54545454545456,False
+2023-03-01,Orina Health Centre II,204.0,False
+2023-04-01,Orina Health Centre II,118.0,True
+2023-05-01,Orina Health Centre II,442.0,False
+2023-06-01,Orina Health Centre II,689.0,False
+2023-07-01,Orina Health Centre II,588.0,False
+2023-08-01,Orina Health Centre II,676.0,False
+2023-09-01,Orina Health Centre II,519.0,False
+2023-10-01,Orina Health Centre II,716.0,True
+2023-11-01,Orina Health Centre II,497.0,False
+2023-12-01,Orina Health Centre II,316.0,False
+2024-01-01,Orina Health Centre II,478.0,False
+2024-02-01,Orina Health Centre II,476.6363636363636,False
+2023-03-01,Oroko Health Centre II,434.0,True
+2023-04-01,Oroko Health Centre II,223.0,False
+2023-05-01,Oroko Health Centre II,216.0,False
+2023-06-01,Oroko Health Centre II,249.0,False
+2023-07-01,Oroko Health Centre II,382.0,False
+2023-08-01,Oroko Health Centre II,341.0,False
+2023-09-01,Oroko Health Centre II,261.6,False
+2023-10-01,Oroko Health Centre II,269.0,False
+2023-11-01,Oroko Health Centre II,187.0,False
+2023-12-01,Oroko Health Centre II,177.0,False
+2024-01-01,Oroko Health Centre II,138.0,True
+2024-02-01,Oroko Health Centre II,261.6,False
+2023-03-01,Orom Health Centre III,171.0,False
+2023-04-01,Orom Health Centre III,167.0,True
+2023-05-01,Orom Health Centre III,355.0,False
+2023-06-01,Orom Health Centre III,621.0,False
+2023-07-01,Orom Health Centre III,987.0,True
+2023-08-01,Orom Health Centre III,850.0,False
+2023-09-01,Orom Health Centre III,251.0,False
+2023-10-01,Orom Health Centre III,576.0,False
+2023-11-01,Orom Health Centre III,647.0,False
+2023-12-01,Orom Health Centre III,314.0,False
+2024-01-01,Orom Health Centre III,373.0,False
+2024-02-01,Orom Health Centre III,245.0,False
+2023-03-01,Orom-Tikau Prisons Health Centre II,49.0,True
+2023-04-01,Orom-Tikau Prisons Health Centre II,53.0,False
+2023-05-01,Orom-Tikau Prisons Health Centre II,212.0,False
+2023-06-01,Orom-Tikau Prisons Health Centre II,296.0,False
+2023-07-01,Orom-Tikau Prisons Health Centre II,358.0,True
+2023-08-01,Orom-Tikau Prisons Health Centre II,231.0,False
+2023-09-01,Orom-Tikau Prisons Health Centre II,206.11111111111111,False
+2023-10-01,Orom-Tikau Prisons Health Centre II,253.0,False
+2023-11-01,Orom-Tikau Prisons Health Centre II,206.11111111111111,False
+2023-12-01,Orom-Tikau Prisons Health Centre II,176.0,False
+2024-01-01,Orom-Tikau Prisons Health Centre II,227.0,False
+2024-02-01,Orom-Tikau Prisons Health Centre II,206.11111111111111,False
+2023-03-01,Oruka Health Centre,366.1666666666667,False
+2023-04-01,Oruka Health Centre,366.1666666666667,False
+2023-05-01,Oruka Health Centre,366.1666666666667,False
+2023-06-01,Oruka Health Centre,366.1666666666667,False
+2023-07-01,Oruka Health Centre,366.1666666666667,False
+2023-08-01,Oruka Health Centre,246.0,False
+2023-09-01,Oruka Health Centre,107.0,False
+2023-10-01,Oruka Health Centre,677.0,True
+2023-11-01,Oruka Health Centre,639.0,False
+2023-12-01,Oruka Health Centre,477.0,False
+2024-01-01,Oruka Health Centre,366.1666666666667,False
+2024-02-01,Oruka Health Centre,51.0,True
+2023-03-01,Oryang Health Centre II,356.0,False
+2023-04-01,Oryang Health Centre II,580.0,False
+2023-05-01,Oryang Health Centre II,685.0,False
+2023-06-01,Oryang Health Centre II,522.0,False
+2023-07-01,Oryang Health Centre II,811.0,False
+2023-08-01,Oryang Health Centre II,1318.0,True
+2023-09-01,Oryang Health Centre II,750.0,False
+2023-10-01,Oryang Health Centre II,616.0,False
+2023-11-01,Oryang Health Centre II,618.0,False
+2023-12-01,Oryang Health Centre II,271.0,False
+2024-01-01,Oryang Health Centre II,45.0,True
+2024-02-01,Oryang Health Centre II,597.4545454545455,False
+2023-03-01,Oryang Kulu Kwach Health Centre II,420.0,False
+2023-04-01,Oryang Kulu Kwach Health Centre II,491.0,False
+2023-05-01,Oryang Kulu Kwach Health Centre II,1101.0,False
+2023-06-01,Oryang Kulu Kwach Health Centre II,1157.0,False
+2023-07-01,Oryang Kulu Kwach Health Centre II,1043.0,False
+2023-08-01,Oryang Kulu Kwach Health Centre II,1247.0,False
+2023-09-01,Oryang Kulu Kwach Health Centre II,1100.0,False
+2023-10-01,Oryang Kulu Kwach Health Centre II,1282.0,False
+2023-11-01,Oryang Kulu Kwach Health Centre II,1972.0,True
+2023-12-01,Oryang Kulu Kwach Health Centre II,711.0,False
+2024-01-01,Oryang Kulu Kwach Health Centre II,178.0,True
+2024-02-01,Oryang Kulu Kwach Health Centre II,972.9090909090909,False
+2023-03-01,Otici Health Centre II,263.0,False
+2023-04-01,Otici Health Centre II,170.0,False
+2023-05-01,Otici Health Centre II,222.0,False
+2023-06-01,Otici Health Centre II,566.0,True
+2023-07-01,Otici Health Centre II,177.0,False
+2023-08-01,Otici Health Centre II,309.6666666666667,False
+2023-09-01,Otici Health Centre II,441.0,False
+2023-10-01,Otici Health Centre II,309.6666666666667,False
+2023-11-01,Otici Health Centre II,458.0,False
+2023-12-01,Otici Health Centre II,352.0,False
+2024-01-01,Otici Health Centre II,138.0,True
+2024-02-01,Otici Health Centre II,309.6666666666667,False
+2023-03-01,Otong Health Centre II,359.0,False
+2023-04-01,Otong Health Centre II,104.0,True
+2023-05-01,Otong Health Centre II,156.0,False
+2023-06-01,Otong Health Centre II,497.0,True
+2023-07-01,Otong Health Centre II,353.0,False
+2023-08-01,Otong Health Centre II,264.9,False
+2023-09-01,Otong Health Centre II,131.0,False
+2023-10-01,Otong Health Centre II,308.0,False
+2023-11-01,Otong Health Centre II,300.0,False
+2023-12-01,Otong Health Centre II,313.0,False
+2024-01-01,Otong Health Centre II,128.0,False
+2024-02-01,Otong Health Centre II,264.9,False
+2023-03-01,Otumpili Health Centre II,250.0,False
+2023-04-01,Otumpili Health Centre II,155.0,False
+2023-05-01,Otumpili Health Centre II,316.0,False
+2023-06-01,Otumpili Health Centre II,439.0,False
+2023-07-01,Otumpili Health Centre II,894.0,True
+2023-08-01,Otumpili Health Centre II,673.0,False
+2023-09-01,Otumpili Health Centre II,375.0,False
+2023-10-01,Otumpili Health Centre II,640.0,False
+2023-11-01,Otumpili Health Centre II,563.0,False
+2023-12-01,Otumpili Health Centre II,150.0,False
+2024-01-01,Otumpili Health Centre II,104.0,True
+2024-02-01,Otumpili Health Centre II,414.45454545454544,False
+2023-03-01,Otwee Health Centre III,173.0,True
+2023-04-01,Otwee Health Centre III,174.0,False
+2023-05-01,Otwee Health Centre III,188.0,False
+2023-06-01,Otwee Health Centre III,430.0,False
+2023-07-01,Otwee Health Centre III,559.0,True
+2023-08-01,Otwee Health Centre III,392.0,False
+2023-09-01,Otwee Health Centre III,238.0,False
+2023-10-01,Otwee Health Centre III,445.0,False
+2023-11-01,Otwee Health Centre III,451.0,False
+2023-12-01,Otwee Health Centre III,279.0,False
+2024-01-01,Otwee Health Centre III,216.0,False
+2024-02-01,Otwee Health Centre III,322.27272727272725,False
+2023-03-01,Pabbo Health Centre III,265.0,False
+2023-04-01,Pabbo Health Centre III,192.0,True
+2023-05-01,Pabbo Health Centre III,245.0,False
+2023-06-01,Pabbo Health Centre III,651.0,False
+2023-07-01,Pabbo Health Centre III,697.0,False
+2023-08-01,Pabbo Health Centre III,541.0,False
+2023-09-01,Pabbo Health Centre III,245.0,False
+2023-10-01,Pabbo Health Centre III,309.0,False
+2023-11-01,Pabbo Health Centre III,731.0,True
+2023-12-01,Pabbo Health Centre III,379.0,False
+2024-01-01,Pabbo Health Centre III,216.0,False
+2024-02-01,Pabbo Health Centre III,406.45454545454544,False
+2023-03-01,Pabwo Health Centre III,169.0,False
+2023-04-01,Pabwo Health Centre III,178.0,False
+2023-05-01,Pabwo Health Centre III,247.0,False
+2023-06-01,Pabwo Health Centre III,355.0,False
+2023-07-01,Pabwo Health Centre III,546.0,True
+2023-08-01,Pabwo Health Centre III,414.0,False
+2023-09-01,Pabwo Health Centre III,186.0,False
+2023-10-01,Pabwo Health Centre III,513.0,False
+2023-11-01,Pabwo Health Centre III,487.0,False
+2023-12-01,Pabwo Health Centre III,326.0,False
+2024-01-01,Pabwo Health Centre III,131.0,False
+2024-02-01,Pabwo Health Centre III,82.0,True
+2023-03-01,Pacer Health Centre III,409.0,False
+2023-04-01,Pacer Health Centre III,136.0,True
+2023-05-01,Pacer Health Centre III,661.0,False
+2023-06-01,Pacer Health Centre III,1170.0,False
+2023-07-01,Pacer Health Centre III,1162.0,False
+2023-08-01,Pacer Health Centre III,1360.0,True
+2023-09-01,Pacer Health Centre III,1201.0,False
+2023-10-01,Pacer Health Centre III,1343.0,False
+2023-11-01,Pacer Health Centre III,941.0,False
+2023-12-01,Pacer Health Centre III,739.0,False
+2024-01-01,Pacer Health Centre III,391.0,False
+2024-02-01,Pacer Health Centre III,864.8181818181819,False
+2023-03-01,Pacilo Health Centre II,208.0,False
+2023-04-01,Pacilo Health Centre II,298.0,False
+2023-05-01,Pacilo Health Centre II,65.0,False
+2023-06-01,Pacilo Health Centre II,384.0,False
+2023-07-01,Pacilo Health Centre II,683.0,True
+2023-08-01,Pacilo Health Centre II,186.0,False
+2023-09-01,Pacilo Health Centre II,183.0,False
+2023-10-01,Pacilo Health Centre II,225.0,False
+2023-11-01,Pacilo Health Centre II,618.0,False
+2023-12-01,Pacilo Health Centre II,286.0,False
+2024-01-01,Pacilo Health Centre II,16.0,True
+2024-02-01,Pacilo Health Centre II,286.54545454545456,False
+2023-03-01,Pader Health Centre III,226.0,True
+2023-04-01,Pader Health Centre III,299.0,False
+2023-05-01,Pader Health Centre III,559.0,False
+2023-06-01,Pader Health Centre III,969.0,True
+2023-07-01,Pader Health Centre III,793.0,False
+2023-08-01,Pader Health Centre III,623.0,False
+2023-09-01,Pader Health Centre III,497.0,False
+2023-10-01,Pader Health Centre III,610.0,False
+2023-11-01,Pader Health Centre III,405.0,False
+2023-12-01,Pader Health Centre III,372.0,False
+2024-01-01,Pader Health Centre III,402.0,False
+2024-02-01,Pader Health Centre III,523.1818181818181,False
+2023-03-01,Pader Maternity Home Clinic,1.0,False
+2023-04-01,Pader Maternity Home Clinic,1.0,False
+2023-05-01,Pader Maternity Home Clinic,1.0,False
+2023-06-01,Pader Maternity Home Clinic,1.0,False
+2023-07-01,Pader Maternity Home Clinic,1.0,False
+2023-08-01,Pader Maternity Home Clinic,1.0,False
+2023-09-01,Pader Maternity Home Clinic,1.0,False
+2023-10-01,Pader Maternity Home Clinic,1.0,False
+2023-11-01,Pader Maternity Home Clinic,1.0,False
+2023-12-01,Pader Maternity Home Clinic,1.0,False
+2024-01-01,Pader Maternity Home Clinic,1.0,False
+2024-02-01,Pader Maternity Home Clinic,1.0,False
+2023-03-01,Pader Police Health Centre II,216.0,False
+2023-04-01,Pader Police Health Centre II,107.0,True
+2023-05-01,Pader Police Health Centre II,208.0,False
+2023-06-01,Pader Police Health Centre II,247.0,False
+2023-07-01,Pader Police Health Centre II,746.0,True
+2023-08-01,Pader Police Health Centre II,348.0,False
+2023-09-01,Pader Police Health Centre II,156.0,False
+2023-10-01,Pader Police Health Centre II,441.0,False
+2023-11-01,Pader Police Health Centre II,345.0,False
+2023-12-01,Pader Police Health Centre II,116.0,False
+2024-01-01,Pader Police Health Centre II,293.0,False
+2024-02-01,Pader Police Health Centre II,293.0,False
+2023-03-01,Pader Prisons Health Centre II,39.0,False
+2023-04-01,Pader Prisons Health Centre II,52.0,False
+2023-05-01,Pader Prisons Health Centre II,106.0,False
+2023-06-01,Pader Prisons Health Centre II,107.0,False
+2023-07-01,Pader Prisons Health Centre II,82.0,False
+2023-08-01,Pader Prisons Health Centre II,69.0,False
+2023-09-01,Pader Prisons Health Centre II,37.0,False
+2023-10-01,Pader Prisons Health Centre II,73.0,False
+2023-11-01,Pader Prisons Health Centre II,32.0,True
+2023-12-01,Pader Prisons Health Centre II,85.0,False
+2024-01-01,Pader Prisons Health Centre II,121.0,True
+2024-02-01,Pader Prisons Health Centre II,73.0,False
+2023-03-01,Padibe Health Centre IV,378.0,False
+2023-04-01,Padibe Health Centre IV,347.0,True
+2023-05-01,Padibe Health Centre IV,924.0,False
+2023-06-01,Padibe Health Centre IV,1147.0,False
+2023-07-01,Padibe Health Centre IV,965.0,False
+2023-08-01,Padibe Health Centre IV,852.0,False
+2023-09-01,Padibe Health Centre IV,1287.0,True
+2023-10-01,Padibe Health Centre IV,716.0,False
+2023-11-01,Padibe Health Centre IV,837.0,False
+2023-12-01,Padibe Health Centre IV,736.0,False
+2024-01-01,Padibe Health Centre IV,867.0,False
+2024-02-01,Padibe Health Centre IV,823.2727272727273,False
+2023-03-01,Padibe West Health Centre III,389.0,False
+2023-04-01,Padibe West Health Centre III,362.0,False
+2023-05-01,Padibe West Health Centre III,1065.0,True
+2023-06-01,Padibe West Health Centre III,466.0,False
+2023-07-01,Padibe West Health Centre III,246.0,True
+2023-08-01,Padibe West Health Centre III,537.9,False
+2023-09-01,Padibe West Health Centre III,303.0,False
+2023-10-01,Padibe West Health Centre III,400.0,False
+2023-11-01,Padibe West Health Centre III,660.0,False
+2023-12-01,Padibe West Health Centre III,715.0,False
+2024-01-01,Padibe West Health Centre III,773.0,False
+2024-02-01,Padibe West Health Centre III,537.9,False
+2023-03-01,Paibona Health Centre II,206.0,True
+2023-04-01,Paibona Health Centre II,247.0,False
+2023-05-01,Paibona Health Centre II,630.0,False
+2023-06-01,Paibona Health Centre II,826.0,True
+2023-07-01,Paibona Health Centre II,616.0,False
+2023-08-01,Paibona Health Centre II,463.0,False
+2023-09-01,Paibona Health Centre II,278.0,False
+2023-10-01,Paibona Health Centre II,340.0,False
+2023-11-01,Paibona Health Centre II,462.0,False
+2023-12-01,Paibona Health Centre II,469.0,False
+2024-01-01,Paibona Health Centre II,217.0,False
+2024-02-01,Paibona Health Centre II,432.1818181818182,False
+2023-03-01,Paibwor Health Centre II,260.0,False
+2023-04-01,Paibwor Health Centre II,293.0,False
+2023-05-01,Paibwor Health Centre II,266.0,False
+2023-06-01,Paibwor Health Centre II,638.0,True
+2023-07-01,Paibwor Health Centre II,378.0,False
+2023-08-01,Paibwor Health Centre II,443.0,False
+2023-09-01,Paibwor Health Centre II,287.0,False
+2023-10-01,Paibwor Health Centre II,233.0,False
+2023-11-01,Paibwor Health Centre II,404.0,False
+2023-12-01,Paibwor Health Centre II,274.0,False
+2024-01-01,Paibwor Health Centre II,115.0,True
+2024-02-01,Paibwor Health Centre II,326.45454545454544,False
+2023-03-01,Paicho Medical Centre,59.0,False
+2023-04-01,Paicho Medical Centre,61.0,False
+2023-05-01,Paicho Medical Centre,96.0,False
+2023-06-01,Paicho Medical Centre,121.0,True
+2023-07-01,Paicho Medical Centre,75.0,False
+2023-08-01,Paicho Medical Centre,79.0,False
+2023-09-01,Paicho Medical Centre,72.0,False
+2023-10-01,Paicho Medical Centre,68.0,False
+2023-11-01,Paicho Medical Centre,43.0,False
+2023-12-01,Paicho Medical Centre,47.0,False
+2024-01-01,Paicho Medical Centre,63.0,False
+2024-02-01,Paicho Medical Centre,36.0,True
+2023-03-01,Paimol Health Centre III,142.0,False
+2023-04-01,Paimol Health Centre III,86.0,True
+2023-05-01,Paimol Health Centre III,927.0,False
+2023-06-01,Paimol Health Centre III,701.0,False
+2023-07-01,Paimol Health Centre III,1649.0,False
+2023-08-01,Paimol Health Centre III,2297.0,True
+2023-09-01,Paimol Health Centre III,176.0,False
+2023-10-01,Paimol Health Centre III,638.0,False
+2023-11-01,Paimol Health Centre III,988.0,False
+2023-12-01,Paimol Health Centre III,524.0,False
+2024-01-01,Paimol Health Centre III,170.0,False
+2024-02-01,Paimol Health Centre III,95.0,False
+2023-03-01,Paiula Health Centre II,518.0,False
+2023-04-01,Paiula Health Centre II,602.0,False
+2023-05-01,Paiula Health Centre II,1236.0,False
+2023-06-01,Paiula Health Centre II,792.0,False
+2023-07-01,Paiula Health Centre II,1025.0,False
+2023-08-01,Paiula Health Centre II,1264.0,True
+2023-09-01,Paiula Health Centre II,785.0,False
+2023-10-01,Paiula Health Centre II,395.0,False
+2023-11-01,Paiula Health Centre II,775.0,False
+2023-12-01,Paiula Health Centre II,227.0,True
+2024-01-01,Paiula Health Centre II,686.0,False
+2024-02-01,Paiula Health Centre II,755.0,False
+2023-03-01,Pajimo Health Centre III,370.0,True
+2023-04-01,Pajimo Health Centre III,527.0,False
+2023-05-01,Pajimo Health Centre III,583.0,False
+2023-06-01,Pajimo Health Centre III,824.0,False
+2023-07-01,Pajimo Health Centre III,1136.0,True
+2023-08-01,Pajimo Health Centre III,790.0,False
+2023-09-01,Pajimo Health Centre III,579.0,False
+2023-10-01,Pajimo Health Centre III,731.0,False
+2023-11-01,Pajimo Health Centre III,463.0,False
+2023-12-01,Pajimo Health Centre III,385.0,False
+2024-01-01,Pajimo Health Centre III,465.0,False
+2024-02-01,Pajimo Health Centre III,623.0,False
+2023-03-01,Pajimo Military Health Centre II,262.0,False
+2023-04-01,Pajimo Military Health Centre II,146.0,True
+2023-05-01,Pajimo Military Health Centre II,304.0,False
+2023-06-01,Pajimo Military Health Centre II,309.0,False
+2023-07-01,Pajimo Military Health Centre II,217.0,False
+2023-08-01,Pajimo Military Health Centre II,188.0,False
+2023-09-01,Pajimo Military Health Centre II,248.0,False
+2023-10-01,Pajimo Military Health Centre II,624.0,False
+2023-11-01,Pajimo Military Health Centre II,656.0,True
+2023-12-01,Pajimo Military Health Centre II,214.0,False
+2024-01-01,Pajimo Military Health Centre II,186.0,False
+2024-02-01,Pajimo Military Health Centre II,223.0,False
+2023-03-01,Pajule Health Centre IV,247.0,True
+2023-04-01,Pajule Health Centre IV,290.0,False
+2023-05-01,Pajule Health Centre IV,869.0,False
+2023-06-01,Pajule Health Centre IV,1291.0,True
+2023-07-01,Pajule Health Centre IV,1116.0,False
+2023-08-01,Pajule Health Centre IV,701.0,False
+2023-09-01,Pajule Health Centre IV,446.0,False
+2023-10-01,Pajule Health Centre IV,1025.0,False
+2023-11-01,Pajule Health Centre IV,817.0,False
+2023-12-01,Pajule Health Centre IV,642.0,False
+2024-01-01,Pajule Health Centre IV,954.0,False
+2024-02-01,Pajule Health Centre IV,763.4545454545455,False
+2023-03-01,Pakeyo Health Centre II,145.0,False
+2023-04-01,Pakeyo Health Centre II,229.0,False
+2023-05-01,Pakeyo Health Centre II,413.0,True
+2023-06-01,Pakeyo Health Centre II,356.0,False
+2023-07-01,Pakeyo Health Centre II,409.0,False
+2023-08-01,Pakeyo Health Centre II,140.0,False
+2023-09-01,Pakeyo Health Centre II,262.0,False
+2023-10-01,Pakeyo Health Centre II,149.0,False
+2023-11-01,Pakeyo Health Centre II,136.0,True
+2023-12-01,Pakeyo Health Centre II,156.0,False
+2024-01-01,Pakeyo Health Centre II,158.0,False
+2024-02-01,Pakeyo Health Centre II,232.0909090909091,False
+2023-03-01,Pakor Health Centre II,210.0,False
+2023-04-01,Pakor Health Centre II,206.0,False
+2023-05-01,Pakor Health Centre II,694.0,False
+2023-06-01,Pakor Health Centre II,914.0,True
+2023-07-01,Pakor Health Centre II,831.0,False
+2023-08-01,Pakor Health Centre II,880.0,False
+2023-09-01,Pakor Health Centre II,116.0,True
+2023-10-01,Pakor Health Centre II,324.0,False
+2023-11-01,Pakor Health Centre II,547.0,False
+2023-12-01,Pakor Health Centre II,472.0,False
+2024-01-01,Pakor Health Centre II,268.0,False
+2024-02-01,Pakor Health Centre II,496.54545454545456,False
+2023-03-01,Palabek Ogili Health Centre III,561.0,False
+2023-04-01,Palabek Ogili Health Centre III,552.0,False
+2023-05-01,Palabek Ogili Health Centre III,822.0,False
+2023-06-01,Palabek Ogili Health Centre III,583.0,False
+2023-07-01,Palabek Ogili Health Centre III,1217.0,True
+2023-08-01,Palabek Ogili Health Centre III,1042.0,False
+2023-09-01,Palabek Ogili Health Centre III,958.0,False
+2023-10-01,Palabek Ogili Health Centre III,780.0,False
+2023-11-01,Palabek Ogili Health Centre III,802.0,False
+2023-12-01,Palabek Ogili Health Centre III,559.0,False
+2024-01-01,Palabek Ogili Health Centre III,397.0,True
+2024-02-01,Palabek Ogili Health Centre III,752.0909090909091,False
+2023-03-01,Palabek-Gem Health Centre III,488.0,False
+2023-04-01,Palabek-Gem Health Centre III,444.0,True
+2023-05-01,Palabek-Gem Health Centre III,452.0,False
+2023-06-01,Palabek-Gem Health Centre III,1081.0,False
+2023-07-01,Palabek-Gem Health Centre III,1204.0,True
+2023-08-01,Palabek-Gem Health Centre III,821.0,False
+2023-09-01,Palabek-Gem Health Centre III,660.0,False
+2023-10-01,Palabek-Gem Health Centre III,707.0,False
+2023-11-01,Palabek-Gem Health Centre III,647.0,False
+2023-12-01,Palabek-Gem Health Centre III,708.0,False
+2024-01-01,Palabek-Gem Health Centre III,797.0,False
+2024-02-01,Palabek-Gem Health Centre III,728.0909090909091,False
+2023-03-01,Palabek-Kal Health Centre IV,286.0,True
+2023-04-01,Palabek-Kal Health Centre IV,544.0,False
+2023-05-01,Palabek-Kal Health Centre IV,1065.0,True
+2023-06-01,Palabek-Kal Health Centre IV,785.0,False
+2023-07-01,Palabek-Kal Health Centre IV,982.0,False
+2023-08-01,Palabek-Kal Health Centre IV,373.0,False
+2023-09-01,Palabek-Kal Health Centre IV,540.0,False
+2023-10-01,Palabek-Kal Health Centre IV,691.0,False
+2023-11-01,Palabek-Kal Health Centre IV,854.0,False
+2023-12-01,Palabek-Kal Health Centre IV,497.0,False
+2024-01-01,Palabek-Kal Health Centre IV,496.0,False
+2024-02-01,Palabek-Kal Health Centre IV,646.6363636363636,False
+2023-03-01,Palenga Health Centre II,183.0,False
+2023-04-01,Palenga Health Centre II,345.0,False
+2023-05-01,Palenga Health Centre II,559.0,True
+2023-06-01,Palenga Health Centre II,263.0,False
+2023-07-01,Palenga Health Centre II,249.0,False
+2023-08-01,Palenga Health Centre II,357.0,False
+2023-09-01,Palenga Health Centre II,159.0,True
+2023-10-01,Palenga Health Centre II,247.0,False
+2023-11-01,Palenga Health Centre II,359.0,False
+2023-12-01,Palenga Health Centre II,343.0,False
+2024-01-01,Palenga Health Centre II,267.0,False
+2024-02-01,Palenga Health Centre II,302.8181818181818,False
+2023-03-01,Paloga Health Centre III,366.0,False
+2023-04-01,Paloga Health Centre III,199.0,True
+2023-05-01,Paloga Health Centre III,608.0,False
+2023-06-01,Paloga Health Centre III,1027.0,False
+2023-07-01,Paloga Health Centre III,1216.0,True
+2023-08-01,Paloga Health Centre III,774.0,False
+2023-09-01,Paloga Health Centre III,942.0,False
+2023-10-01,Paloga Health Centre III,983.0,False
+2023-11-01,Paloga Health Centre III,690.0,False
+2023-12-01,Paloga Health Centre III,982.0,False
+2024-01-01,Paloga Health Centre III,614.0,False
+2024-02-01,Paloga Health Centre III,763.7272727272727,False
+2023-03-01,Paluda Health Centre III,1134.0,False
+2023-04-01,Paluda Health Centre III,2117.0,False
+2023-05-01,Paluda Health Centre III,2596.0,False
+2023-06-01,Paluda Health Centre III,2825.0,True
+2023-07-01,Paluda Health Centre III,2434.0,False
+2023-08-01,Paluda Health Centre III,1320.0,False
+2023-09-01,Paluda Health Centre III,1476.0,False
+2023-10-01,Paluda Health Centre III,945.0,True
+2023-11-01,Paluda Health Centre III,1027.0,False
+2023-12-01,Paluda Health Centre III,1082.0,False
+2024-01-01,Paluda Health Centre III,1473.0,False
+2024-02-01,Paluda Health Centre III,1675.3636363636363,False
+2023-03-01,Palukere Health Centre II,210.0,False
+2023-04-01,Palukere Health Centre II,176.0,False
+2023-05-01,Palukere Health Centre II,8.0,False
+2023-06-01,Palukere Health Centre II,259.0,False
+2023-07-01,Palukere Health Centre II,469.0,True
+2023-08-01,Palukere Health Centre II,201.6,False
+2023-09-01,Palukere Health Centre II,99.0,False
+2023-10-01,Palukere Health Centre II,408.0,False
+2023-11-01,Palukere Health Centre II,224.0,False
+2023-12-01,Palukere Health Centre II,159.0,False
+2024-01-01,Palukere Health Centre II,4.0,True
+2024-02-01,Palukere Health Centre II,201.6,False
+2023-03-01,Palwak Health Centre II,89.0,True
+2023-04-01,Palwak Health Centre II,134.0,False
+2023-05-01,Palwak Health Centre II,155.0,False
+2023-06-01,Palwak Health Centre II,156.0,False
+2023-07-01,Palwak Health Centre II,160.0,False
+2023-08-01,Palwak Health Centre II,180.0,True
+2023-09-01,Palwak Health Centre II,106.0,False
+2023-10-01,Palwak Health Centre II,117.0,False
+2023-11-01,Palwak Health Centre II,98.0,False
+2023-12-01,Palwak Health Centre II,128.0,False
+2024-01-01,Palwak Health Centre II,125.0,False
+2024-02-01,Palwak Health Centre II,131.63636363636363,False
+2023-03-01,Pandwong Health Centre III,352.0,True
+2023-04-01,Pandwong Health Centre III,481.0,False
+2023-05-01,Pandwong Health Centre III,997.0,True
+2023-06-01,Pandwong Health Centre III,985.0,False
+2023-07-01,Pandwong Health Centre III,743.0,False
+2023-08-01,Pandwong Health Centre III,792.0,False
+2023-09-01,Pandwong Health Centre III,839.0,False
+2023-10-01,Pandwong Health Centre III,970.0,False
+2023-11-01,Pandwong Health Centre III,768.0,False
+2023-12-01,Pandwong Health Centre III,515.0,False
+2024-01-01,Pandwong Health Centre III,362.0,False
+2024-02-01,Pandwong Health Centre III,709.4545454545455,False
+2023-03-01,Pangira Health Centre II,140.0,False
+2023-04-01,Pangira Health Centre II,288.0,False
+2023-05-01,Pangira Health Centre II,591.0,True
+2023-06-01,Pangira Health Centre II,516.0,False
+2023-07-01,Pangira Health Centre II,538.0,False
+2023-08-01,Pangira Health Centre II,228.0,False
+2023-09-01,Pangira Health Centre II,375.0,False
+2023-10-01,Pangira Health Centre II,213.0,False
+2023-11-01,Pangira Health Centre II,426.0,False
+2023-12-01,Pangira Health Centre II,302.0,False
+2024-01-01,Pangira Health Centre II,82.0,True
+2024-02-01,Pangira Health Centre II,336.27272727272725,False
+2023-03-01,Panokrach Health Centre II,330.0,False
+2023-04-01,Panokrach Health Centre II,139.0,False
+2023-05-01,Panokrach Health Centre II,331.0,False
+2023-06-01,Panokrach Health Centre II,491.0,False
+2023-07-01,Panokrach Health Centre II,631.0,False
+2023-08-01,Panokrach Health Centre II,299.0,False
+2023-09-01,Panokrach Health Centre II,112.0,False
+2023-10-01,Panokrach Health Centre II,918.0,True
+2023-11-01,Panokrach Health Centre II,188.0,False
+2023-12-01,Panokrach Health Centre II,42.0,False
+2024-01-01,Panokrach Health Centre II,34.0,True
+2024-02-01,Panokrach Health Centre II,319.54545454545456,False
+2023-03-01,Paraa Health Centre III,143.5,False
+2023-04-01,Paraa Health Centre III,143.5,False
+2023-05-01,Paraa Health Centre III,143.5,False
+2023-06-01,Paraa Health Centre III,143.5,False
+2023-07-01,Paraa Health Centre III,143.5,False
+2023-08-01,Paraa Health Centre III,164.0,True
+2023-09-01,Paraa Health Centre III,144.0,False
+2023-10-01,Paraa Health Centre III,162.0,False
+2023-11-01,Paraa Health Centre III,159.0,False
+2023-12-01,Paraa Health Centre III,120.0,False
+2024-01-01,Paraa Health Centre III,112.0,True
+2024-02-01,Paraa Health Centre III,143.5,False
+2023-03-01,Paraa Safari Lodge Clinic,15.0,False
+2023-04-01,Paraa Safari Lodge Clinic,2.0,True
+2023-05-01,Paraa Safari Lodge Clinic,12.0,False
+2023-06-01,Paraa Safari Lodge Clinic,32.0,True
+2023-07-01,Paraa Safari Lodge Clinic,20.0,False
+2023-08-01,Paraa Safari Lodge Clinic,17.0,False
+2023-09-01,Paraa Safari Lodge Clinic,9.0,False
+2023-10-01,Paraa Safari Lodge Clinic,14.0,False
+2023-11-01,Paraa Safari Lodge Clinic,11.0,False
+2023-12-01,Paraa Safari Lodge Clinic,24.0,False
+2024-01-01,Paraa Safari Lodge Clinic,10.0,False
+2024-02-01,Paraa Safari Lodge Clinic,15.090909090909092,False
+2023-03-01,Parabongo Health Centre II,204.0,False
+2023-04-01,Parabongo Health Centre II,216.0,False
+2023-05-01,Parabongo Health Centre II,289.0,False
+2023-06-01,Parabongo Health Centre II,582.0,False
+2023-07-01,Parabongo Health Centre II,623.0,True
+2023-08-01,Parabongo Health Centre II,426.0,False
+2023-09-01,Parabongo Health Centre II,569.0,False
+2023-10-01,Parabongo Health Centre II,423.0,False
+2023-11-01,Parabongo Health Centre II,382.2,False
+2023-12-01,Parabongo Health Centre II,300.0,False
+2024-01-01,Parabongo Health Centre II,190.0,True
+2024-02-01,Parabongo Health Centre II,382.2,False
+2023-03-01,Patiko Health Centre III,222.0,False
+2023-04-01,Patiko Health Centre III,323.0,False
+2023-05-01,Patiko Health Centre III,600.0,False
+2023-06-01,Patiko Health Centre III,609.0,False
+2023-07-01,Patiko Health Centre III,912.0,True
+2023-08-01,Patiko Health Centre III,611.0,False
+2023-09-01,Patiko Health Centre III,436.0,False
+2023-10-01,Patiko Health Centre III,466.0,False
+2023-11-01,Patiko Health Centre III,649.0,False
+2023-12-01,Patiko Health Centre III,718.0,False
+2024-01-01,Patiko Health Centre III,392.0,False
+2024-02-01,Patiko Health Centre III,124.0,True
+2023-03-01,Patongo Health Centre III,515.0,False
+2023-04-01,Patongo Health Centre III,315.0,True
+2023-05-01,Patongo Health Centre III,841.0,False
+2023-06-01,Patongo Health Centre III,1351.0,False
+2023-07-01,Patongo Health Centre III,1834.0,True
+2023-08-01,Patongo Health Centre III,1277.0,False
+2023-09-01,Patongo Health Centre III,1434.0,False
+2023-10-01,Patongo Health Centre III,998.0,False
+2023-11-01,Patongo Health Centre III,960.0,False
+2023-12-01,Patongo Health Centre III,671.0,False
+2024-01-01,Patongo Health Centre III,903.0,False
+2024-02-01,Patongo Health Centre III,1009.0,False
+2023-03-01,Patongo Prisons Health Centre II,45.0,False
+2023-04-01,Patongo Prisons Health Centre II,29.0,True
+2023-05-01,Patongo Prisons Health Centre II,40.0,False
+2023-06-01,Patongo Prisons Health Centre II,78.0,False
+2023-07-01,Patongo Prisons Health Centre II,84.9,False
+2023-08-01,Patongo Prisons Health Centre II,48.0,False
+2023-09-01,Patongo Prisons Health Centre II,218.0,True
+2023-10-01,Patongo Prisons Health Centre II,85.0,False
+2023-11-01,Patongo Prisons Health Centre II,75.0,False
+2023-12-01,Patongo Prisons Health Centre II,111.0,False
+2024-01-01,Patongo Prisons Health Centre II,120.0,False
+2024-02-01,Patongo Prisons Health Centre II,84.9,False
+2023-03-01,Patuda Health Centre II,242.0,False
+2023-04-01,Patuda Health Centre II,66.0,False
+2023-05-01,Patuda Health Centre II,411.0,False
+2023-06-01,Patuda Health Centre II,394.0,False
+2023-07-01,Patuda Health Centre II,496.0,True
+2023-08-01,Patuda Health Centre II,283.0,False
+2023-09-01,Patuda Health Centre II,155.0,False
+2023-10-01,Patuda Health Centre II,227.0,False
+2023-11-01,Patuda Health Centre II,428.0,False
+2023-12-01,Patuda Health Centre II,256.0,False
+2024-01-01,Patuda Health Centre II,20.0,True
+2024-02-01,Patuda Health Centre II,270.72727272727275,False
+2023-03-01,Pauma Health Centre II,93.0,True
+2023-04-01,Pauma Health Centre II,204.0,False
+2023-05-01,Pauma Health Centre II,447.0,False
+2023-06-01,Pauma Health Centre II,265.0,False
+2023-07-01,Pauma Health Centre II,476.0,True
+2023-08-01,Pauma Health Centre II,356.0,False
+2023-09-01,Pauma Health Centre II,349.0,False
+2023-10-01,Pauma Health Centre II,227.0,False
+2023-11-01,Pauma Health Centre II,377.0,False
+2023-12-01,Pauma Health Centre II,223.0,False
+2024-01-01,Pauma Health Centre II,301.7,False
+2024-02-01,Pauma Health Centre II,301.7,False
+2023-03-01,Pawach Health Centre II,64.0,False
+2023-04-01,Pawach Health Centre II,132.0,False
+2023-05-01,Pawach Health Centre II,429.0,False
+2023-06-01,Pawach Health Centre II,517.0,True
+2023-07-01,Pawach Health Centre II,354.0,False
+2023-08-01,Pawach Health Centre II,201.0,False
+2023-09-01,Pawach Health Centre II,352.0,False
+2023-10-01,Pawach Health Centre II,298.0,False
+2023-11-01,Pawach Health Centre II,320.0,False
+2023-12-01,Pawach Health Centre II,210.0,False
+2024-01-01,Pawach Health Centre II,32.0,True
+2024-02-01,Pawach Health Centre II,264.45454545454544,False
+2023-03-01,Pawel Angany Health Centre II,272.0,False
+2023-04-01,Pawel Angany Health Centre II,199.0,False
+2023-05-01,Pawel Angany Health Centre II,355.0,False
+2023-06-01,Pawel Angany Health Centre II,347.0,False
+2023-07-01,Pawel Angany Health Centre II,418.0,False
+2023-08-01,Pawel Angany Health Centre II,613.0,False
+2023-09-01,Pawel Angany Health Centre II,402.0,False
+2023-10-01,Pawel Angany Health Centre II,535.0,False
+2023-11-01,Pawel Angany Health Centre II,622.0,True
+2023-12-01,Pawel Angany Health Centre II,371.0,False
+2024-01-01,Pawel Angany Health Centre II,27.0,True
+2024-02-01,Pawel Angany Health Centre II,378.27272727272725,False
+2023-03-01,Pawel Health Centre II,497.0,False
+2023-04-01,Pawel Health Centre II,446.0,False
+2023-05-01,Pawel Health Centre II,179.0,False
+2023-06-01,Pawel Health Centre II,773.0,False
+2023-07-01,Pawel Health Centre II,436.09090909090907,False
+2023-08-01,Pawel Health Centre II,933.0,True
+2023-09-01,Pawel Health Centre II,372.0,False
+2023-10-01,Pawel Health Centre II,394.0,False
+2023-11-01,Pawel Health Centre II,669.0,False
+2023-12-01,Pawel Health Centre II,307.0,False
+2024-01-01,Pawel Health Centre II,219.0,False
+2024-02-01,Pawel Health Centre II,8.0,True
+2023-03-01,Pawidi Health Centre II,335.0,False
+2023-04-01,Pawidi Health Centre II,98.0,False
+2023-05-01,Pawidi Health Centre II,103.0,False
+2023-06-01,Pawidi Health Centre II,375.0,False
+2023-07-01,Pawidi Health Centre II,382.0,False
+2023-08-01,Pawidi Health Centre II,224.0,False
+2023-09-01,Pawidi Health Centre II,133.0,False
+2023-10-01,Pawidi Health Centre II,1006.0,True
+2023-11-01,Pawidi Health Centre II,287.0,False
+2023-12-01,Pawidi Health Centre II,144.0,False
+2024-01-01,Pawidi Health Centre II,3.0,True
+2024-02-01,Pawidi Health Centre II,280.90909090909093,False
+2023-03-01,Pearl Medical Centre,24.0,False
+2023-04-01,Pearl Medical Centre,34.0,False
+2023-05-01,Pearl Medical Centre,28.0,False
+2023-06-01,Pearl Medical Centre,27.0,False
+2023-07-01,Pearl Medical Centre,26.0,False
+2023-08-01,Pearl Medical Centre,39.0,False
+2023-09-01,Pearl Medical Centre,31.555555555555557,False
+2023-10-01,Pearl Medical Centre,57.0,True
+2023-11-01,Pearl Medical Centre,27.0,False
+2023-12-01,Pearl Medical Centre,22.0,True
+2024-01-01,Pearl Medical Centre,31.555555555555557,False
+2024-02-01,Pearl Medical Centre,31.555555555555557,False
+2023-03-01,Pece Prisons Health Centre II,12.0,True
+2023-04-01,Pece Prisons Health Centre II,24.0,False
+2023-05-01,Pece Prisons Health Centre II,58.0,False
+2023-06-01,Pece Prisons Health Centre II,60.0,False
+2023-07-01,Pece Prisons Health Centre II,42.0,False
+2023-08-01,Pece Prisons Health Centre II,31.0,False
+2023-09-01,Pece Prisons Health Centre II,38.0,False
+2023-10-01,Pece Prisons Health Centre II,21.0,False
+2023-11-01,Pece Prisons Health Centre II,30.0,False
+2023-12-01,Pece Prisons Health Centre II,63.0,True
+2024-01-01,Pece Prisons Health Centre II,38.0,False
+2024-02-01,Pece Prisons Health Centre II,37.90909090909091,False
+2023-03-01,Pikwo Medical Centre Clinic,94.0,False
+2023-04-01,Pikwo Medical Centre Clinic,98.0,False
+2023-05-01,Pikwo Medical Centre Clinic,133.0,True
+2023-06-01,Pikwo Medical Centre Clinic,109.0,False
+2023-07-01,Pikwo Medical Centre Clinic,85.0,False
+2023-08-01,Pikwo Medical Centre Clinic,104.0,False
+2023-09-01,Pikwo Medical Centre Clinic,29.0,True
+2023-10-01,Pikwo Medical Centre Clinic,42.0,False
+2023-11-01,Pikwo Medical Centre Clinic,40.0,False
+2023-12-01,Pikwo Medical Centre Clinic,75.0,False
+2024-01-01,Pikwo Medical Centre Clinic,57.0,False
+2024-02-01,Pikwo Medical Centre Clinic,78.72727272727273,False
+2023-03-01,Piwan Medical Centre,65.0,False
+2023-04-01,Piwan Medical Centre,65.0,False
+2023-05-01,Piwan Medical Centre,65.0,False
+2023-06-01,Piwan Medical Centre,65.0,False
+2023-07-01,Piwan Medical Centre,65.0,False
+2023-08-01,Piwan Medical Centre,65.0,False
+2023-09-01,Piwan Medical Centre,65.0,False
+2023-10-01,Piwan Medical Centre,65.0,False
+2023-11-01,Piwan Medical Centre,65.0,False
+2023-12-01,Piwan Medical Centre,65.0,False
+2024-01-01,Piwan Medical Centre,65.0,False
+2024-02-01,Piwan Medical Centre,65.0,False
+2023-03-01,Pogo Health Centre II,228.0,False
+2023-04-01,Pogo Health Centre II,147.0,True
+2023-05-01,Pogo Health Centre II,210.0,False
+2023-06-01,Pogo Health Centre II,366.0,False
+2023-07-01,Pogo Health Centre II,360.0,False
+2023-08-01,Pogo Health Centre II,227.0,False
+2023-09-01,Pogo Health Centre II,253.0,False
+2023-10-01,Pogo Health Centre II,251.0,False
+2023-11-01,Pogo Health Centre II,387.0,True
+2023-12-01,Pogo Health Centre II,277.0,False
+2024-01-01,Pogo Health Centre II,164.0,False
+2024-02-01,Pogo Health Centre II,260.90909090909093,False
+2023-03-01,Porogali Health Centre II,413.0,False
+2023-04-01,Porogali Health Centre II,383.0,False
+2023-05-01,Porogali Health Centre II,454.0,False
+2023-06-01,Porogali Health Centre II,676.0,False
+2023-07-01,Porogali Health Centre II,736.0,True
+2023-08-01,Porogali Health Centre II,470.0,False
+2023-09-01,Porogali Health Centre II,111.0,False
+2023-10-01,Porogali Health Centre II,454.0,False
+2023-11-01,Porogali Health Centre II,527.0,False
+2023-12-01,Porogali Health Centre II,73.0,False
+2024-01-01,Porogali Health Centre II,36.0,True
+2024-02-01,Porogali Health Centre II,393.90909090909093,False
+2023-03-01,Potika Health Centre II,169.0,False
+2023-04-01,Potika Health Centre II,118.0,False
+2023-05-01,Potika Health Centre II,549.0,False
+2023-06-01,Potika Health Centre II,613.0,False
+2023-07-01,Potika Health Centre II,851.0,True
+2023-08-01,Potika Health Centre II,0.0,True
+2023-09-01,Potika Health Centre II,87.0,False
+2023-10-01,Potika Health Centre II,287.0,False
+2023-11-01,Potika Health Centre II,528.0,False
+2023-12-01,Potika Health Centre II,59.0,False
+2024-01-01,Potika Health Centre II,79.0,False
+2024-02-01,Potika Health Centre II,303.6363636363636,False
+2023-03-01,Pudor Health Centre II,260.0,False
+2023-04-01,Pudor Health Centre II,190.0,True
+2023-05-01,Pudor Health Centre II,388.0,False
+2023-06-01,Pudor Health Centre II,391.0,False
+2023-07-01,Pudor Health Centre II,223.0,False
+2023-08-01,Pudor Health Centre II,416.0,False
+2023-09-01,Pudor Health Centre II,435.0,False
+2023-10-01,Pudor Health Centre II,499.0,True
+2023-11-01,Pudor Health Centre II,256.0,False
+2023-12-01,Pudor Health Centre II,334.0,False
+2024-01-01,Pudor Health Centre II,397.0,False
+2024-02-01,Pudor Health Centre II,284.0,False
+2023-03-01,Pugwinyi Health Centre II,366.0,False
+2023-04-01,Pugwinyi Health Centre II,408.0,False
+2023-05-01,Pugwinyi Health Centre II,562.0,False
+2023-06-01,Pugwinyi Health Centre II,725.0,False
+2023-07-01,Pugwinyi Health Centre II,775.0,True
+2023-08-01,Pugwinyi Health Centre II,695.0,False
+2023-09-01,Pugwinyi Health Centre II,626.0,False
+2023-10-01,Pugwinyi Health Centre II,396.0,False
+2023-11-01,Pugwinyi Health Centre II,774.0,False
+2023-12-01,Pugwinyi Health Centre II,631.0,False
+2024-01-01,Pugwinyi Health Centre II,165.0,True
+2024-02-01,Pugwinyi Health Centre II,556.6363636363636,False
+2023-03-01,Pukony Health Centre II,194.0,False
+2023-04-01,Pukony Health Centre II,149.0,False
+2023-05-01,Pukony Health Centre II,504.0,False
+2023-06-01,Pukony Health Centre II,506.0,False
+2023-07-01,Pukony Health Centre II,532.0,False
+2023-08-01,Pukony Health Centre II,285.0,False
+2023-09-01,Pukony Health Centre II,443.0,False
+2023-10-01,Pukony Health Centre II,339.0,False
+2023-11-01,Pukony Health Centre II,433.0,False
+2023-12-01,Pukony Health Centre II,579.0,True
+2024-01-01,Pukony Health Centre II,150.0,False
+2024-02-01,Pukony Health Centre II,23.0,True
+2023-03-01,Punena Health Centre II,68.0,True
+2023-04-01,Punena Health Centre II,70.0,False
+2023-05-01,Punena Health Centre II,159.0,False
+2023-06-01,Punena Health Centre II,279.0,False
+2023-07-01,Punena Health Centre II,358.0,False
+2023-08-01,Punena Health Centre II,343.0,False
+2023-09-01,Punena Health Centre II,115.0,False
+2023-10-01,Punena Health Centre II,358.0,False
+2023-11-01,Punena Health Centre II,385.0,True
+2023-12-01,Punena Health Centre II,296.0,False
+2024-01-01,Punena Health Centre II,240.0,False
+2024-02-01,Punena Health Centre II,242.8181818181818,False
+2023-03-01,Puranga Health Centre III,360.0,True
+2023-03-01,Puranga Health Centre III,593.8181818181819,False
+2023-04-01,Puranga Health Centre III,459.0,False
+2023-04-01,Puranga Health Centre III,593.8181818181819,False
+2023-05-01,Puranga Health Centre III,639.0,False
+2023-05-01,Puranga Health Centre III,593.8181818181819,False
+2023-06-01,Puranga Health Centre III,835.0,False
+2023-06-01,Puranga Health Centre III,593.8181818181819,False
+2023-07-01,Puranga Health Centre III,1011.0,True
+2023-07-01,Puranga Health Centre III,593.8181818181819,False
+2023-08-01,Puranga Health Centre III,653.0,False
+2023-08-01,Puranga Health Centre III,593.8181818181819,False
+2023-09-01,Puranga Health Centre III,465.0,False
+2023-09-01,Puranga Health Centre III,593.8181818181819,False
+2023-10-01,Puranga Health Centre III,463.0,False
+2023-10-01,Puranga Health Centre III,593.8181818181819,False
+2023-11-01,Puranga Health Centre III,623.0,False
+2023-11-01,Puranga Health Centre III,593.8181818181819,False
+2023-12-01,Puranga Health Centre III,634.0,False
+2023-12-01,Puranga Health Centre III,593.8181818181819,False
+2024-01-01,Puranga Health Centre III,390.0,False
+2024-01-01,Puranga Health Centre III,593.8181818181819,False
+2024-02-01,Puranga Health Centre III,593.8181818181819,False
+2024-02-01,Puranga Health Centre III,593.8181818181819,False
+2023-03-01,Purongo Health Centre III,645.0,False
+2023-04-01,Purongo Health Centre III,737.0,False
+2023-05-01,Purongo Health Centre III,785.0,False
+2023-06-01,Purongo Health Centre III,338.0,True
+2023-07-01,Purongo Health Centre III,962.0,True
+2023-08-01,Purongo Health Centre III,870.0,False
+2023-09-01,Purongo Health Centre III,673.0,False
+2023-10-01,Purongo Health Centre III,594.0,False
+2023-11-01,Purongo Health Centre III,773.0,False
+2023-12-01,Purongo Health Centre III,410.0,False
+2024-01-01,Purongo Health Centre III,353.0,False
+2024-02-01,Purongo Health Centre III,649.0909090909091,False
+2023-03-01,Rackoko Health Centre III,89.5,False
+2023-04-01,Rackoko Health Centre III,89.5,False
+2023-05-01,Rackoko Health Centre III,89.5,False
+2023-06-01,Rackoko Health Centre III,89.5,False
+2023-07-01,Rackoko Health Centre III,89.5,False
+2023-08-01,Rackoko Health Centre III,89.5,False
+2023-09-01,Rackoko Health Centre III,89.5,False
+2023-10-01,Rackoko Health Centre III,0.0,True
+2023-11-01,Rackoko Health Centre III,97.0,False
+2023-12-01,Rackoko Health Centre III,185.0,True
+2024-01-01,Rackoko Health Centre III,76.0,False
+2024-02-01,Rackoko Health Centre III,89.5,False
+2023-03-01,Reproductive Health Uganda (Gulu) Health Centre II,6.0,True
+2023-04-01,Reproductive Health Uganda (Gulu) Health Centre II,12.0,False
+2023-05-01,Reproductive Health Uganda (Gulu) Health Centre II,8.0,False
+2023-06-01,Reproductive Health Uganda (Gulu) Health Centre II,16.0,False
+2023-07-01,Reproductive Health Uganda (Gulu) Health Centre II,13.0,False
+2023-08-01,Reproductive Health Uganda (Gulu) Health Centre II,15.0,False
+2023-09-01,Reproductive Health Uganda (Gulu) Health Centre II,25.0,True
+2023-10-01,Reproductive Health Uganda (Gulu) Health Centre II,10.0,False
+2023-11-01,Reproductive Health Uganda (Gulu) Health Centre II,7.0,False
+2023-12-01,Reproductive Health Uganda (Gulu) Health Centre II,12.9,False
+2024-01-01,Reproductive Health Uganda (Gulu) Health Centre II,17.0,False
+2024-02-01,Reproductive Health Uganda (Gulu) Health Centre II,12.9,False
+2023-03-01,Romeo Health Centre II,153.0,False
+2023-04-01,Romeo Health Centre II,136.0,False
+2023-05-01,Romeo Health Centre II,136.0,False
+2023-06-01,Romeo Health Centre II,173.0,False
+2023-07-01,Romeo Health Centre II,217.0,False
+2023-08-01,Romeo Health Centre II,237.0,False
+2023-09-01,Romeo Health Centre II,246.55555555555554,False
+2023-10-01,Romeo Health Centre II,545.0,True
+2023-11-01,Romeo Health Centre II,284.0,False
+2023-12-01,Romeo Health Centre II,246.55555555555554,False
+2024-01-01,Romeo Health Centre II,338.0,False
+2024-02-01,Romeo Health Centre II,246.55555555555554,False
+2023-03-01,Rwotobilo Health Centre II,193.0,False
+2023-04-01,Rwotobilo Health Centre II,162.0,False
+2023-05-01,Rwotobilo Health Centre II,317.0,False
+2023-06-01,Rwotobilo Health Centre II,244.0,False
+2023-07-01,Rwotobilo Health Centre II,367.0,False
+2023-08-01,Rwotobilo Health Centre II,260.0,False
+2023-09-01,Rwotobilo Health Centre II,291.0,False
+2023-10-01,Rwotobilo Health Centre II,347.0,False
+2023-11-01,Rwotobilo Health Centre II,413.0,False
+2023-12-01,Rwotobilo Health Centre II,570.0,True
+2024-01-01,Rwotobilo Health Centre II,136.0,True
+2024-02-01,Rwotobilo Health Centre II,300.0,False
+2023-03-01,Sacred Heart Health Centre II,19.0,True
+2023-04-01,Sacred Heart Health Centre II,47.0,False
+2023-05-01,Sacred Heart Health Centre II,70.0,False
+2023-06-01,Sacred Heart Health Centre II,102.0,True
+2023-07-01,Sacred Heart Health Centre II,51.0,False
+2023-08-01,Sacred Heart Health Centre II,55.36363636363637,False
+2023-09-01,Sacred Heart Health Centre II,68.0,False
+2023-10-01,Sacred Heart Health Centre II,68.0,False
+2023-11-01,Sacred Heart Health Centre II,65.0,False
+2023-12-01,Sacred Heart Health Centre II,41.0,False
+2024-01-01,Sacred Heart Health Centre II,35.0,False
+2024-02-01,Sacred Heart Health Centre II,43.0,False
+2023-03-01,St. Andrew Health Centre II,246.0,True
+2023-04-01,St. Andrew Health Centre II,316.0,False
+2023-05-01,St. Andrew Health Centre II,460.0,False
+2023-06-01,St. Andrew Health Centre II,461.0,False
+2023-07-01,St. Andrew Health Centre II,535.0,False
+2023-08-01,St. Andrew Health Centre II,599.0,True
+2023-09-01,St. Andrew Health Centre II,390.0,False
+2023-10-01,St. Andrew Health Centre II,384.0,False
+2023-11-01,St. Andrew Health Centre II,389.0,False
+2023-12-01,St. Andrew Health Centre II,398.0,False
+2024-01-01,St. Andrew Health Centre II,397.0,False
+2024-02-01,St. Andrew Health Centre II,324.0,False
+2023-03-01,St. Bakita Medical Centre and Maternity Home,15.0,False
+2023-04-01,St. Bakita Medical Centre and Maternity Home,12.0,True
+2023-05-01,St. Bakita Medical Centre and Maternity Home,33.0,False
+2023-06-01,St. Bakita Medical Centre and Maternity Home,41.0,False
+2023-07-01,St. Bakita Medical Centre and Maternity Home,17.0,False
+2023-08-01,St. Bakita Medical Centre and Maternity Home,22.0,False
+2023-09-01,St. Bakita Medical Centre and Maternity Home,26.0,False
+2023-10-01,St. Bakita Medical Centre and Maternity Home,25.0,False
+2023-11-01,St. Bakita Medical Centre and Maternity Home,19.0,False
+2023-12-01,St. Bakita Medical Centre and Maternity Home,45.0,True
+2024-01-01,St. Bakita Medical Centre and Maternity Home,41.0,False
+2024-02-01,St. Bakita Medical Centre and Maternity Home,26.90909090909091,False
+2023-03-01,St. Francis Health Centre II,43.0,False
+2023-04-01,St. Francis Health Centre II,52.0,False
+2023-05-01,St. Francis Health Centre II,48.0,False
+2023-06-01,St. Francis Health Centre II,115.0,True
+2023-07-01,St. Francis Health Centre II,80.0,False
+2023-08-01,St. Francis Health Centre II,70.0,False
+2023-09-01,St. Francis Health Centre II,35.0,False
+2023-10-01,St. Francis Health Centre II,86.0,False
+2023-11-01,St. Francis Health Centre II,41.0,False
+2023-12-01,St. Francis Health Centre II,38.0,False
+2024-01-01,St. Francis Health Centre II,17.0,True
+2024-02-01,St. Francis Health Centre II,71.0,False
+2023-03-01,St. Janani Health Centre II,265.7142857142857,False
+2023-04-01,St. Janani Health Centre II,265.7142857142857,False
+2023-05-01,St. Janani Health Centre II,265.7142857142857,False
+2023-06-01,St. Janani Health Centre II,187.0,True
+2023-07-01,St. Janani Health Centre II,190.0,False
+2023-08-01,St. Janani Health Centre II,314.0,False
+2023-09-01,St. Janani Health Centre II,290.0,False
+2023-10-01,St. Janani Health Centre II,265.7142857142857,False
+2023-11-01,St. Janani Health Centre II,356.0,True
+2023-12-01,St. Janani Health Centre II,269.0,False
+2024-01-01,St. Janani Health Centre II,254.0,False
+2024-02-01,St. Janani Health Centre II,265.7142857142857,False
+2023-03-01,St. Joseph's Kitgum Hospital,87.0,True
+2023-04-01,St. Joseph's Kitgum Hospital,130.0,False
+2023-05-01,St. Joseph's Kitgum Hospital,242.0,False
+2023-06-01,St. Joseph's Kitgum Hospital,235.0,False
+2023-07-01,St. Joseph's Kitgum Hospital,161.0,False
+2023-08-01,St. Joseph's Kitgum Hospital,241.0,False
+2023-09-01,St. Joseph's Kitgum Hospital,289.0,True
+2023-10-01,St. Joseph's Kitgum Hospital,182.0,False
+2023-11-01,St. Joseph's Kitgum Hospital,187.0,False
+2023-12-01,St. Joseph's Kitgum Hospital,183.0,False
+2024-01-01,St. Joseph's Kitgum Hospital,239.0,False
+2024-02-01,St. Joseph's Kitgum Hospital,197.8181818181818,False
+2023-03-01,St. Luke Health Centre II,186.0,False
+2023-04-01,St. Luke Health Centre II,315.0,False
+2023-05-01,St. Luke Health Centre II,450.0,False
+2023-06-01,St. Luke Health Centre II,414.0,False
+2023-07-01,St. Luke Health Centre II,322.0,False
+2023-08-01,St. Luke Health Centre II,288.0,False
+2023-09-01,St. Luke Health Centre II,177.0,True
+2023-10-01,St. Luke Health Centre II,535.0,False
+2023-11-01,St. Luke Health Centre II,527.0,False
+2023-12-01,St. Luke Health Centre II,655.0,True
+2024-01-01,St. Luke Health Centre II,555.0,False
+2024-02-01,St. Luke Health Centre II,402.1818181818182,False
+2023-03-01,St. Mary's Hospital Lacor,124.0,True
+2023-04-01,St. Mary's Hospital Lacor,228.0,False
+2023-05-01,St. Mary's Hospital Lacor,390.0,False
+2023-06-01,St. Mary's Hospital Lacor,351.0,False
+2023-07-01,St. Mary's Hospital Lacor,335.0,False
+2023-08-01,St. Mary's Hospital Lacor,378.0,False
+2023-09-01,St. Mary's Hospital Lacor,364.0,False
+2023-10-01,St. Mary's Hospital Lacor,140.0,False
+2023-11-01,St. Mary's Hospital Lacor,347.0,False
+2023-12-01,St. Mary's Hospital Lacor,721.0,True
+2024-01-01,St. Mary's Hospital Lacor,337.8,False
+2024-02-01,St. Mary's Hospital Lacor,337.8,False
+2023-03-01,St. Mary's Medical Centre,76.0,False
+2023-04-01,St. Mary's Medical Centre,76.0,False
+2023-05-01,St. Mary's Medical Centre,76.0,False
+2023-06-01,St. Mary's Medical Centre,76.0,False
+2023-07-01,St. Mary's Medical Centre,76.0,False
+2023-08-01,St. Mary's Medical Centre,76.0,False
+2023-09-01,St. Mary's Medical Centre,76.0,False
+2023-10-01,St. Mary's Medical Centre,76.0,False
+2023-11-01,St. Mary's Medical Centre,76.0,False
+2023-12-01,St. Mary's Medical Centre,76.0,False
+2024-01-01,St. Mary's Medical Centre,76.0,False
+2024-02-01,St. Mary's Medical Centre,76.0,False
+2023-03-01,St. Mauritz Health Centre III,45.0,True
+2023-04-01,St. Mauritz Health Centre III,62.0,False
+2023-05-01,St. Mauritz Health Centre III,116.0,False
+2023-06-01,St. Mauritz Health Centre III,121.0,False
+2023-07-01,St. Mauritz Health Centre III,77.0,False
+2023-08-01,St. Mauritz Health Centre III,90.0,False
+2023-09-01,St. Mauritz Health Centre III,83.0,False
+2023-10-01,St. Mauritz Health Centre III,126.0,False
+2023-11-01,St. Mauritz Health Centre III,71.0,False
+2023-12-01,St. Mauritz Health Centre III,155.0,True
+2024-01-01,St. Mauritz Health Centre III,61.0,False
+2024-02-01,St. Mauritz Health Centre III,91.54545454545455,False
+2023-03-01,St. Monica Health Centre II,14.0,True
+2023-04-01,St. Monica Health Centre II,45.0,False
+2023-05-01,St. Monica Health Centre II,115.0,True
+2023-06-01,St. Monica Health Centre II,85.0,False
+2023-07-01,St. Monica Health Centre II,86.0,False
+2023-08-01,St. Monica Health Centre II,82.0,False
+2023-09-01,St. Monica Health Centre II,68.0,False
+2023-10-01,St. Monica Health Centre II,52.0,False
+2023-11-01,St. Monica Health Centre II,73.0,False
+2023-12-01,St. Monica Health Centre II,99.0,False
+2024-01-01,St. Monica Health Centre II,101.0,False
+2024-02-01,St. Monica Health Centre II,74.54545454545455,False
+2023-03-01,St. Nektarios Orthodox Health Centre III,68.0,True
+2023-04-01,St. Nektarios Orthodox Health Centre III,30.0,False
+2023-05-01,St. Nektarios Orthodox Health Centre III,28.0,False
+2023-06-01,St. Nektarios Orthodox Health Centre III,32.0,False
+2023-07-01,St. Nektarios Orthodox Health Centre III,21.0,True
+2023-08-01,St. Nektarios Orthodox Health Centre III,36.0,False
+2023-09-01,St. Nektarios Orthodox Health Centre III,33.0,False
+2023-10-01,St. Nektarios Orthodox Health Centre III,43.0,False
+2023-11-01,St. Nektarios Orthodox Health Centre III,50.0,False
+2023-12-01,St. Nektarios Orthodox Health Centre III,37.27272727272727,False
+2024-01-01,St. Nektarios Orthodox Health Centre III,40.0,False
+2024-02-01,St. Nektarios Orthodox Health Centre III,29.0,False
+2023-03-01,St. Peter and Paul Health Centre III,25.0,True
+2023-04-01,St. Peter and Paul Health Centre III,35.0,False
+2023-05-01,St. Peter and Paul Health Centre III,85.0,False
+2023-06-01,St. Peter and Paul Health Centre III,133.0,False
+2023-07-01,St. Peter and Paul Health Centre III,61.0,False
+2023-08-01,St. Peter and Paul Health Centre III,137.0,True
+2023-09-01,St. Peter and Paul Health Centre III,60.0,False
+2023-10-01,St. Peter and Paul Health Centre III,63.0,False
+2023-11-01,St. Peter and Paul Health Centre III,48.0,False
+2023-12-01,St. Peter and Paul Health Centre III,60.0,False
+2024-01-01,St. Peter and Paul Health Centre III,39.0,False
+2024-02-01,St. Peter and Paul Health Centre III,67.81818181818181,False
+2023-03-01,St. Peters Awere Health Centre II,70.0,True
+2023-04-01,St. Peters Awere Health Centre II,88.0,False
+2023-05-01,St. Peters Awere Health Centre II,140.0,False
+2023-06-01,St. Peters Awere Health Centre II,246.0,False
+2023-07-01,St. Peters Awere Health Centre II,258.0,False
+2023-08-01,St. Peters Awere Health Centre II,338.0,True
+2023-09-01,St. Peters Awere Health Centre II,225.0,False
+2023-10-01,St. Peters Awere Health Centre II,115.0,False
+2023-11-01,St. Peters Awere Health Centre II,106.0,False
+2023-12-01,St. Peters Awere Health Centre II,94.0,False
+2024-01-01,St. Peters Awere Health Centre II,169.0,False
+2024-02-01,St. Peters Awere Health Centre II,168.0909090909091,False
+2023-03-01,St. Philip Health Centre II,340.0,True
+2023-04-01,St. Philip Health Centre II,510.0,False
+2023-05-01,St. Philip Health Centre II,1048.0,False
+2023-06-01,St. Philip Health Centre II,1303.0,False
+2023-07-01,St. Philip Health Centre II,1382.0,True
+2023-08-01,St. Philip Health Centre II,741.0,False
+2023-09-01,St. Philip Health Centre II,885.0,False
+2023-10-01,St. Philip Health Centre II,731.0,False
+2023-11-01,St. Philip Health Centre II,352.0,False
+2023-12-01,St. Philip Health Centre II,846.0,False
+2024-01-01,St. Philip Health Centre II,634.0,False
+2024-02-01,St. Philip Health Centre II,797.4545454545455,False
+2023-03-01,St. Phillip's Medical Clinic,120.0,False
+2023-04-01,St. Phillip's Medical Clinic,109.0,True
+2023-05-01,St. Phillip's Medical Clinic,165.0,False
+2023-06-01,St. Phillip's Medical Clinic,128.0,False
+2023-07-01,St. Phillip's Medical Clinic,138.0,False
+2023-08-01,St. Phillip's Medical Clinic,152.0,False
+2023-09-01,St. Phillip's Medical Clinic,190.0,True
+2023-10-01,St. Phillip's Medical Clinic,122.0,False
+2023-11-01,St. Phillip's Medical Clinic,141.0,False
+2023-12-01,St. Phillip's Medical Clinic,114.0,False
+2024-01-01,St. Phillip's Medical Clinic,167.0,False
+2024-02-01,St. Phillip's Medical Clinic,140.54545454545453,False
+2023-03-01,St. Stefano Campagnolo Memorial Health Centre II,29.0,True
+2023-04-01,St. Stefano Campagnolo Memorial Health Centre II,37.0,False
+2023-05-01,St. Stefano Campagnolo Memorial Health Centre II,66.0,False
+2023-06-01,St. Stefano Campagnolo Memorial Health Centre II,58.0,False
+2023-07-01,St. Stefano Campagnolo Memorial Health Centre II,72.0,False
+2023-08-01,St. Stefano Campagnolo Memorial Health Centre II,94.0,True
+2023-09-01,St. Stefano Campagnolo Memorial Health Centre II,46.0,False
+2023-10-01,St. Stefano Campagnolo Memorial Health Centre II,40.0,False
+2023-11-01,St. Stefano Campagnolo Memorial Health Centre II,49.0,False
+2023-12-01,St. Stefano Campagnolo Memorial Health Centre II,86.0,False
+2024-01-01,St. Stefano Campagnolo Memorial Health Centre II,44.0,False
+2024-02-01,St. Stefano Campagnolo Memorial Health Centre II,56.45454545454545,False
+2023-03-01,TASO Gulu,5.0,True
+2023-04-01,TASO Gulu,6.0,False
+2023-05-01,TASO Gulu,30.0,False
+2023-06-01,TASO Gulu,19.0,False
+2023-07-01,TASO Gulu,23.0,False
+2023-08-01,TASO Gulu,22.0,False
+2023-09-01,TASO Gulu,35.0,False
+2023-10-01,TASO Gulu,38.0,False
+2023-11-01,TASO Gulu,44.0,True
+2023-12-01,TASO Gulu,22.0,False
+2024-01-01,TASO Gulu,10.0,False
+2024-02-01,TASO Gulu,19.0,False
+2023-03-01,Te-Ato Health Centre II,208.0,False
+2023-04-01,Te-Ato Health Centre II,203.0,True
+2023-05-01,Te-Ato Health Centre II,431.0,False
+2023-06-01,Te-Ato Health Centre II,531.0,False
+2023-07-01,Te-Ato Health Centre II,623.0,True
+2023-08-01,Te-Ato Health Centre II,370.0,False
+2023-09-01,Te-Ato Health Centre II,481.0,False
+2023-10-01,Te-Ato Health Centre II,408.0,False
+2023-11-01,Te-Ato Health Centre II,448.0,False
+2023-12-01,Te-Ato Health Centre II,363.0,False
+2024-01-01,Te-Ato Health Centre II,335.0,False
+2024-02-01,Te-Ato Health Centre II,400.09090909090907,False
+2023-03-01,Tegot Health Centre II,257.0,False
+2023-04-01,Tegot Health Centre II,451.0,False
+2023-05-01,Tegot Health Centre II,386.0,False
+2023-06-01,Tegot Health Centre II,408.0,False
+2023-07-01,Tegot Health Centre II,327.0,False
+2023-08-01,Tegot Health Centre II,259.0,False
+2023-09-01,Tegot Health Centre II,134.0,True
+2023-10-01,Tegot Health Centre II,301.0,False
+2023-11-01,Tegot Health Centre II,455.0,True
+2023-12-01,Tegot Health Centre II,242.0,False
+2024-01-01,Tegot Health Centre II,248.0,False
+2024-02-01,Tegot Health Centre II,315.27272727272725,False
+2023-03-01,Tekulu Health Centre III,251.0,False
+2023-04-01,Tekulu Health Centre III,324.0,False
+2023-05-01,Tekulu Health Centre III,219.0,True
+2023-06-01,Tekulu Health Centre III,384.0,False
+2023-07-01,Tekulu Health Centre III,599.0,True
+2023-08-01,Tekulu Health Centre III,478.0,False
+2023-09-01,Tekulu Health Centre III,225.0,False
+2023-10-01,Tekulu Health Centre III,392.0,False
+2023-11-01,Tekulu Health Centre III,470.0,False
+2023-12-01,Tekulu Health Centre III,300.0,False
+2024-01-01,Tekulu Health Centre III,232.0,False
+2024-02-01,Tekulu Health Centre III,352.1818181818182,False
+2023-03-01,Tekworo Medical Care,54.0,True
+2023-04-01,Tekworo Medical Care,101.0,False
+2023-05-01,Tekworo Medical Care,235.0,False
+2023-06-01,Tekworo Medical Care,301.0,True
+2023-07-01,Tekworo Medical Care,144.0,False
+2023-08-01,Tekworo Medical Care,198.0,False
+2023-09-01,Tekworo Medical Care,158.0,False
+2023-10-01,Tekworo Medical Care,132.0,False
+2023-11-01,Tekworo Medical Care,158.0,False
+2023-12-01,Tekworo Medical Care,117.0,False
+2024-01-01,Tekworo Medical Care,125.0,False
+2024-02-01,Tekworo Medical Care,161.0,False
+2023-03-01,Todora Health Centre III,438.0,False
+2023-04-01,Todora Health Centre III,675.0,False
+2023-05-01,Todora Health Centre III,423.0,False
+2023-06-01,Todora Health Centre III,679.0,False
+2023-07-01,Todora Health Centre III,1005.0,True
+2023-08-01,Todora Health Centre III,554.0,False
+2023-09-01,Todora Health Centre III,113.0,True
+2023-10-01,Todora Health Centre III,573.0,False
+2023-11-01,Todora Health Centre III,877.0,False
+2023-12-01,Todora Health Centre III,717.0,False
+2024-01-01,Todora Health Centre III,223.0,False
+2024-02-01,Todora Health Centre III,570.6363636363636,False
+2023-03-01,Toroma Health Centre II,279.0,False
+2023-04-01,Toroma Health Centre II,125.0,False
+2023-05-01,Toroma Health Centre II,313.0,False
+2023-06-01,Toroma Health Centre II,556.0,False
+2023-07-01,Toroma Health Centre II,836.0,False
+2023-08-01,Toroma Health Centre II,895.0,False
+2023-09-01,Toroma Health Centre II,1012.0,True
+2023-10-01,Toroma Health Centre II,562.0,False
+2023-11-01,Toroma Health Centre II,461.0,False
+2023-12-01,Toroma Health Centre II,148.0,False
+2024-01-01,Toroma Health Centre II,65.0,True
+2024-02-01,Toroma Health Centre II,477.45454545454544,False
+2023-03-01,Tumangu Health Centre II,242.0,False
+2023-04-01,Tumangu Health Centre II,259.0,False
+2023-05-01,Tumangu Health Centre II,541.0,True
+2023-06-01,Tumangu Health Centre II,516.0,False
+2023-07-01,Tumangu Health Centre II,332.0,False
+2023-08-01,Tumangu Health Centre II,410.0,False
+2023-09-01,Tumangu Health Centre II,315.0,False
+2023-10-01,Tumangu Health Centre II,490.0,False
+2023-11-01,Tumangu Health Centre II,446.0,False
+2023-12-01,Tumangu Health Centre II,323.0,False
+2024-01-01,Tumangu Health Centre II,220.0,True
+2024-02-01,Tumangu Health Centre II,372.1818181818182,False
+2023-03-01,Ultimate Choice Clinic,352.0,True
+2023-04-01,Ultimate Choice Clinic,392.0,False
+2023-05-01,Ultimate Choice Clinic,732.0,False
+2023-06-01,Ultimate Choice Clinic,982.0,True
+2023-07-01,Ultimate Choice Clinic,831.0,False
+2023-08-01,Ultimate Choice Clinic,878.0,False
+2023-09-01,Ultimate Choice Clinic,891.0,False
+2023-10-01,Ultimate Choice Clinic,826.0,False
+2023-11-01,Ultimate Choice Clinic,868.0,False
+2023-12-01,Ultimate Choice Clinic,384.0,False
+2024-01-01,Ultimate Choice Clinic,579.0,False
+2024-02-01,Ultimate Choice Clinic,676.0,False
+2023-03-01,Unyama Health Centre II,76.0,True
+2023-04-01,Unyama Health Centre II,77.0,False
+2023-05-01,Unyama Health Centre II,258.0,False
+2023-06-01,Unyama Health Centre II,165.0,False
+2023-07-01,Unyama Health Centre II,192.0,False
+2023-08-01,Unyama Health Centre II,211.0,False
+2023-09-01,Unyama Health Centre II,225.0,False
+2023-10-01,Unyama Health Centre II,315.0,True
+2023-11-01,Unyama Health Centre II,301.0,False
+2023-12-01,Unyama Health Centre II,209.0,False
+2024-01-01,Unyama Health Centre II,158.0,False
+2024-02-01,Unyama Health Centre II,198.8181818181818,False
+2023-03-01,Victory Medical Centre Clinic (Laroo),215.0,False
+2023-04-01,Victory Medical Centre Clinic (Laroo),164.0,True
+2023-05-01,Victory Medical Centre Clinic (Laroo),292.0,False
+2023-06-01,Victory Medical Centre Clinic (Laroo),228.0,False
+2023-07-01,Victory Medical Centre Clinic (Laroo),165.0,False
+2023-08-01,Victory Medical Centre Clinic (Laroo),210.0,False
+2023-09-01,Victory Medical Centre Clinic (Laroo),231.0,False
+2023-10-01,Victory Medical Centre Clinic (Laroo),301.0,False
+2023-11-01,Victory Medical Centre Clinic (Laroo),325.0,False
+2023-12-01,Victory Medical Centre Clinic (Laroo),299.0,False
+2024-01-01,Victory Medical Centre Clinic (Laroo),378.0,True
+2024-02-01,Victory Medical Centre Clinic (Laroo),255.27272727272728,False
+2023-03-01,Wiianaka Health Centre II,149.0,True
+2023-04-01,Wiianaka Health Centre II,161.0,False
+2023-05-01,Wiianaka Health Centre II,265.0,False
+2023-06-01,Wiianaka Health Centre II,196.0,False
+2023-07-01,Wiianaka Health Centre II,385.0,False
+2023-08-01,Wiianaka Health Centre II,401.0,True
+2023-09-01,Wiianaka Health Centre II,214.0,False
+2023-10-01,Wiianaka Health Centre II,205.0,False
+2023-11-01,Wiianaka Health Centre II,167.0,False
+2023-12-01,Wiianaka Health Centre II,189.0,False
+2024-01-01,Wiianaka Health Centre II,200.0,False
+2024-02-01,Wiianaka Health Centre II,230.1818181818182,False
+2023-03-01,Wipolo Health Centre II,227.0,False
+2023-04-01,Wipolo Health Centre II,229.0,False
+2023-05-01,Wipolo Health Centre II,182.0,False
+2023-06-01,Wipolo Health Centre II,302.0,False
+2023-07-01,Wipolo Health Centre II,471.0,True
+2023-08-01,Wipolo Health Centre II,328.0,False
+2023-09-01,Wipolo Health Centre II,370.0,False
+2023-10-01,Wipolo Health Centre II,202.0,False
+2023-11-01,Wipolo Health Centre II,210.0,False
+2023-12-01,Wipolo Health Centre II,236.0,False
+2024-01-01,Wipolo Health Centre II,136.0,True
+2024-02-01,Wipolo Health Centre II,263.0,False
+2023-03-01,Wol Health Centre III,444.0,False
+2023-04-01,Wol Health Centre III,252.0,True
+2023-05-01,Wol Health Centre III,898.0,False
+2023-06-01,Wol Health Centre III,730.0,False
+2023-07-01,Wol Health Centre III,1196.0,False
+2023-08-01,Wol Health Centre III,1219.0,False
+2023-09-01,Wol Health Centre III,1094.0,False
+2023-10-01,Wol Health Centre III,1336.0,False
+2023-11-01,Wol Health Centre III,1166.0,False
+2023-12-01,Wol Health Centre III,1388.0,True
+2024-01-01,Wol Health Centre III,488.0,False
+2024-02-01,Wol Health Centre III,928.2727272727273,False
+2023-03-01,Yot Kom Health Centre III,43.0,True
+2023-04-01,Yot Kom Health Centre III,59.0,False
+2023-05-01,Yot Kom Health Centre III,130.0,False
+2023-06-01,Yot Kom Health Centre III,132.0,False
+2023-07-01,Yot Kom Health Centre III,110.0,False
+2023-08-01,Yot Kom Health Centre III,115.0,False
+2023-09-01,Yot Kom Health Centre III,107.0,False
+2023-10-01,Yot Kom Health Centre III,201.0,False
+2023-11-01,Yot Kom Health Centre III,106.0,False
+2023-12-01,Yot Kom Health Centre III,295.0,True
+2024-01-01,Yot Kom Health Centre III,199.0,False
+2024-02-01,Yot Kom Health Centre III,136.0909090909091,False
