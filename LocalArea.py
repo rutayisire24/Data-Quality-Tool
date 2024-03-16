@@ -75,7 +75,40 @@ def validate_series(data_test):
     return data_test
 
 # Streamlit app layout
-st.title('HMIS - Data Quality App')
+#st.title('HMIS - Data Quality App')
+# Color palette example
+primaryColor = "#336699"  # Blue
+secondaryColor = "#E0E8EF"  # Light gray
+accentColor = "#99C2FF"  # Light blue
+
+st.markdown("""
+<style>
+    body {  /* Style the entire app background */
+        background-color: ${secondaryColor};
+    }
+    .app-title {  /*  Class to style the main title */
+        font-size: 48px;
+        font-weight: bold;
+        color: ${primaryColor};    
+        text-align: center;
+    }
+    .section-header {  /*  Style section headers */
+        font-size: 28px;
+        font-weight: bold;
+        color: ${primaryColor};
+        padding-bottom: 10px;
+    }
+    .metric-value {
+        font-size: 24px;
+        font-weight: bold;
+    }
+    /* Style buttons here using similar principles */
+</style>
+""", unsafe_allow_html=True)
+
+st.markdown("<h1 class='app-title'>HMIS - Data Quality App</h1>", unsafe_allow_html=True) 
+
+
 
 with st.expander("How to Use This App"):
     st.write("""
@@ -143,10 +176,7 @@ if uploaded_file is not None:
   outlier_counts = pd.merge(outlier_counts,mfl , left_on= "Facility", right_on='facility' , how= 'outer')
   outlier_counts = (outlier_counts.drop('facility' , axis = 1)).dropna() 
   st.subheader("Possible Outlier Counts by Facility")
-  st.write(outlier_counts)
-
-  # Display the metrics
-  # Column layout setup
+    # Column layout setup
   cols = st.columns(3)  # Create three columns
 
   # Metrics in columns
@@ -158,6 +188,10 @@ if uploaded_file is not None:
 
   with cols[2]:
       st.metric(label="%  Potential Outliers", value=f"{percentage_with_outliers:.2f}%")
+
+  st.write(outlier_counts)
+
+  # Display the metrics
 
   # Download CSV section
   st.subheader("Download Results")
