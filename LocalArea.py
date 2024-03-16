@@ -91,6 +91,17 @@ with st.expander("How to Use This App"):
     5. **Download Outliers:**  Click the "Download as CSV" link to save identified outliers.
     """)
 
+def get_file_download_link(file_path):
+    """Creates a Streamlit download link for a given file."""
+    with open(file_path, 'rb') as f:
+        data = f.read()
+    b64 = base64.b64encode(data).decode()  # Base64 encoding
+    return f'<a href="data:file/csv;base64,{b64}" download="{file_path}">Download {file_path}</a>'
+
+# Section for the download link
+file_path = "test_data.csv"  
+st.markdown(get_file_download_link(file_path), unsafe_allow_html=True)
+# Selector for which column to analyze
 st.subheader("Upload Data to be Accessed")
 uploaded_file = st.file_uploader("Choose a CSV file", type="csv")
 
