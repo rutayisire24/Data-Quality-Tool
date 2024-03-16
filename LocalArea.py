@@ -164,8 +164,11 @@ if uploaded_file is not None:
   filtered_data = data[data['organisationunitname'] == selected_facility]
   
   missing_counts = filtered_data.groupby('organisationunitname')['missing'].sum().reset_index()
-  missing_counts.columns = ['Facility', 'Counts of Missing Values']
+  missing_counts = pd.merge(missing_counts, mfl , left_on= 'organisationunitname', right_on='facility', how= 'outer')
+  missing_counts = (missing_counts.drop('facility', axis = 1)).dropna()
+  missing_counts.columns = ['Facility', 'Counts of Missing Values', 'District']
   
+
   st.write( f'Missing Values for {selected_facility} in {selected_col}')
   st.write(missing_counts)
   
