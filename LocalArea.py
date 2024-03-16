@@ -175,7 +175,6 @@ if uploaded_file is not None:
 if uploaded_file is not None:
   columns = data.columns
   last_col_index = len(columns) - 1
-  selected_col = st.selectbox("Select a Data element" , options=columns, index=last_col_index) 
 
   ## run the function on the selected columns 
   ## Missing values 
@@ -204,6 +203,7 @@ if uploaded_file is not None:
   # Display chart in Streamlit 
   st.plotly_chart(fig) 
   
+  selected_col = st.selectbox("Select a Data element" , options=columns, index=last_col_index) 
 
   ## Outliers
   outliers_df, outlier_counts = detect_outliers(data.copy() , selected_col)  # Make a copy to avoid modifying the original data
@@ -219,6 +219,7 @@ if uploaded_file is not None:
   # Compute the percentage of facilities with at least one outlier
   percentage_with_outliers = (facilities_with_outliers / total_facilities) * 100
   
+
 # show possible outliers 
 
   outlier_counts = pd.merge(outlier_counts,mfl , left_on= "Facility", right_on='facility' , how= 'outer')
