@@ -121,7 +121,8 @@ if uploaded_file is not None:
 ## Select the column to Display 
 if uploaded_file is not None:
   columns = data.columns
-  selected_col = st.selectbox("Select a Data element" , columns) 
+  last_col_index = len(columns) - 1
+  selected_col = st.selectbox("Select a Data element" , options=columns, index=last_col_index) 
 
   ## run the function on the selected columns 
 
