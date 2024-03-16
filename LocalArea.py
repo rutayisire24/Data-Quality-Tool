@@ -99,7 +99,7 @@ def get_file_download_link(file_path):
     return f'<a href="data:file/csv;base64,{b64}" download="{file_path}">Download {file_path}</a>'
 
 # Section for the download link
-file_path = "test_data.csv"  
+file_path = "Test_data.csv"  
 st.markdown(get_file_download_link(file_path), unsafe_allow_html=True)
 # Selector for which column to analyze
 st.subheader("Upload Data to be Accessed")
