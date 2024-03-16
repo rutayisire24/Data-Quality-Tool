@@ -7,6 +7,7 @@ import base64
 
 mfl = pd.read_excel('mfl.xlsx')
 
+
 def calculate_standard_deviation(df, column_name):
     """Calculates the standard deviation for a given column in the DataFrame.
 
@@ -161,15 +162,15 @@ if uploaded_file is not None:
   st.subheader("Missing Value Analysis")
 
   # Create Plotly bar chart using go.Figure
-  fig = go.Figure()
-  fig.add_trace(go.Bar(x=missing_percentages.index, y=missing_percentages.values,
+  fig_r = go.Figure()
+  fig_r.add_trace(go.Bar(x=missing_percentages.index, y=missing_percentages.values,
                         name='Missing Value Percentage',
                         marker_color='rgb(55, 83, 109)'  # Example color
                         )
                 )
 
   # Customize layout
-  fig.update_layout(
+  fig_r.update_layout(
       title='Missing Values by Data Element',
       xaxis_title='Data Element',
       yaxis_title='Missing Value Percentage (%)',
@@ -177,7 +178,7 @@ if uploaded_file is not None:
   )
 
   # Display chart in Streamlit 
-  st.plotly_chart(fig) 
+  st.plotly_chart(fig_r) 
   
   selected_col = st.selectbox("Select a Data element" , options=columns, index=last_col_index) 
 
@@ -278,4 +279,4 @@ if uploaded_file is not None:
   st.plotly_chart(fig) 
 
    # Short explanation about quantiles
-  st.write("**Quantiles:** The yellow and cyan lines represent the 10th and 99th quantiles respectively, helping you see how the data is distributed around the central values.")
+  st.write("**Quantiles:** The yellow and cyan lines represent the 10th and 99th quantiles respectively, helping you see how the data is distributed around the central values.") 
