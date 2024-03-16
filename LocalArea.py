@@ -22,7 +22,7 @@ def calculate_standard_deviation(df, column_name):
 
 
 ## Function 
-#@st.cache_data
+@st.cache_data
 def detect_outliers(data, column_name):
     data = data[[column_name, 'organisationunitname']].copy()
 
