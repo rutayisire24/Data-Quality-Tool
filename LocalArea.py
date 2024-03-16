@@ -6,6 +6,21 @@ import io
 import base64
 
 mfl = pd.read_excel('mfl.xlsx')
+
+def calculate_standard_deviation(df, column_name):
+    """Calculates the standard deviation for a given column in the DataFrame.
+
+    Args:
+        df (pd.DataFrame): The DataFrame containing the data.
+        column_name (str): The name of the column for which to calculate the standard deviation.
+
+    Returns:
+        float: The standard deviation of the data in the specified column.
+    """
+
+    return df[column_name].std()
+
+
 ## Function 
 
 @st.cache_data
@@ -124,6 +139,11 @@ with st.expander("How to Use This App"):
     4. **Filter by Facility:** Use the facility dropdown to focus on results for a specific facility.
     5. **Download Outliers:**  Click the "Download as CSV" link to save identified outliers.
     """)
+def calculate_missing_percentages(data):
+    missing_counts = data.isnull().sum()
+    total_counts = data.shape[0]
+    missing_percentages = (missing_counts / total_counts) * 100
+    return missing_percentages
 
 def get_file_download_link(file_path):
     """Creates a Streamlit download link for a given file."""
@@ -158,7 +178,34 @@ if uploaded_file is not None:
   selected_col = st.selectbox("Select a Data element" , options=columns, index=last_col_index) 
 
   ## run the function on the selected columns 
+  ## Missing values 
+  # Calculate missing value percentages
+  missing_percentages = calculate_missing_percentages(data)  
 
+# Display results in Streamlit
+  st.subheader("Missing Value Analysis")
+
+  # Create Plotly bar chart using go.Figure
+  fig = go.Figure()
+  fig.add_trace(go.Bar(x=missing_percentages.index, y=missing_percentages.values,
+                        name='Missing Value Percentage',
+                        marker_color='rgb(55, 83, 109)'  # Example color
+                        )
+                )
+
+  # Customize layout
+  fig.update_layout(
+      title='Missing Values by Data Element',
+      xaxis_title='Data Element',
+      yaxis_title='Missing Value Percentage (%)',
+      showlegend=False  # Hide legend if necessary
+  )
+
+  # Display chart in Streamlit 
+  st.plotly_chart(fig) 
+  
+
+  ## Outliers
   outliers_df, outlier_counts = detect_outliers(data.copy() , selected_col)  # Make a copy to avoid modifying the original data
   data = outliers_df.copy()
   data.index = pd.to_datetime(data.index)
@@ -173,11 +220,13 @@ if uploaded_file is not None:
   percentage_with_outliers = (facilities_with_outliers / total_facilities) * 100
   
 # show possible outliers 
+
   outlier_counts = pd.merge(outlier_counts,mfl , left_on= "Facility", right_on='facility' , how= 'outer')
   outlier_counts = (outlier_counts.drop('facility' , axis = 1)).dropna() 
   st.subheader("Possible Outlier Counts by Facility")
     # Column layout setup
   cols = st.columns(3)  # Create three columns
+
 
   # Metrics in columns
   with cols[0]:
@@ -209,15 +258,6 @@ if uploaded_file is not None:
 
   # Filter data based on selection
   filtered_data = data[data['organisationunitname'] == selected_facility]
-  
-  missing_counts = filtered_data.groupby('organisationunitname')['missing'].sum().reset_index()
-  missing_counts = pd.merge(missing_counts, mfl , left_on= 'organisationunitname', right_on='facility', how= 'outer')
-  missing_counts = (missing_counts.drop('facility', axis = 1)).dropna()
-  missing_counts.columns = ['Facility', 'Counts of Missing Values', 'District']
-  
-
-  st.write( f'Missing Values for {selected_facility} in {selected_col}')
-  st.write(missing_counts)
   
   # Count the number of possible outliers for the selected facility
   num_outliers = filtered_data['outlier'].sum()
