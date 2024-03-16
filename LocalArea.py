@@ -22,29 +22,23 @@ def calculate_standard_deviation(df, column_name):
 
 
 ## Function 
-
-@st.cache_data
+#@st.cache_data
 def detect_outliers(data, column_name):
-
-
     data = data[[column_name, 'organisationunitname']].copy()
 
     # Placeholder for the results
     outlier_results = []
 
     for unit in data['organisationunitname'].unique():
-        print('processing unit:', unit)
 
         sample_fac_data = data[data['organisationunitname'] == unit]
         period_names = sample_fac_data.index
 
         try:
-            # Data validation and imputation
             data_test = sample_fac_data.drop('organisationunitname', axis=1)
             data_test = validate_series(data_test)
             quantile_ad = QuantileAD(high=0.999999999, low=0.0000001)
-            anomaly_scores = quantile_ad.fit_detect(data_test) 
-            # Create results DataFrame
+            anomaly_scores = quantile_ad.fit_detect(data_test)
             anomalies = pd.DataFrame(index=period_names)
             anomalies['organisationunitname'] = unit
             anomalies[column_name] = data_test[column_name]  
@@ -56,37 +50,19 @@ def detect_outliers(data, column_name):
             print(f"Error during processing for unit {unit}: {e}. Skipping this unit.")
             continue
 
-    # Concatenate results
     all_outliers = pd.concat(outlier_results, ignore_index=False)
-        # New code to aggregate outlier counts per facility
-    outlier_counts = all_outliers.groupby('organisationunitname')['outlier'].sum().reset_index()
-    outlier_counts.columns = ['Facility', 'Outlier Count']
-    outlier_counts.sort_values('Outlier Count', ascending=False, inplace=True)
-    
-    return all_outliers , outlier_counts
+
+    # Aggregate outlier counts and standard deviation per facility
+    outlier_summary = all_outliers.groupby('organisationunitname')['outlier'].agg(['sum', 'std']).reset_index()
+    outlier_summary.columns = ['Facility', 'Outlier Count', 'Standard Deviation']
+    outlier_summary.sort_values('Outlier Count', ascending=False, inplace=True)
+
+    return all_outliers, outlier_summary
+
 
 def validate_series(data_test):
-    """Validates the data and handles missing values.
-    """
-    # Other validation checks (ensure data type, etc.)
-    #data_test = data_test.fillna(data_test.mean())  # Impute missing values with the mean
-    #return data_test
-
-    # Concatenate results
-    all_outliers = pd.concat(outlier_results, ignore_index=False)
-    all_outliers = pd.merge(all_outliers,mfl , left_on= "organisationunitname", right_on='facility' , how= 'outer')
-        # New code to aggregate outlier counts per facility
-    outlier_counts = all_outliers.groupby('organisationunitname')['outlier'].sum().reset_index()
-    outlier_counts.columns = ['Facility','Outlier Count']
-    outlier_counts.sort_values('Outlier Count', ascending=False, inplace=True)
-    
-    return all_outliers , outlier_counts
-
-def validate_series(data_test):
-    """Validates the data and handles missing values.
-    """
-    # Other validation checks (ensure data type, etc.)
-    data_test = data_test.fillna(data_test.median())  # Impute missing values with the mean
+    """Validates the data and handles missing values."""
+    data_test = data_test.fillna(data_test.median())  
     return data_test
 
 # Streamlit app layout
@@ -206,7 +182,7 @@ if uploaded_file is not None:
   selected_col = st.selectbox("Select a Data element" , options=columns, index=last_col_index) 
 
   ## Outliers
-  outliers_df, outlier_counts = detect_outliers(data.copy() , selected_col)  # Make a copy to avoid modifying the original data
+  outliers_df, outlier_summary = detect_outliers(data.copy() , selected_col)  # Make a copy to avoid modifying the original data
   data = outliers_df.copy()
   data.index = pd.to_datetime(data.index)
 
@@ -214,7 +190,7 @@ if uploaded_file is not None:
   total_facilities = len(data['organisationunitname'].unique())
 
   # Calculate the number of facilities with at least one outlier
-  facilities_with_outliers = outlier_counts[outlier_counts['Outlier Count'] > 0].shape[0]
+  facilities_with_outliers = outlier_summary[outlier_summary['Outlier Count'] > 0].shape[0]
 
   # Compute the percentage of facilities with at least one outlier
   percentage_with_outliers = (facilities_with_outliers / total_facilities) * 100
@@ -222,7 +198,7 @@ if uploaded_file is not None:
 
 # show possible outliers 
 
-  outlier_counts = pd.merge(outlier_counts,mfl , left_on= "Facility", right_on='facility' , how= 'outer')
+  outlier_counts = pd.merge(outlier_summary,mfl , left_on= "Facility", right_on='facility' , how= 'outer')
   outlier_counts = (outlier_counts.drop('facility' , axis = 1)).dropna() 
   st.subheader("Possible Outlier Counts by Facility")
     # Column layout setup
@@ -239,7 +215,11 @@ if uploaded_file is not None:
   with cols[2]:
       st.metric(label="%  Potential Outliers", value=f"{percentage_with_outliers:.2f}%")
 
-  st.write(outlier_counts)
+  #st.write(outlier_counts)
+  # Display summary table
+  st.subheader("Possible Outliers and Standard Deviation Analysis")
+  st.write(outlier_summary)
+  st.info("Very low Standards deviation might mean that the data is unusually similar to each other ")
 
   # Display the metrics
 
@@ -254,7 +234,7 @@ if uploaded_file is not None:
       st.warning("No outliers found to download.")
   st.subheader("Explore the Data")
     # Dropdown to select facility
-  facilities_with_outliers = data[data['outlier'] == True]['organisationunitname'].unique()
+  facilities_with_outliers = data['organisationunitname'].unique()
   selected_facility = st.selectbox('Select a Facility', facilities_with_outliers)
 
   # Filter data based on selection
