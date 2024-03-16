@@ -8,7 +8,7 @@ import base64
 mfl = pd.read_excel('mfl.xlsx')
 ## Function 
 
-#@st.cache_data
+@st.cache_data
 def detect_outliers(data, column_name):
 
 
