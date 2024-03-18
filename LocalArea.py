@@ -80,6 +80,9 @@ primaryColor = "#336699"  # Blue
 secondaryColor = "#E0E8EF"  # Light gray
 accentColor = "#99C2FF"  # Light blue
 
+map_logo_path = 'logo.png'
+st.image(map_logo_path, width=100)
+
 st.markdown("""
 <style>
     body {  /* Style the entire app background */
@@ -136,6 +139,9 @@ def get_file_download_link(file_path):
     b64 = base64.b64encode(data).decode()  # Base64 encoding
     return f'<a href="data:file/csv;base64,{b64}" download="{file_path}">Download {file_path}</a>'
 
+def drop_all_false_rows(df):  
+    return df[df.any(axis=1)]
+
 # Section for the download link
 file_path = "Test_data.csv"  
 st.markdown(get_file_download_link(file_path), unsafe_allow_html=True)
@@ -153,7 +159,7 @@ if uploaded_file is not None:
             # Apply column deletion
             data = delete_columns(data, columns_to_delete)
 
-            st.success("CSV file uploaded successfully!")
+            st.success("Data uploaded successfully!")
             st.write('Preview of the Uploaded Data')
             st.write(data.head())
 
@@ -241,7 +247,7 @@ if uploaded_file is not None:
   # Download CSV section
   st.subheader("Download Results")
   if outliers_df.shape[0] > 0:  # Check if there are outliers to download
-      csv = outliers_df.to_csv(index=False)
+      csv = outliers_df.to_csv(index=True)
       b64 = base64.b64encode(csv.encode()).decode()  
       href = f'<a href="data:file/csv;base64,{b64}" download="outliers.csv">Download as CSV</a>'
       st.markdown(href, unsafe_allow_html=True)
