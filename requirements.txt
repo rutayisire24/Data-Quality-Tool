@@ -3,4 +3,3 @@ streamlit
 plotly
 adtk
 openpyxl
-fpdf

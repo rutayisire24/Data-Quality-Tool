@@ -300,3 +300,8 @@ if uploaded_file is not None:
 
    # Short explanation about quantiles
   st.write("**Quantiles:** The yellow and cyan lines represent the 10th and 99th quantiles respectively, helping you see how the data is distributed around the central values.") 
+
+  st.header("Contact the Biostatician")
+  biostat = pd.read_excel('Biostats contacts.xlsx')
+  biostat = biostat.iloc[:, :5]
+  st.write(biostat)
