@@ -66,6 +66,13 @@ def validate_series(data_test):
     data_test = data_test.fillna(data_test.median())  
     return data_test
 
+def delete_columns(data, columns_to_delete):
+    """Deletes specified columns from a DataFrame if they exist."""
+    for col in columns_to_delete:
+        if col in data:
+            del data[col]
+    return data
+
 # Streamlit app layout
 #st.title('HMIS - Data Quality App')
 # Color palette example
@@ -140,13 +147,20 @@ if uploaded_file is not None:
     with st.spinner("Processing data..."):
         try:
             data = pd.read_csv(uploaded_file, index_col='periodname', parse_dates=True)
+
+            columns_to_delete = ['periodid','periodcode','perioddescription','organisationunitid','organisationunitcode','organisationunitdescription','test']
+            
+            # Apply column deletion
+            data = delete_columns(data, columns_to_delete)
+
             st.success("CSV file uploaded successfully!")
             st.write('Preview of the Uploaded Data')
             st.write(data.head())
+
             # ... (The rest of your app code, using the 'data' variable)
 
         except Exception as e:
-            st.error(f"Error uploading CSV file: {e}")
+            st.error(f"Error uploading CSV file: {e}") 
 
 ## Select the column to Display 
 if uploaded_file is not None:
