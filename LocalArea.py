@@ -6,6 +6,8 @@ import io
 import base64
 from io import BytesIO
 import xlsxwriter
+from datetime import datetime, timedelta
+
 
 mfl = pd.read_excel('mfl.xlsx')
  
@@ -62,6 +64,23 @@ def delete_columns(data, columns_to_delete):
         if col in data:
             del data[col]
     return data
+
+def convert_week_period_to_date(periodname):
+    """
+    Converts a period name in the format 'Wn YYYY' (e.g., 'W1 2023') to 
+    the start date of that week.
+
+    Args:
+        periodname (str): The period name to convert.
+
+    Returns:
+        datetime.date: The start date of the week.
+    """
+    week_num, year = periodname.split(' ')
+    year = int(year)
+    first_day_of_year = datetime(year, 1, 1)
+    start_of_week = first_day_of_year - timedelta(days=first_day_of_year.isoweekday() - 1)  
+    return start_of_week + timedelta(days=7 * (int(week_num[1:]) - 1))
 
 # Streamlit app layout
 #st.title('HMIS - Data Quality App')
@@ -138,7 +157,7 @@ file_path = "Test_data.csv"
 st.markdown(get_file_download_link(file_path), unsafe_allow_html=True)
 # Selector for which column to analyze
 st.subheader("Upload Data to be Accessed")
-uploaded_file = st.file_uploader("Choose a CSV file", type="csv")
+uploaded_file = st.file_uploader("Choose a CSV file ( weekly , Monthly or Quarterly)", type="csv")
 
 if uploaded_file is not None:
     with st.spinner("Processing data..."):
@@ -147,6 +166,10 @@ if uploaded_file is not None:
 
             columns_to_delete = ['periodid','periodcode','perioddescription','organisationunitid','organisationunitcode','organisationunitdescription','test']
             
+            if data.index.str.contains('W').any():
+                 data.index = data.index.map(convert_week_period_to_date)
+                 data.index = pd.to_datetime(data.index)
+
             # Apply column deletion
             data = delete_columns(data, columns_to_delete)
 
