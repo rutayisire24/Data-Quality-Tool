@@ -32,11 +32,11 @@ def detect_outliers(data, column_name):
 
     for unit in data['organisationunitname'].unique():
 
-        sample_fac_data = data[data['organisationunitname'] == unit]
-        period_names = sample_fac_data.index
+        data = data[data['organisationunitname'] == unit]
+        period_names = data.index
 
         try:
-            data_test = sample_fac_data.drop('organisationunitname', axis=1)
+            data_test = data.drop('organisationunitname', axis=1)
             data_test = validate_series(data_test)
             quantile_ad = QuantileAD(high=0.999999999, low=0.0000001)
             anomaly_scores = quantile_ad.fit_detect(data_test)
@@ -161,7 +161,7 @@ if uploaded_file is not None:
 
             st.success("Data uploaded successfully!")
             st.write('Preview of the Uploaded Data')
-            st.write(data.head())
+            st.dataframe(data.head(),use_container_width=True)
 
             # ... (The rest of your app code, using the 'data' variable)
 
@@ -239,7 +239,7 @@ if uploaded_file is not None:
   #st.write(outlier_counts)
   # Display summary table
   st.subheader("Possible Outliers and Standard Deviation Analysis")
-  st.write(outlier_summary)
+  st.dataframe(outlier_summary, use_container_width= True)
   st.info("Very low Standards deviation might mean that the data is unusually similar to each other ")
 
   # Display the metrics
@@ -300,8 +300,8 @@ if uploaded_file is not None:
 
    # Short explanation about quantiles
   st.write("**Quantiles:** The yellow and cyan lines represent the 10th and 99th quantiles respectively, helping you see how the data is distributed around the central values.") 
-
-  st.header("Contact the Biostatician")
-  biostat = pd.read_excel('Biostats contacts.xlsx')
-  biostat = biostat.iloc[:, :5]
-  st.write(biostat)
+  
+  with st.expander("Contact the Biostatician"):
+    biostat = pd.read_excel('Biostats contacts.xlsx')
+    biostat = biostat.iloc[:, :5]
+    st.dataframe(biostat, use_container_width=True)
