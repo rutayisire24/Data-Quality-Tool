@@ -116,11 +116,12 @@ with st.expander("How to Use This App"):
     4. **Filter by Facility:** Use the facility dropdown to focus on results for a specific facility.
     5. **Download Outliers:**  Click the "Download as CSV" link to save identified outliers.
     """)
-def calculate_missing_percentages(data):
-    missing_counts = data.isnull().sum()
-    total_counts = data.shape[0]
-    missing_percentages = (missing_counts / total_counts) * 100
-    return missing_percentages
+def filter_missing_values(data):
+
+  # Filter rows with missing values
+  filtered_df = data[data.isna().any(axis=1)]
+
+  return filtered_df
 
 def get_file_download_link(file_path):
     """Creates a Streamlit download link for a given file."""
@@ -166,30 +167,46 @@ if uploaded_file is not None:
   ## run the function on the selected columns 
   ## Missing values 
   # Calculate missing value percentages
-  missing_percentages = calculate_missing_percentages(data)  
 
 # Display results in Streamlit
   st.subheader("Missing Value Analysis")
 
-  # Create Plotly bar chart using go.Figure
-  fig_r = go.Figure()
-  fig_r.add_trace(go.Bar(x=missing_percentages.index, y=missing_percentages.values,
-                        name='Missing Value Percentage',
-                        marker_color='rgb(55, 83, 109)'  # Example color
-                        )
-                )
+  def filter_missing_values(data):
 
-  # Customize layout
-  fig_r.update_layout(
-      title='Missing Values by Data Element',
-      xaxis_title='Data Element',
-      yaxis_title='Missing Value Percentage (%)',
-      showlegend=False  # Hide legend if necessary
-  )
+  # Filter rows with missing values
+    filtered_df = data[data.isna().any(axis=1)]
 
-  # Display chart in Streamlit 
-  st.plotly_chart(fig_r) 
+    return filtered_df
   
+  filtered_df_missing = filter_missing_values(data)
+  
+  st.dataframe(filtered_df_missing, use_container_width= True)
+
+  # Calculations for display
+  total_records = data.count().sum()  # Count across all columns
+  missing_records = filtered_df_missing.count().sum()
+  missing_percentage = (missing_records / total_records) * 100
+  
+  st.write("The records with missing values are ", missing_records, " of the ", total_records, 
+         "representing a percentage of ", f"{missing_percentage:.2f}%")
+  # Download link
+
+  if filtered_df_missing.shape[0] > 0: 
+    def to_excel(df):
+        output = BytesIO()
+        with pd.ExcelWriter(output, engine='xlsxwriter') as writer:
+            df.to_excel(writer, index=True, sheet_name='Sheet1')
+        processed_data = output.getvalue()
+        return processed_data
+
+    df_xlsx = to_excel(filtered_df_missing)
+    b64 = base64.b64encode(df_xlsx).decode()
+    href = f'<a href="data:application/octet-stream;base64,{b64}" download="filtered_data.xlsx">Download Missing values as Excel</a>'
+    st.markdown(href, unsafe_allow_html=True)
+  
+
+
+
   selected_col = st.selectbox("Select a Data element" , options=columns, index=last_col_index) 
 
   with st.expander("Change the Upper Threshold for Outlier Detection"):
