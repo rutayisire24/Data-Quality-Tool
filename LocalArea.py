@@ -2,24 +2,13 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
 from adtk.detector import QuantileAD
-import io
+import io 
 import base64
+from io import BytesIO
+import xlsxwriter
+
 
 mfl = pd.read_excel('mfl.xlsx')
-
-
-def calculate_standard_deviation(df, column_name):
-    """Calculates the standard deviation for a given column in the DataFrame.
-
-    Args:
-        df (pd.DataFrame): The DataFrame containing the data.
-        column_name (str): The name of the column for which to calculate the standard deviation.
-
-    Returns:
-        float: The standard deviation of the data in the specified column.
-    """
-
-    return df[column_name].std()
 
 
 ## Function 
@@ -54,8 +43,8 @@ def detect_outliers(data, column_name):
     all_outliers = pd.concat(outlier_results, ignore_index=False)
 
     # Aggregate outlier counts and standard deviation per facility
-    outlier_summary = all_outliers.groupby('organisationunitname')['outlier'].agg(['sum', 'std']).reset_index()
-    outlier_summary.columns = ['Facility', 'Outlier Count', 'Standard Deviation']
+    outlier_summary = all_outliers.groupby('organisationunitname')['outlier'].agg(['sum']).reset_index()
+    outlier_summary.columns = ['Facility', 'Outlier Count']
     outlier_summary.sort_values('Outlier Count', ascending=False, inplace=True)
 
     return all_outliers, outlier_summary
@@ -161,7 +150,7 @@ if uploaded_file is not None:
 
             st.success("Data uploaded successfully!")
             st.write('Preview of the Uploaded Data')
-            st.dataframe(data.head(),use)
+            st.dataframe(data.head(),use_container_width=True)
 
             # ... (The rest of your app code, using the 'data' variable)
 
@@ -238,21 +227,38 @@ if uploaded_file is not None:
 
   #st.write(outlier_counts)
   # Display summary table
-  st.subheader("Possible Outliers and Standard Deviation Analysis")
+  st.subheader("Possible Outliers  Analysis")
   st.dataframe(outlier_summary, use_container_width= True)
-  st.info("Very low Standards deviation might mean that the data is unusually similar to each other ")
 
   # Display the metrics
 
   # Download CSV section
   st.subheader("Download Results")
+
+  download_format = st.radio("Choose download format:", ['CSV', 'Excel'], index=0)
+
   if outliers_df.shape[0] > 0:  # Check if there are outliers to download
-      csv = outliers_df.to_csv(index=True)
-      b64 = base64.b64encode(csv.encode()).decode()  
-      href = f'<a href="data:file/csv;base64,{b64}" download="outliers.csv">Download as CSV</a>'
-      st.markdown(href, unsafe_allow_html=True)
+    if download_format == 'CSV':
+        csv = outliers_df.to_csv(index=True)
+        b64 = base64.b64encode(csv.encode()).decode()
+        href = f'<a href="data:file/csv;base64,{b64}" download="outliers.csv">Download as CSV</a>'
+
+    elif download_format == 'Excel':
+        def to_excel(df):
+            output = BytesIO()
+            with pd.ExcelWriter(output, engine='xlsxwriter') as writer:
+                df.to_excel(writer, index=True, sheet_name='Sheet1')
+            processed_data = output.getvalue()
+            return processed_data
+
+        df_xlsx = to_excel(outliers_df)
+        b64 = base64.b64encode(df_xlsx).decode()
+        href = f'<a href="data:application/octet-stream;base64,{b64}" download="outliers.xlsx">Download as Excel</a>'
+    st.markdown(href, unsafe_allow_html=True)
   else:
       st.warning("No outliers found to download.")
+
+      
   st.subheader("Explore the Data")
     # Dropdown to select facility
   facilities_with_outliers = data['organisationunitname'].unique()
@@ -301,7 +307,7 @@ if uploaded_file is not None:
    # Short explanation about quantiles
   st.write("**Quantiles:** The yellow and cyan lines represent the 10th and 99th quantiles respectively, helping you see how the data is distributed around the central values.") 
 
-  st.header("Contact the Biostatician")
-  biostat = pd.read_excel('Biostats contacts.xlsx')
-  biostat = biostat.iloc[:, :5]
-  st.dataframe(biostat, use_container_width=True)
+  with st.expander("Contact the Biostatician"):
+        biostat = pd.read_excel('Biostats contacts.xlsx')
+        biostat = biostat.iloc[:, :5]
+        st.dataframe(biostat, use_container_width=True)
