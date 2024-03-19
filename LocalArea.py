@@ -214,7 +214,7 @@ if uploaded_file is not None:
 
   with st.expander("Change the Upper Threshold for Outlier Detection"):
       upper = st.slider('Select Upper Cut off ( Default 90th Quantile)',
-                min_value = 0.75, max_value = 0.95,value = 0.90 , step= 0.01 )
+                min_value = 0.75, max_value = 0.99,value = 0.90 , step= 0.01 )
   
   ## Outliers
   outliers_df, outlier_summary , recent_outliers = detect_outliers(data.copy() , selected_col, upper)  # Make a copy to avoid modifying the original data
