@@ -3,3 +3,5 @@ streamlit
 plotly
 adtk
 openpyxl
+xlsxwriter
+
