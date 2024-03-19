@@ -174,7 +174,10 @@ if uploaded_file is not None:
   def filter_missing_values(data):
 
   # Filter rows with missing values
+    data['year']  = data.index.year
+    data = data[data['year'] == 2024]
     filtered_df = data[data.isna().any(axis=1)]
+    filtered_df = filtered_df.drop('year', axis = 1)
 
     return filtered_df
   
@@ -184,7 +187,7 @@ if uploaded_file is not None:
 
   # Calculations for display
   total_records = data.count().sum()  # Count across all columns
-  missing_records = filtered_df_missing.count().sum()
+  missing_records = filtered_df_missing.isnull().sum().sum() 
   missing_percentage = (missing_records / total_records) * 100
   
   st.write("The records with missing values are ", missing_records, " of the ", total_records, 
