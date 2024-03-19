@@ -7,13 +7,12 @@ import base64
 from io import BytesIO
 import xlsxwriter
 
-
 mfl = pd.read_excel('mfl.xlsx')
-
+ 
 
 ## Function 
 @st.cache_data
-def detect_outliers(data, column_name):
+def detect_outliers(data, column_name, upper):
     data = data[[column_name, 'organisationunitname']].copy()
 
     # Placeholder for the results
@@ -27,7 +26,7 @@ def detect_outliers(data, column_name):
         try:
             data_test = sample_fac_data.drop('organisationunitname', axis=1)
             data_test = validate_series(data_test)
-            quantile_ad = QuantileAD(high=0.999999999, low=0.0000001)
+            quantile_ad = QuantileAD(high = upper , low= 0.0001)
             anomaly_scores = quantile_ad.fit_detect(data_test)
             anomalies = pd.DataFrame(index=period_names)
             anomalies['organisationunitname'] = unit
@@ -41,13 +40,15 @@ def detect_outliers(data, column_name):
             continue
 
     all_outliers = pd.concat(outlier_results, ignore_index=False)
-
+    recent_outliers =  all_outliers[all_outliers['outlier'] == True]
+    recent_outliers['year']  = recent_outliers.index.year
+    recent_outliers = recent_outliers[recent_outliers['year'] == 2024]
     # Aggregate outlier counts and standard deviation per facility
-    outlier_summary = all_outliers.groupby('organisationunitname')['outlier'].agg(['sum']).reset_index()
+    outlier_summary = recent_outliers.groupby('organisationunitname')['outlier'].agg(['sum']).reset_index()
     outlier_summary.columns = ['Facility', 'Outlier Count']
     outlier_summary.sort_values('Outlier Count', ascending=False, inplace=True)
 
-    return all_outliers, outlier_summary
+    return all_outliers, outlier_summary,recent_outliers
 
 
 def validate_series(data_test):
@@ -191,8 +192,12 @@ if uploaded_file is not None:
   
   selected_col = st.selectbox("Select a Data element" , options=columns, index=last_col_index) 
 
+  with st.expander("Change the Upper Threshold for Outlier Detection"):
+      upper = st.slider('Select Upper Cut off ( Default 90th Quantile)',
+                min_value = 0.75, max_value = 0.95,value = 0.90 , step= 0.01 )
+  
   ## Outliers
-  outliers_df, outlier_summary = detect_outliers(data.copy() , selected_col)  # Make a copy to avoid modifying the original data
+  outliers_df, outlier_summary , recent_outliers = detect_outliers(data.copy() , selected_col, upper)  # Make a copy to avoid modifying the original data
   data = outliers_df.copy()
   data.index = pd.to_datetime(data.index)
 
@@ -210,10 +215,13 @@ if uploaded_file is not None:
 
   outlier_counts = pd.merge(outlier_summary,mfl , left_on= "Facility", right_on='facility' , how= 'outer')
   outlier_counts = (outlier_counts.drop('facility' , axis = 1)).dropna() 
+  
+  
+  
   st.subheader("Possible Outlier Counts by Facility")
+      
     # Column layout setup
   cols = st.columns(3)  # Create three columns
-
 
   # Metrics in columns
   with cols[0]:
@@ -229,7 +237,7 @@ if uploaded_file is not None:
   # Display summary table
   st.subheader("Possible Outliers  Analysis")
   st.dataframe(outlier_summary, use_container_width= True)
-
+  st.info("Only possible outliers in the current year are displayed")
   # Display the metrics
 
   # Download CSV section
@@ -237,9 +245,9 @@ if uploaded_file is not None:
 
   download_format = st.radio("Choose download format:", ['CSV', 'Excel'], index=0)
 
-  if outliers_df.shape[0] > 0:  # Check if there are outliers to download
+  if recent_outliers.shape[0] > 0:  # Check if there are outliers to download
     if download_format == 'CSV':
-        csv = outliers_df.to_csv(index=True)
+        csv = recent_outliers.to_csv(index=True)
         b64 = base64.b64encode(csv.encode()).decode()
         href = f'<a href="data:file/csv;base64,{b64}" download="outliers.csv">Download as CSV</a>'
 
@@ -251,7 +259,7 @@ if uploaded_file is not None:
             processed_data = output.getvalue()
             return processed_data
 
-        df_xlsx = to_excel(outliers_df)
+        df_xlsx = to_excel(recent_outliers)
         b64 = base64.b64encode(df_xlsx).decode()
         href = f'<a href="data:application/octet-stream;base64,{b64}" download="outliers.xlsx">Download as Excel</a>'
     st.markdown(href, unsafe_allow_html=True)
@@ -259,9 +267,9 @@ if uploaded_file is not None:
       st.warning("No outliers found to download.")
 
       
-  st.subheader("Explore the Data")
+  st.subheader("Explore the Data for the Flagged Facilities for 2024")
     # Dropdown to select facility
-  facilities_with_outliers = data['organisationunitname'].unique()
+  facilities_with_outliers = recent_outliers['organisationunitname'].unique()
   selected_facility = st.selectbox('Select a Facility', facilities_with_outliers)
 
   # Filter data based on selection
