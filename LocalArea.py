@@ -165,13 +165,14 @@ if uploaded_file is not None:
             data = pd.read_csv(uploaded_file, index_col='periodname', parse_dates=True)
 
             columns_to_delete = ['periodid','periodcode','perioddescription','organisationunitid','organisationunitcode','organisationunitdescription','test']
+            data = delete_columns(data, columns_to_delete)
             
             if data.index.str.contains('W').any():
                  data.index = data.index.map(convert_week_period_to_date)
                  data.index = pd.to_datetime(data.index)
 
             # Apply column deletion
-            data = delete_columns(data, columns_to_delete)
+            
 
             st.success("Data uploaded successfully!")
             st.write('Preview of the Uploaded Data')
