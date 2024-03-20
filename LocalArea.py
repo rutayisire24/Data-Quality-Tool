@@ -166,19 +166,23 @@ if uploaded_file is not None:
 
             columns_to_delete = ['periodid','periodcode','perioddescription','organisationunitid','organisationunitcode','organisationunitdescription','test']
             data = delete_columns(data, columns_to_delete)
-            
-            if data.index.str.contains('W').any():
-                 data.index = data.index.map(convert_week_period_to_date)
-                 data.index = pd.to_datetime(data.index)
+
+            if data.index.dtype == 'object':
+                try:
+                    # Check if any index contains 'W', indicative of a week-based format
+                    if data.index.str.contains('W').any():
+                        # Map each index value through the conversion function and then to datetime
+                        data.index = data.index.map(convert_week_period_to_date)
+                    data.index = pd.to_datetime(data.index)
+                except ValueError:
+                    st.error("Error: Index column contains values that cannot be converted to dates.")
+                    # Handle the error appropriately, perhaps by not proceeding further
 
             # Apply column deletion
-            
 
             st.success("Data uploaded successfully!")
             st.write('Preview of the Uploaded Data')
             st.dataframe(data.head(),use_container_width=True)
-
-            # ... (The rest of your app code, using the 'data' variable)
 
         except Exception as e:
             st.error(f"Error uploading CSV file: {e}") 
