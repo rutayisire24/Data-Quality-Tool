@@ -171,9 +171,14 @@ def parse_index(data):
         # Handle quarter format
         data.index = data.index.map(convert_quarter_period_to_date)
     else:
-        # Assume format is yyyymm
-        data.index = pd.to_datetime(data.index, format='%B %Y')
-    data.index = pd.to_datetime(data.index)
+        for fmt in ['%B %Y', '%b-%y']:
+            try:
+                data.index = pd.to_datetime(data.index, format=fmt)
+                break
+            except ValueError:
+                pass 
+        else:
+            raise ValueError ("Could not parse date format in index. Supported formats: %B %Y, %b %Y")
     return data
 
 # Section for the download link
