@@ -7,6 +7,7 @@ import base64
 from io import BytesIO
 import xlsxwriter
 from datetime import datetime, timedelta
+import numpy as np 
 
 
 mfl = pd.read_excel('mfl.xlsx')
@@ -152,6 +153,28 @@ def get_file_download_link(file_path):
 def drop_all_false_rows(df):  
     return df[df.any(axis=1)]
 
+def cconvert_week_period_to_date(period):
+    year_week = period.split('W')
+    return f"{year_week[0]}-W{int(year_week[1])}-1"
+
+def convert_quarter_period_to_date(period):
+    year_quarter = period.split('Q')
+    quarter_start_month = (int(year_quarter[1]) - 1) * 3 + 1
+    return f"{year_quarter[0]}-{quarter_start_month:02d}-01"
+
+def parse_index(data):
+    if isinstance(data.index, pd.Index) and data.index.str.contains('W').any():
+        # Handle week format
+        data.index = data.index.map(convert_week_period_to_date)
+    elif isinstance(data.index, pd.Index) and data.index.str.contains('Q').any():
+        # Handle quarter format
+        data.index = data.index.map(convert_quarter_period_to_date)
+    else:
+        # Assume format is yyyymm
+        data.index = pd.to_datetime(data.index, format='%Y%m')
+    data.index = pd.to_datetime(data.index)
+    return data
+
 # Section for the download link
 file_path = "Test_data.csv"  
 st.markdown(get_file_download_link(file_path), unsafe_allow_html=True)
@@ -167,22 +190,14 @@ if uploaded_file is not None:
             columns_to_delete = ['periodid','periodcode','perioddescription','organisationunitid','organisationunitcode','organisationunitdescription','test']
             data = delete_columns(data, columns_to_delete)
 
-            if data.index.dtype == 'object':
-                try:
-                    # Check if any index contains 'W', indicative of a week-based format
-                    if data.index.str.contains('W').any():
-                        # Map each index value through the conversion function and then to datetime
-                        data.index = data.index.map(convert_week_period_to_date)
-                    data.index = pd.to_datetime(data.index)
-                except ValueError:
-                    st.error("Error: Index column contains values that cannot be converted to dates.")
-                    # Handle the error appropriately, perhaps by not proceeding further
-
+            data = parse_index(data)
             # Apply column deletion
 
             st.success("Data uploaded successfully!")
             st.write('Preview of the Uploaded Data')
             st.dataframe(data.head(),use_container_width=True)
+
+            # ... (The rest of your app code, using the 'data' variable)
 
         except Exception as e:
             st.error(f"Error uploading CSV file: {e}") 
@@ -236,13 +251,11 @@ if uploaded_file is not None:
     st.markdown(href, unsafe_allow_html=True)
   
 
-
-
   selected_col = st.selectbox("Select a Data element" , options=columns, index=last_col_index) 
 
   with st.expander("Change the Upper Threshold for Outlier Detection"):
       upper = st.slider('Select Upper Cut off ( Default 90th Quantile)',
-                min_value = 0.75, max_value = 0.99,value = 0.90 , step= 0.0001 )
+                min_value = 0.75, max_value = 0.99,value = 0.97 , step= 0.0001 )
   
   ## Outliers
   outliers_df, outlier_summary , recent_outliers = detect_outliers(data.copy() , selected_col, upper)  # Make a copy to avoid modifying the original data
