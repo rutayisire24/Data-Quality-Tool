@@ -163,6 +163,7 @@ def convert_quarter_period_to_date(period):
     return f"{year_quarter[0]}-{quarter_start_month:02d}-01"
 
 def parse_index(data):
+
     if isinstance(data.index, pd.Index) and data.index.str.contains('W').any():
         # Handle week format
         data.index = data.index.map(convert_week_period_to_date)
@@ -171,21 +172,21 @@ def parse_index(data):
         data.index = data.index.map(convert_quarter_period_to_date)
     else:
         # Assume format is yyyymm
-        data.index = pd.to_datetime(data.index, format='%Y%m')
+        data.index = pd.to_datetime(data.index, format='%B %Y')
     data.index = pd.to_datetime(data.index)
     return data
 
 # Section for the download link
 file_path = "Test_data.csv"  
 st.markdown(get_file_download_link(file_path), unsafe_allow_html=True)
-# Selector for which column to analyze
+# Selector for which column to analyze 
 st.subheader("Upload Data to be Accessed")
 uploaded_file = st.file_uploader("Choose a CSV file ( weekly , Monthly or Quarterly)", type="csv")
 
 if uploaded_file is not None:
     with st.spinner("Processing data..."):
         try:
-            data = pd.read_csv(uploaded_file, index_col='periodname', parse_dates=True)
+            data = pd.read_csv(uploaded_file, index_col='periodname', parse_dates=False)
 
             columns_to_delete = ['periodid','periodcode','perioddescription','organisationunitid','organisationunitcode','organisationunitdescription','test']
             data = delete_columns(data, columns_to_delete)
