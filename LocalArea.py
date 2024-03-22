@@ -9,6 +9,7 @@ import xlsxwriter
 from datetime import datetime, timedelta
 import numpy as np 
 
+st.set_page_config(layout= "wide", page_title="HMIS Data Quality Tool", page_icon= 'logo.png')
 
 mfl = pd.read_excel('mfl.xlsx')
  
@@ -53,7 +54,22 @@ def detect_outliers(data, column_name, upper):
 
     return all_outliers, outlier_summary,recent_outliers
 
+def calculate_outlier_magnitude(row, column_name, data):
+    """Finds the nearest non-outliers before and after, then determines the maximum difference."""
+    if not row['outlier']:
+        return 0
 
+    data_subset = data[column_name]
+    index = row.name
+
+    nearest_below = data_subset[data_subset.index < index][~data_subset.index.isin(data_subset[data_subset['outlier']].index)].idxmax()
+    nearest_above = data_subset[data_subset.index > index][~data_subset.index.isin(data_subset[data_subset['outlier']].index)].idxmin()
+
+    diff_below = abs(row[column_name] - data_subset.loc[nearest_below]) if nearest_below else np.inf
+    diff_above = abs(row[column_name] - data_subset.loc[nearest_above]) if nearest_above else np.inf
+
+    return max(diff_below, diff_above)
+    
 def validate_series(data_test):
     """Validates the data and handles missing values."""
     data_test = data_test.fillna(data_test.median())  
@@ -86,9 +102,9 @@ def convert_week_period_to_date(periodname):
 # Streamlit app layout
 #st.title('HMIS - Data Quality App')
 # Color palette example
-primaryColor = "#336699"  # Blue
-secondaryColor = "#E0E8EF"  # Light gray
-accentColor = "#99C2FF"  # Light blue
+primaryColor = "#004777"  # Blue
+secondaryColor = "#EAF2F8"  # Light gray
+accentColor = "#2E86C1"  # Light blue
 
 map_logo_path = 'logo.png'
 st.image(map_logo_path, width=100)
@@ -127,7 +143,7 @@ with st.expander("How to Use This App"):
     **Purpose:** This app helps you identify potential outliers and Missing Values  in HMIS data based on statistical analysis. 
 
     **Steps:**
-    1. **Upload CSV File:** Click the "Choose a CSV file" button and select the file. Your data should have a 'periodname' column (as dates) and a 'organisationunitname' column or 
+    1. **Upload CSV File downloaded from DHIS2:** Click the "Choose a CSV file" button and select the file. Your data should have a 'periodname' column (as dates) and a 'organisationunitname' column or 
              you can use the Test data in the link.
     2. **Select Data Element:** Choose the column you want to analyze from the dropdown.
     3. **Review Results:** The app will process your data and generate:
@@ -284,7 +300,6 @@ if uploaded_file is not None:
   outlier_counts = (outlier_counts.drop('facility' , axis = 1)).dropna() 
   
   
-  
   st.subheader("Possible Outlier Counts by Facility")
       
     # Column layout setup
@@ -310,7 +325,7 @@ if uploaded_file is not None:
   # Download CSV section
   st.subheader("Download Results")
 
-  download_format = st.radio("Choose download format:", ['CSV', 'Excel'], index=0)
+  download_format = st.radio("Choose download format:", ['CSV', 'Excel'], index=0, horizontal= True)
 
   if recent_outliers.shape[0] > 0:  # Check if there are outliers to download
     if download_format == 'CSV':
