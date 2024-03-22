@@ -1,0 +1,21 @@
+/* Inside the <style> tag you created earlier */
+body {  /* Style the entire app background */
+  background-color: #EAF2F8; 
+}
+.app-title {  /*  Class to style the main title */
+  font-size: 48px;
+  font-weight: bold;
+  color: #004777;  
+  text-align: center;
+}
+.section-header {  /*  Style section headers */
+  font-size: 28px;
+  font-weight: bold;
+  color: #004777;  
+  padding-bottom: 10px;
+}
+.metric-value {
+  font-size: 24px;
+  font-weight: bold;
+}
+/* Add button styles here as needed */

@@ -75,6 +75,17 @@ def validate_series(data_test):
     data_test = data_test.fillna(data_test.median())  
     return data_test
 
+def filter_data_by_condition(data, column1, column2, condition):
+    """Filters data based on a comparison condition."""
+    if condition == 'lower':
+        return data[data[column1] > data[column2]]
+    elif condition == 'higher':
+        return data[data[column1] < data[column2]]
+    elif condition == 'equal':
+        return data[data[column1] == data[column2]]
+    else:
+        return pd.DataFrame() 
+
 def delete_columns(data, columns_to_delete):
     """Deletes specified columns from a DataFrame if they exist."""
     for col in columns_to_delete:
@@ -202,13 +213,13 @@ file_path = "Test_data.csv"
 st.markdown(get_file_download_link(file_path), unsafe_allow_html=True)
 # Selector for which column to analyze 
 st.subheader("Upload Data to be Accessed")
-uploaded_file = st.file_uploader("Choose a CSV file ( weekly , Monthly or Quarterly)", type="csv")
+uploaded_file = st.file_uploader("Choose a CSV file ( weekly , Monthly ,  Quarterly, Annualy)", type="csv")
 
 if uploaded_file is not None:
     with st.spinner("Processing data..."):
         try:
             data = pd.read_csv(uploaded_file, index_col='periodname', parse_dates=False)
-
+            original = data
             columns_to_delete = ['periodid','periodcode','perioddescription','organisationunitid','organisationunitcode','organisationunitdescription','test']
             data = delete_columns(data, columns_to_delete)
 
@@ -396,7 +407,24 @@ if uploaded_file is not None:
 
    # Short explanation about quantiles
   st.write("**Quantiles:** The yellow and cyan lines represent the 10th and 99th quantiles respectively, helping you see how the data is distributed around the central values.") 
+  
+  st.header("Logical Checks")
+   # User selections
+  column1 = st.selectbox("Select the first element", columns)
+  column2 = st.selectbox("Select the second element", columns)
+  relationship = st.selectbox(f'Choose the Relationship between  {column1} and {column2}', ['higher', 'lower', 'equal'])
+  
+  # Filter and display outliers based on user selections
+  filtered_data = filter_data_by_condition(original, column1, column2, relationship)
+  filtered_data['year']  = filtered_data.index.year
+  filtered_data = filtered_data[filtered_data['year'] == 2024]
+  filtered_data = filtered_data[['organisationunitname',column1, column2]]
 
+  if filtered_data.empty:
+        st.warning("No records found that violate the specified relationship.")
+  else:
+        st.subheader("Records Violating the Expected Relationship n 2024")
+        st.dataframe(filtered_data, use_container_width=True)
   with st.expander("Contact the Biostatician"):
         biostat = pd.read_excel('Biostats contacts.xlsx')
         biostat = biostat.iloc[:, :5]
