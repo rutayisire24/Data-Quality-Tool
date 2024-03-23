@@ -154,7 +154,7 @@ with st.expander("How to Use This App"):
     **Purpose:** This app helps you identify potential outliers and Missing Values  in HMIS data based on statistical analysis. 
 
     **Steps:**
-    1. **Upload CSV File downloaded from DHIS2:** Click the "Choose a CSV file" button and select the file. Your data should have a 'periodname' column (as dates) and a 'organisationunitname' column or 
+    1. **Upload File downloaded from DHIS2:** Click the "Choose a CSV file" button and select the file. Your data should have a 'periodname' column (as dates) and a 'organisationunitname' column or 
              you can use the Test data in the link.
     2. **Select Data Element:** Choose the column you want to analyze from the dropdown.
     3. **Review Results:** The app will process your data and generate:
@@ -213,17 +213,26 @@ file_path = "Test_data.csv"
 st.markdown(get_file_download_link(file_path), unsafe_allow_html=True)
 # Selector for which column to analyze 
 st.subheader("Upload Data to be Accessed")
-uploaded_file = st.file_uploader("Choose a CSV file ( weekly , Monthly ,  Quarterly, Annualy)", type="csv")
+uploaded_file = st.file_uploader("Choose file ( weekly , Monthly ,  Quarterly, Annualy)", type=['csv', 'xls', 'xlsx'])
 
 if uploaded_file is not None:
     with st.spinner("Processing data..."):
         try:
-            data = pd.read_csv(uploaded_file, index_col='periodname', parse_dates=False)
-            original = data
-            columns_to_delete = ['periodid','periodcode','perioddescription','organisationunitid','organisationunitcode','organisationunitdescription','test']
-            data = delete_columns(data, columns_to_delete)
+            file_extension = uploaded_file.name.split('.')[-1].lower()
+            
+            if file_extension == 'csv':
+                data = pd.read_csv(uploaded_file, index_col='periodname', parse_dates=False)
+                columns_to_delete = ['periodid','periodcode','perioddescription','organisationunitid','organisationunitcode','organisationunitdescription','test']
+                data = delete_columns(data, columns_to_delete)
+            elif file_extension in  ["xls",'xlsx']:
+                data = pd.read_excel(uploaded_file, index_col='periodname',skiprows=1, parse_dates=False, engine='openpyxl' if file_extension == 'xlsx' else 'xlrd')
+            else:
+                st.error("Unsupported file format. Please upload a CSV or Excel file.")
+                raise ValueError
 
             data = parse_index(data)
+            original = data
+
             # Apply column deletion
 
             st.success("Data uploaded successfully!")
@@ -233,7 +242,7 @@ if uploaded_file is not None:
             # ... (The rest of your app code, using the 'data' variable)
 
         except Exception as e:
-            st.error(f"Error uploading CSV file: {e}") 
+            st.error(f"Error uploading file: {e}") 
 
 ## Select the column to Display 
 if uploaded_file is not None:
