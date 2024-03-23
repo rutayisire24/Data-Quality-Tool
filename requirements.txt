@@ -5,4 +5,6 @@ adtk
 openpyxl
 xlsxwriter
 datetime
+numpy
+xlrd
 
