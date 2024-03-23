@@ -22,6 +22,7 @@ streamlit run app.py
 ```
 
 Access the App: The app will open in your web browser, typically at http://localhost:8501.
+Otherwise this Tool currently hosted at https://rutayisire24-data-quality-tool-localarea-u4ok6l.streamlit.app
 
 **Data Requirements**
 
