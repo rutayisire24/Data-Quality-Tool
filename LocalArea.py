@@ -344,9 +344,9 @@ if uploaded_file is not None:
   # Display the metrics
 
   # Download CSV section
-  st.subheader("Download Results")
+  st.subheader("Download the Possible Outliers")
 
-  download_format = st.radio("Choose download format:", ['CSV', 'Excel'], index=0, horizontal= True)
+  download_format = st.radio(" ", ['CSV', 'Excel'], index=0, horizontal= True)
 
   if recent_outliers.shape[0] > 0:  # Check if there are outliers to download
     if download_format == 'CSV':
@@ -420,8 +420,8 @@ if uploaded_file is not None:
   
   st.header("Logical Checks")
    # User selections
-  column1 = st.selectbox("Select the first element", columns)
-  column2 = st.selectbox("Select the second element", columns)
+  column1 = st.selectbox("Select the first element", columns, last_col_index)
+  column2 = st.selectbox("Select the second element", columns, last_col_index - 1)
   relationship = st.selectbox(f'Choose the Relationship between  {column1} and {column2}', ['higher', 'lower', 'equal'])
   
   # Filter and display outliers based on user selections
@@ -435,6 +435,38 @@ if uploaded_file is not None:
   else:
         st.subheader("Records Violating the Expected Relationship n 2024")
         st.dataframe(filtered_data, use_container_width=True)
+    # Download CSV section
+
+  if filtered_data.shape[0] > 0:  # Check if there are outliers to download
+    if download_format == 'CSV':
+        csv = filtered_data.to_csv(index=True)
+        b64 = base64.b64encode(csv.encode()).decode()
+        href = f'<a href="data:file/csv;base64,{b64}" download="Rule_violaters.csv">Download as CSV</a>'
+
+    elif download_format == 'Excel':
+        def to_excel(df):
+            output = BytesIO()
+            with pd.ExcelWriter(output, engine='xlsxwriter') as writer:
+                df.to_excel(writer, index=True, sheet_name='Sheet1')
+            processed_data = output.getvalue()
+            return processed_data
+
+        df_xlsx = to_excel(filtered_data)
+        b64 = base64.b64encode(df_xlsx).decode()
+        href = f'<a href="data:application/octet-stream;base64,{b64}" download="rule_violators.xlsx">Download as Excel</a>'
+    
+    with st.expander('Download the Results'):
+        download_format = st.radio(" ", ['CSV', 'Excel'], index=0, horizontal= True, key= 'rules')
+
+        st.markdown(href, unsafe_allow_html=True)
+
+  else:
+      st.warning("No Records to Download.")
+
+ 
+  
+  
+  
   with st.expander("Contact the Biostatician"):
         biostat = pd.read_excel('Biostats contacts.xlsx')
         biostat = biostat.iloc[:, :5]
