@@ -151,17 +151,18 @@ st.markdown("<h1 class='app-title'>HMIS - Data Quality App</h1>", unsafe_allow_h
 
 with st.expander("How to Use This App"):
     st.write("""
-    **Purpose:** This app helps you identify potential outliers and Missing Values  in HMIS data based on statistical analysis. 
+    **Purpose:** This app helps to ease Data Quality Checks in HMIS data based on statistical analysis. 
 
     **Steps:**
-    1. **Upload File downloaded from DHIS2:** Click the "Choose a CSV file" button and select the file. Your data should have a 'periodname' column (as dates) and a 'organisationunitname' column or 
+    1. **Upload File downloaded from DHIS2:** Click the "Choose file" button and select the file. Your data should have a 'periodname' column (as dates) and a 'organisationunitname' column or 
              you can use the Test data in the link.
-    2. **Select Data Element:** Choose the column you want to analyze from the dropdown.
+    2. **Select Data Element:** Choose the column/element you want to analyze from the dropdown.
     3. **Review Results:** The app will process your data and generate:
        * A line chart visualizing the data points and highlighting potential outliers (red markers).
        * A count of possible outliers for the selected facility.
     4. **Filter by Facility:** Use the facility dropdown to focus on results for a specific facility.
     5. **Download Outliers:**  Click the "Download as CSV" link to save identified outliers.
+    6. **LogicalTest:** Set relationships between selected elements and cross check which elements violate the Rule
     """)
 def filter_missing_values(data):
 
