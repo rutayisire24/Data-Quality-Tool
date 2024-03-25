@@ -420,8 +420,10 @@ if uploaded_file is not None:
   
   st.header("Logical Checks")
    # User selections
+  
+
   column1 = st.selectbox("Select the first element", columns, last_col_index)
-  column2 = st.selectbox("Select the second element", columns, last_col_index - 1)
+  column2 = st.selectbox("Select the second element", columns, last_col_index - 2)
   relationship = st.selectbox(f'Choose the Relationship between  {column1} and {column2}', ['higher', 'lower', 'equal'])
   
   # Filter and display outliers based on user selections
